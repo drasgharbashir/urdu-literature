@@ -147,3 +147,14 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Classical Urdu Library
+library/books/
+tools/fonts/
+site/dist/
+site/.astro/
+site/public/downloads/
+*.pdf
+*.epub
+*.jp2
+__pycache__/

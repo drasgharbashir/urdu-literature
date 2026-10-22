@@ -1,0 +1,24 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getBooks, render, plainText, url } from '../../../lib/content.js';
+export function getStaticPaths() {
+  return getBooks().flatMap((b) => b.pages.map((p, i) => ({
+    params: { slug: b.slug, page: p.num },
+    props: { book: b, page: p, prev: b.pages[i - 1], next: b.pages[i + 1] },
+  })));
+}
+const { book, page, prev, next } = Astro.props;
+const label = page.titleEn || `Page ${Number(page.num)}`;
+const desc = plainText(page.en).slice(0, 155) || `${book.title_en}, page ${Number(page.num)}`;
+---
+<Base title={`${label} · ${book.title_en}`} description={desc} type="article" wide>
+  <p><a href={url(`books/${book.slug}/`)}>← {book.title_en}</a> <span class="muted">· page {Number(page.num)} of {book.pages.length}</span></p>
+  <div class="reader">
+    <article class="col ur" lang="ur" dir="rtl" set:html={render(page.ur) || '<p>—</p>'} />
+    <article class="col en" lang="en" set:html={render(page.en) || '<p class="muted">Translation in progress.</p>'} />
+  </div>
+  <nav class="pager" aria-label="Pages">
+    {prev ? <a class="btn" href={url(`books/${book.slug}/${prev.num}/`)}>← Previous</a> : <span />}
+    {next ? <a class="btn" href={url(`books/${book.slug}/${next.num}/`)}>Next →</a> : <span />}
+  </nav>
+</Base>

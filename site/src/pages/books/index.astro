@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getBooks, url } from '../../lib/content.js';
+const books = getBooks();
+---
+<Base title="Books" description="All public-domain classical Urdu books in the library, each with a side-by-side English translation and PDF and EPUB downloads.">
+  <h1>Books</h1>
+  {books.length === 0 ? <p class="muted">No books are published yet.</p> : (
+    <ul class="cards">
+      {books.map((b) => (
+        <li class="card">
+          <a href={url(`books/${b.slug}/`)}>
+            <span class="title-ur" lang="ur" dir="rtl">{b.title_ur}</span>
+            <h3>{b.title_en}</h3>
+          </a>
+          <p class="muted">{b.author}{b.edition_year ? ` · ${b.edition_year} edition` : ''}</p>
+        </li>
+      ))}
+    </ul>
+  )}
+</Base>

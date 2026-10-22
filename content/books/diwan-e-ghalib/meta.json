@@ -1,0 +1,23 @@
+{
+  "title_ur": "دیوانِ غالب",
+  "title_en": "Diwan-e-Ghalib",
+  "author": "Mirza Ghalib",
+  "author_ur": "مرزا اسد اللہ خان غالب",
+  "genre": "Poetry",
+  "status": "found",
+  "first_published": "1841, Delhi",
+  "us_status": "public_domain",
+  "source_url": "https://archive.org/details/in.ernet.dli.2015.296279",
+  "source_identifier": "in.ernet.dli.2015.296279",
+  "edition": "To be confirmed from the scan's title page (Digital Library of India scan; archive.org lists the date as 1841)",
+  "edition_year": "",
+  "page_count": 112,
+  "description": "Ghalib's own selection of his Urdu ghazals, qasidas, qit'as and ruba'is, the most celebrated collection of Urdu poetry.",
+  "translation_note": "Faithful English translation made for this library. Each couplet (sher) is rendered as two lines; accuracy comes before rhyme.",
+  "transliteration": {
+    "Ghalib": "Ghalib",
+    "Asad": "Asad",
+    "Dilli": "Delhi",
+    "Lakhnau": "Lucknow"
+  }
+}
