@@ -1,0 +1,121 @@
+{
+  "slug": "mirat-ul-uroos",
+  "title_en": "Mirat-ul-Uroos (The Bride's Mirror)",
+  "title_ur": "مراۃ العروس",
+  "author_en": "Deputy Nazir Ahmad",
+  "author_ur": "ڈپٹی نذیر احمد",
+  "translator": null,
+  "subject_en": "Women's education and household management",
+  "subject_ur": "عورتوں کی تعلیم اور خانہ داری",
+  "genre": "novel",
+  "original_language": "ur",
+  "description_en": "Nazir Ahmad's 1869 novel of two Delhi sisters: Akbari, spoilt and quarrelsome, whose household falls into ruin, and Asghari, educated and sensible, who sets her husband's family in order, runs a school for girls, and arranges a brilliant match for her sister-in-law. Often called the first Urdu novel.",
+  "description_ur": "ڈپٹی نذیر احمد کا ۱۸۶۹ء کا ناول، دلی کی دو بہنوں کی کہانی: بدمزاج اکبری جس کا گھر بگڑ جاتا ہے، اور سلیقہ مند، پڑھی لکھی اصغری جو سسرال کا انتظام سنوارتی ہے، لڑکیوں کا مکتب چلاتی ہے اور اپنی نند کا بیاہ اونچے گھر میں کراتی ہے۔ اسے اردو کا پہلا ناول کہا جاتا ہے۔",
+  "access": "premium",
+  "is_published": true,
+  "is_featured": false,
+  "free_chapters": 2,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "Preface and Introduction",
+      "title_ur": "دیباچہ اور تمہید"
+    },
+    {
+      "position": 2,
+      "title_en": "Akbari, the Ill-Tempered Bride",
+      "title_ur": "مزاج دار بہو"
+    },
+    {
+      "position": 3,
+      "title_en": "Eid at the In-Laws' House",
+      "title_ur": "سسرال میں عید"
+    },
+    {
+      "position": 4,
+      "title_en": "Asghari's Counsel",
+      "title_ur": "اصغری کی صلاح"
+    },
+    {
+      "position": 5,
+      "title_en": "The Hajjan's Tricks",
+      "title_ur": "حجن کی چالاکیاں"
+    },
+    {
+      "position": 6,
+      "title_en": "A Father's Letter",
+      "title_ur": "باپ کا خط"
+    },
+    {
+      "position": 7,
+      "title_en": "The New Bride",
+      "title_ur": "نئی دلہن"
+    },
+    {
+      "position": 8,
+      "title_en": "Mama Azmat",
+      "title_ur": "ماما عظمت"
+    },
+    {
+      "position": 9,
+      "title_en": "A Letter to Her Brother",
+      "title_ur": "بھائی کے نام خط"
+    },
+    {
+      "position": 10,
+      "title_en": "Azmat's Accounts",
+      "title_ur": "عظمت کا حساب"
+    },
+    {
+      "position": 11,
+      "title_en": "A House Run on Twenty Rupees",
+      "title_ur": "بیس روپے میں گھر کا انتظام"
+    },
+    {
+      "position": 12,
+      "title_en": "Muhammad Kamil and Husn-ara",
+      "title_ur": "محمد کامل اور حسن آرا"
+    },
+    {
+      "position": 13,
+      "title_en": "Asghari's School",
+      "title_ur": "اصغری کا مکتب"
+    },
+    {
+      "position": 14,
+      "title_en": "Lessons in the School",
+      "title_ur": "مکتب کی تعلیم"
+    },
+    {
+      "position": 15,
+      "title_en": "A Post in Sialkot",
+      "title_ur": "سیالکوٹ کی نوکری"
+    },
+    {
+      "position": 16,
+      "title_en": "Asghari Goes to Sialkot",
+      "title_ur": "اصغری سیالکوٹ میں"
+    },
+    {
+      "position": 17,
+      "title_en": "A Match for Mahmuda",
+      "title_ur": "محمودہ کی نسبت"
+    },
+    {
+      "position": 18,
+      "title_en": "Weddings and Their Expenses",
+      "title_ur": "شادی بیاہ کے خرچ"
+    },
+    {
+      "position": 19,
+      "title_en": "Mahmuda's Wedding",
+      "title_ur": "محمودہ کا بیاہ"
+    },
+    {
+      "position": 20,
+      "title_en": "A Letter of Consolation",
+      "title_ur": "تعزیت کا خط"
+    }
+  ],
+  "kdp_ready": false
+}

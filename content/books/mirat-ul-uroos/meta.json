@@ -1,0 +1,26 @@
+{
+  "title_ur": "مراۃ العروس",
+  "title_en": "Mirat-ul-Uroos (The Bride's Mirror)",
+  "author": "Deputy Nazir Ahmad",
+  "author_ur": "ڈپٹی نذیر احمد",
+  "genre": "Novel",
+  "status": "published",
+  "first_published": "1869, Delhi",
+  "us_status": "public_domain",
+  "source_url": "https://archive.org/details/McGillLibrary-122914-2109",
+  "source_identifier": "McGillLibrary-122914-2109",
+  "edition": "The Bride's Mirror; or, Mir-atu l-arus of Maulavi Nazir Ahmad, edited in Roman Urdu with notes and an English translation by G. E. Ward, London: Henry Frowde, 1899 (McGill University Library copy). Doubtful readings were checked against the Urdu lithograph printed at Delhi in 1912 (archive.org/details/in.ernet.dli.2015.409512, Digital Library of India). Only Nazir Ahmad's text is used; Ward's notes and translation are not.",
+  "edition_year": "1899",
+  "page_count": 240,
+  "description": "Nazir Ahmad's 1869 novel of two Delhi sisters: Akbari, spoilt and quarrelsome, whose household falls into ruin, and Asghari, educated and sensible, who sets her husband's family in order, runs a school for girls, and arranges a brilliant match for her sister-in-law. Often called the first Urdu novel.",
+  "translation_note": "Faithful English translation made for this library, paragraph by paragraph and line by line. The twenty reading sections follow the novel's thirty-one chapters, joining short ones. Verse and Persian quotations are translated, with the original in a translator's note.",
+  "transliteration": {
+    "Akbari": "Akbari (Mizajdar Bahu)",
+    "Asghari": "Asghari (Tamizdar Bahu)",
+    "Dilli": "Delhi",
+    "Lahor": "Lahore",
+    "Siyalkot": "Sialkot"
+  },
+  "transcription_note": "Ward's 1899 edition prints the Urdu in Roman letters. The Urdu text here was transcribed back into Urdu script from it, page by page, and doubtful words were checked against the page images of the 1912 Delhi lithograph. Spelling follows modern Urdu usage. Ward's own corrections to the text were not adopted.",
+  "cross_check_url": "https://archive.org/details/in.ernet.dli.2015.409512"
+}
