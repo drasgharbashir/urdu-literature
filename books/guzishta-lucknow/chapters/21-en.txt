@@ -2,7 +2,7 @@
 
 Making birds fight to create amusement and displaying feats of ingenuity had become a very common pastime of the idle men of Lucknow. They advanced so far in preparing and fighting pigeons and quails that now, in whatever city of India and wherever any noble has a taste for these things (and this wretched taste is often found among improvident men of wealth), masters are sent for from Lucknow alone, and the whole establishment of this department is under their management.
 
-## Parrots
+# Parrots
 
 The excessive taste for setting birds to fight began to produce novelties, and some enthusiasts turned their minds to the question of what other birds could be made to do the work done by pigeons. So a gentleman named Mir Muhammad Ali achieved marked success in making parrots do the work of pigeons.
 
@@ -10,7 +10,7 @@ The parrot is by nature a most faithless creature. Keep it and rear it all your 
 
 Having described these preparations of birds, we are compelled to say: would that the people of Lucknow had spent on preparing themselves and their own bodies the labour they spent on preparing birds; then the end that came would certainly never have come.
 
-## Kite-flying
+# Kite-flying
 
 The taste for flying kites exists to some extent all over India, and nowadays it is generally a most entertaining game of boys and young men. Seeing how widespread and universal it is, one would think it must be a very old thing in India, but it is not so. This art can hardly be said to be even a century old, and the centre of its advancement is Lucknow.
 

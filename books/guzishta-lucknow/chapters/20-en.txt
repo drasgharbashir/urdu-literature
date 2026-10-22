@@ -4,7 +4,7 @@ The fighting of wild beasts in Lucknow was confined to the sovereign and the nob
 
 But the fighting of birds was not like this. Rich and poor alike could indulge a taste for it, and every enthusiast could, with effort, prepare a cock or a quail fit for fighting. The birds that were set to fight in Lucknow with enthusiasm and interest are as follows: (1) cocks, (2) quails, (3) partridges, (4) *lava*s (bush quails), (5) *guldum*s (bulbuls), (6) *lal*s (red munias), (7) pigeons, (8) parrots. Each of these games needs to be described separately. Lucknow's pigeon-flying and quail-fighting are generally well known, and today's educated people, devoted to modern civilisation, often make fun of them. They know nothing at all of the degree of perfection to which these people had brought each of these pastimes and games, making each a regular art. But when they go to Europe and see the same kind of frivolous pastimes there too, they will at least be ashamed of the words they so often blurt out about these enthusiasts of their own country.
 
-## (1) Cock-fighting
+# (1) Cock-fighting
 
 Cocks of every kind and breed fight, but the cock kept specially for fighting is the *asil* (pure-bred) cock. And the truth is that there is no braver creature in the world than the *asil* cock. Even the lion does not truly have the bravery of the cock. He will die, but he will not turn away from a fight. The authorities here believe that the *asil* breed was brought from Arabia, and this seems likely too, for at the present time there are more and finer strains of *asil* in Hyderabad in the Deccan than anywhere else, and that is the one city in India where Arabs have settled and reside more than anywhere else. So the strains of cocks in India came by way of Iran. One of the famous cock-fighters of Lucknow used to relate that his cock had by chance lost a match. Broken-hearted, he went off to the land of Iraq, spent several months in worship at Najaf-e-Ashraf, and prayed day and night: "O Lord, for the sake of Your sinless Imams, grant me a cock that will lose to no one in a fight." One night he was given glad tidings in a dream: "Go into the wilderness." As soon as he woke in the morning he took the road to the hills and deserts, taking a hen with him. Suddenly a crowing came from a mountain gorge. He at once went near and let the hen loose; at the sound of her the cock came out, and he at once caught it by some trick and brought it back. Its breed was such that he never again had to be ashamed in the ring (*pali*).
 
@@ -20,7 +20,7 @@ This taste was at its height up to the time of Wajid Ali Shah. At Matiya Burj co
 
 These are the men who brought cock-fighting here to the highest degree of perfection. But I think the taste for cock-fighting is at present greater in Hyderabad in the Deccan. Many nobles, *jagirdar*s and *mansabdar*s there are fond of it, and they have matchless strains of cocks too, which they guard carefully.
 
-## (2) Quail-fighting
+# (2) Quail-fighting
 
 The taste for quail-fighting came to Lucknow from the Punjab. Some Kanchans of the Punjab, whose women follow the profession of selling their virtue, came to Lucknow in the time of Nawab Saadat Ali Khan and brought with them *ghagas* quails, which they set to fight. Some famous courtesans of the present day are descended from these people. There are two kinds of quail: one the *ghagas* and the other the *cheng*. In the Punjab there is only the *ghagas* quail. It is bigger, stronger and more powerful than the *cheng*. In Lucknow there are both *ghagas* and *cheng*. The *cheng* is smaller and more delicate than the *ghagas*, but tougher in fighting and very spirited, and its fighting is grander and more beautiful. In any case, it was in Lucknow that it was discovered that the *cheng* quail is better suited for fighting.
 
@@ -46,23 +46,23 @@ Hunting quails is also a matter of great interest to the people of Lucknow. Form
 
 It is said that in the cold season quails come out at night and fly along in the upper air. Hunting enthusiasts prepare loud-calling quails that keep calling all night long. Such quails are called *phandait* (decoys). A net is usually spread around some field of *arhar* (pigeon pea). Hearing the calls of the decoys, the quails begin to come down and drop from above, and in the course of the night many gather. As soon as it is morning they are beaten from every side and driven towards the net, and as soon as they are caught in it they are seized one by one and shut up in bags.
 
-## (3) Partridge-fighting
+# (3) Partridge-fighting
 
 This too is entertaining. The partridge fights by leaping up more than other birds, but apart from village people and the lower classes, nobles and gentlemen never had a taste for it. Partridges are prepared by tumbling (*lot*) and by making them run. To rouse their ardour and fury they are fed white ants. But this is no great game, nor was it adopted in cultivated society. It was and is, however, common among the lower classes of Lucknow.
 
-## (4) Lava-fighting
+# (4) Lava-fighting
 
 The *lava* is a small kind of partridge, smaller even than the quail. Instead of over grain, it fights over the *sada*, that is, the female. When it is to be made to fight, the female's cage is brought and set in front of it. People in the state of Rewa and such places were especially fond of it. In Lucknow too it was liked and taken up to some extent. The truth is that the *lava*'s fighting is more beautiful than the quail's. It opens its shoulders as it fights and grapples, and rises and falls opening out like a flower. Some nobles of Lucknow had taken a liking to it. At Matiya Burj, in the household of the late Wajid Ali Shah, there was a great master of *lava*-fighting who had prepared very fine pairs, and when he brought them before the King and made them fight, it was most enjoyable. *Lava*s too are prepared mostly by tumbling and hunger. *Lava*-fighting was the custom before quail-fighting, but in the end quail-fighting became so popular that the taste for the *lava* faded. It is also hunted in a curious way. Like the quail, it flies along in the upper air. People tie a pot on a thatch, like the one used for decoys. Over its mouth they stretch a membrane, and tying a thread to a little stick, they push the stick through the membrane into the pot and begin to draw the thread through their fingers. An uncouth humming sound begins to come from the membrane, which the *lava*s like so much that they come down out of their flight, and in the morning they are caught in the net just like quails.
 
-## (5) Guldum-fighting
+# (5) Guldum-fighting
 
 The common people call the *guldum* the *bulbul*, but this is a mistake. The *bulbul* is a songbird of Badakhshan and Persia, while this bird has a red patch (*gul*) under its tail (*dum*), because of which it was named *guldum*. Its fighting too is more common among villagers and bazaar people. Polite society never looked on it with interest, but its fighting is not without charm. They fight over grain, and in the fight both opponents fly up together and fall locked together.
 
-## (6) Lal-fighting
+# (6) Lal-fighting
 
 *Lal*s are only for keeping in cages, and not suited to fighting. But self-indulgent man has made even them fight to amuse himself for a while. First, it is hard to tame *lal*s to the point that they can be taken out of the cage and released without flying away. Second, they must also be in such high spirits that they are ready to fight another *lal*. So getting them to fight at all is difficult. But once they do fight, they fight hard, grappling and flying up, and keep on fighting for a long time. The fighting of *lal*s lasts longer than that of other small birds. The taste for *lal*-fighting was very slight among the people of Lucknow. Only one or two masters arose who fought them; otherwise the general inclination was against it, and those who liked it were the common people and the bazaar folk.
 
-## (7) Pigeon-flying
+# (7) Pigeon-flying
 
 Pigeons are among those tame creatures for which people in every country and every land, from ancient times to the present, have always had a taste to some degree. There are many kinds of pigeon, among which the flying ones are the *girahbaz* (tumblers) and the *gola*s; and of those kept purely for their beauty and fine colouring the best known are the *shirazi*, *guli*, *nasavari*, *gulve*, *laqqa* (fantail), *lotan* (ground tumbler), *chaupa-chandan* and so on. The *yahu* pigeons, because they coo day and night and keep repeating "*Ya Hu*" (O He, that is, God), were particularly liked by the devout, and many *faqir*s and Sufi elders were fond of them.
 
