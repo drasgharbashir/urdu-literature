@@ -46,3 +46,12 @@ The 1924 publisher's ads and press notes are omitted.
 - II.72: footnote word read as "کھٹراگ" (glossed انتظام); the reading is uncertain.
 - II.73: "ہے۔" supplied at the page end; "جدا ہلکان" read as printed.
 - Contemporary references (gas lighting in Calcutta, the telegraph, Roorkee) are given short [TN] notes.
+
+## Majlis 9 (II.79–106) notes
+- The text ends at II.106 with "تمام شد"; there are nine majalis in all.
+- II.83: footnoted word read as printed, "ہمٹ کر" (glossed اوپر کو زور لگا کر); compare "ہمکا" two lines later.
+- II.86: "کوئی جان پہچان نہ تھا" kept as printed.
+- II.93: "ایک تین نگینے" kept as printed ("some three emeralds").
+- II.95: the altered names are only partly legible; read "مجش", "جش", "اجش". The English explains the trick in a [TN].
+- II.104: "اس کی خدائی پر دیتے تھے" — a word seems to be missing in the print; kept as printed and flagged with a [TN].
+- Sayyid Abbas's long account (II.87–104) is one speech in double quotes; dialogue inside it uses single quotes.
