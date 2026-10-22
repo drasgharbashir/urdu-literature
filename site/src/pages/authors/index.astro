@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getAuthors, getBooks, url } from '../../lib/content.js';
+const books = getBooks();
+const authors = getAuthors();
+const eras = [...new Set(authors.map((a) => a.era))];
+---
+<Base title="Authors" description="Classical Urdu poets and prose writers who died in 1961 or earlier, from the Deccani period to the early twentieth century.">
+  <h1>Authors</h1>
+  {eras.map((era) => (
+    <section>
+      <h2>{era}</h2>
+      <ul class="cards">
+        {authors.filter((a) => a.era === era).map((a) => {
+          const n = books.filter((b) => b.authorSlug === a.slug).length;
+          return (
+            <li class="card">
+              <a href={url(`authors/${a.slug}/`)}>
+                <span class="title-ur" lang="ur" dir="rtl">{a.name_urdu}</span>
+                <h3>{a.name}</h3>
+              </a>
+              <p class="muted">Died {a.approx ? 'c. ' : ''}{a.died} · {a.genre}{n ? ` · ${n} book${n > 1 ? 's' : ''}` : ''}</p>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</Base>

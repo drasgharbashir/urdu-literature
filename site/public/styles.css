@@ -1,0 +1,74 @@
+:root {
+  --bg: #fbf7f0;
+  --surface: #ffffff;
+  --text: #2a211b;
+  --muted: #6b5d52;
+  --accent: #7a2e1f;
+  --line: #e6dccd;
+  --ur: 'Noto Nastaliq Urdu', 'Jameel Noori Nastaleeq', serif;
+  --en: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1b1714;
+    --surface: #24201c;
+    --text: #ece4d8;
+    --muted: #a99b8d;
+    --accent: #e09a7f;
+    --line: #3a332c;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--en); font-size: 1.0625rem; line-height: 1.65; }
+a { color: var(--accent); }
+.wrap { max-width: 980px; margin: 0 auto; padding: 0 16px; }
+main.wrap { padding-top: 2rem; padding-bottom: 3rem; min-height: 60vh; }
+main.wide { max-width: 1200px; }
+[lang="ur"] { font-family: var(--ur); line-height: 2.3; }
+.site-header { border-bottom: 1px solid var(--line); background: var(--surface); }
+.header-inner { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem 1.5rem; padding-top: .6rem; padding-bottom: .6rem; }
+.brand { display: flex; flex-direction: column; text-decoration: none; color: var(--text); }
+.brand-ur { font-family: var(--ur); font-size: 1.1rem; line-height: 1.9; }
+.brand-en { font-size: .85rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+nav { display: flex; gap: 1.1rem; flex-wrap: wrap; }
+nav a { text-decoration: none; color: var(--text); }
+nav a:hover { color: var(--accent); }
+.site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; padding: 1.5rem 0; }
+h1, h2, h3 { line-height: 1.25; font-weight: 600; }
+h1 { font-size: 2rem; margin: .2rem 0 1rem; }
+.muted { color: var(--muted); }
+.title-ur { font-family: var(--ur); font-size: 1.6rem; line-height: 2.2; display: block; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; padding: 0; list-style: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.2rem; }
+.card h3 { margin: 0 0 .3rem; font-size: 1.15rem; }
+.card a { text-decoration: none; }
+.meta-table { border-collapse: collapse; margin: 1rem 0 1.5rem; font-size: .95rem; }
+.meta-table th { text-align: left; font-weight: 600; padding: .3rem 1rem .3rem 0; vertical-align: top; color: var(--muted); }
+.meta-table td { padding: .3rem 0; }
+.downloads { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0 2rem; }
+.btn { display: inline-block; padding: .5rem 1rem; border: 1px solid var(--accent); border-radius: 6px; text-decoration: none; }
+.btn.primary { background: var(--accent); color: var(--bg); }
+.toc { padding: 0; list-style: none; columns: 2 280px; column-gap: 2rem; }
+.toc li { break-inside: avoid; padding: .3rem 0; border-bottom: 1px dotted var(--line); display: flex; justify-content: space-between; gap: 1rem; }
+.toc .toc-ur { font-family: var(--ur); line-height: 2; }
+.reader { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; align-items: start; }
+.reader .col { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1.2rem 1.6rem; }
+.reader .ur { font-size: 1.25rem; text-align: right; }
+.reader .ur p, .reader .en p { margin: 0 0 1.4rem; }
+.reader h1, .reader h2, .reader h3 { font-size: 1.15rem; margin: 0 0 1rem; color: var(--accent); }
+.reader .tn, .reader em { color: var(--muted); }
+.pager { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap; }
+.notice { background: var(--surface); border-left: 4px solid var(--accent); padding: .8rem 1rem; margin: 1rem 0; }
+.glossary dt { font-weight: 600; margin-top: 1rem; }
+.glossary dt .ur { font-family: var(--ur); font-weight: 400; margin-left: .6rem; }
+.glossary dd { margin: .2rem 0 0 0; }
+input[type="search"] { width: 100%; font: inherit; padding: .7rem .9rem; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--text); }
+.results { list-style: none; padding: 0; }
+.results li { padding: .8rem 0; border-bottom: 1px solid var(--line); }
+.results .snip { color: var(--muted); font-size: .95rem; }
+@media (max-width: 760px) {
+  .reader { grid-template-columns: 1fr; gap: 1rem; }
+  .reader .col { padding: 1rem; }
+  h1 { font-size: 1.6rem; }
+}

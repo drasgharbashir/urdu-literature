@@ -1,0 +1,21 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getBooks, url } from '../../../lib/content.js';
+export function getStaticPaths() {
+  return getBooks().filter((b) => b.glossary.length).map((b) => ({ params: { slug: b.slug }, props: { book: b } }));
+}
+const { book } = Astro.props;
+const terms = [...book.glossary].sort((a, b) => a.term.localeCompare(b.term));
+---
+<Base title={`Glossary · ${book.title_en}`} description={`Urdu and Persian terms used in the English translation of ${book.title_en}, with short explanations.`}>
+  <p><a href={url(`books/${book.slug}/`)}>← {book.title_en}</a></p>
+  <h1>Glossary</h1>
+  <dl class="glossary">
+    {terms.map((t) => (
+      <>
+        <dt><em>{t.term}</em> {t.ur && <span class="ur" lang="ur" dir="rtl">{t.ur}</span>}</dt>
+        <dd>{t.gloss}</dd>
+      </>
+    ))}
+  </dl>
+</Base>

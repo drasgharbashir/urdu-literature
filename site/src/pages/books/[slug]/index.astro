@@ -1,0 +1,42 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getBooks, url } from '../../../lib/content.js';
+import fs from 'node:fs';
+import path from 'node:path';
+export function getStaticPaths() {
+  return getBooks().map((b) => ({ params: { slug: b.slug }, props: { book: b } }));
+}
+const { book } = Astro.props;
+const dl = (ext) => fs.existsSync(path.join(process.cwd(), 'public', 'downloads', `${book.slug}.${ext}`));
+---
+<Base title={`${book.title_en} by ${book.author}`} description={book.description || `${book.title_en} (${book.title_ur}) by ${book.author}: the full Urdu text with a faithful English translation side by side. Free PDF and EPUB.`} type="book">
+  <p><a href={url('books/')}>← All books</a></p>
+  <span class="title-ur" lang="ur" dir="rtl">{book.title_ur}</span>
+  <h1>{book.title_en}</h1>
+  <p>by <a href={url(`authors/${book.authorSlug}/`)}>{book.author}</a></p>
+  {book.description && <p>{book.description}</p>}
+  <div class="downloads">
+    {book.pages.length > 0 && <a class="btn primary" href={url(`books/${book.slug}/${book.pages[0].num}/`)}>Start reading</a>}
+    {dl('pdf') && <a class="btn" href={url(`downloads/${book.slug}.pdf`)} download>Download PDF</a>}
+    {dl('epub') && <a class="btn" href={url(`downloads/${book.slug}.epub`)} download>Download EPUB</a>}
+    {book.glossary.length > 0 && <a class="btn" href={url(`books/${book.slug}/glossary/`)}>Glossary</a>}
+  </div>
+  <h2>Source</h2>
+  <table class="meta-table">
+    <tr><th>Edition</th><td>{book.edition}</td></tr>
+    {book.edition_year && <tr><th>Year</th><td>{book.edition_year}</td></tr>}
+    <tr><th>First published</th><td>{book.first_published}</td></tr>
+    <tr><th>Scan</th><td><a href={book.source_url}>{book.source_url}</a></td></tr>
+    <tr><th>Pages</th><td>{book.pages.length}{book.page_count ? ` of ${book.page_count} in the scan` : ''}</td></tr>
+    <tr><th>Translation</th><td>{book.translation_note || 'Faithful English translation made for this library.'}</td></tr>
+  </table>
+  <h2>Contents</h2>
+  <ol class="toc">
+    {book.pages.map((p) => (
+      <li>
+        <a href={url(`books/${book.slug}/${p.num}/`)}>{p.titleEn || `Page ${Number(p.num)}`}</a>
+        {p.titleUr && <span class="toc-ur" lang="ur" dir="rtl">{p.titleUr}</span>}
+      </li>
+    ))}
+  </ol>
+</Base>

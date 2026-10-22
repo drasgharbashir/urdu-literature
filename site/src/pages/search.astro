@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../lib/content.js';
+---
+<Base title="Search" description="Search the Urdu text and English translations of every book in the library.">
+  <h1>Search</h1>
+  <p class="muted">Type English or Urdu. Results come from every published book.</p>
+  <input type="search" id="q" placeholder="e.g. heart, wine, دل" autocomplete="off" />
+  <p id="count" class="muted"></p>
+  <ul class="results" id="results"></ul>
+  <script is:inline define:vars={{ indexUrl: url('search-index.json'), base: url('') }}>
+    let items = [];
+    const q = document.getElementById('q');
+    const out = document.getElementById('results');
+    const count = document.getElementById('count');
+    const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    function snippet(text, term) {
+      const i = text.toLowerCase().indexOf(term);
+      if (i < 0) return '';
+      return (i > 60 ? '…' : '') + text.slice(Math.max(0, i - 60), i + term.length + 80) + '…';
+    }
+    function run() {
+      const term = q.value.trim().toLowerCase();
+      out.innerHTML = '';
+      if (term.length < 2) { count.textContent = ''; return; }
+      const hits = items.filter((it) => it.en.toLowerCase().includes(term) || it.ur.includes(term)).slice(0, 100);
+      count.textContent = hits.length ? `${hits.length}${hits.length === 100 ? '+' : ''} pages` : 'No matches.';
+      for (const h of hits) {
+        const inUr = !h.en.toLowerCase().includes(term);
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${base}books/${h.b}/${h.n}/">${esc(h.bt)}: ${esc(h.t || 'page ' + Number(h.n))}</a>` +
+          `<div class="snip"${inUr ? ' lang="ur" dir="rtl"' : ''}>${esc(snippet(inUr ? h.ur : h.en, term))}</div>`;
+        out.appendChild(li);
+      }
+    }
+    fetch(indexUrl).then((r) => r.json()).then((d) => { items = d; run(); });
+    q.addEventListener('input', run);
+    const params = new URLSearchParams(location.search);
+    if (params.get('q')) { q.value = params.get('q'); }
+  </script>
+</Base>

@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import { getBooks, getAuthors, url } from '../lib/content.js';
+const books = getBooks();
+const authors = getAuthors();
+---
+<Base description="Classical Urdu poetry and prose by authors who died in 1961 or earlier, with the Urdu original and a faithful English translation side by side. Free PDF and EPUB downloads.">
+  <h1>Classical Urdu, side by side in English</h1>
+  <p>Read the great works of Urdu literature in the original Nastaliq script with a faithful English translation beside each page. Every book here is in the public domain. Each one can be downloaded as a bilingual PDF or EPUB.</p>
+  <h2>Books</h2>
+  {books.length === 0 ? (
+    <p class="muted">The first books are being prepared. Diwan-e-Ghalib comes first.</p>
+  ) : (
+    <ul class="cards">
+      {books.map((b) => (
+        <li class="card">
+          <a href={url(`books/${b.slug}/`)}>
+            <span class="title-ur" lang="ur" dir="rtl">{b.title_ur}</span>
+            <h3>{b.title_en}</h3>
+          </a>
+          <p class="muted">{b.author} · {b.pages.length} pages</p>
+        </li>
+      ))}
+    </ul>
+  )}
+  <h2>Authors</h2>
+  <p>{authors.length} classical writers, from the Deccani poets to the early twentieth century. <a href={url('authors/')}>Browse all authors</a>.</p>
+</Base>

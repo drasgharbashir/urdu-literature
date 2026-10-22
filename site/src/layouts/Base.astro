@@ -1,0 +1,51 @@
+---
+import { url } from '../lib/content.js';
+const { title, description = 'Public-domain classical Urdu literature with faithful English translations, side by side.', type = 'website', wide = false } = Astro.props;
+const fullTitle = title ? `${title} · Classical Urdu Library` : 'Classical Urdu Library';
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="Classical Urdu Library" />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href={url('styles.css')} />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href={url('')}>
+          <span class="brand-ur" lang="ur" dir="rtl">کلاسیکی اردو کتب خانہ</span>
+          <span class="brand-en">Classical Urdu Library</span>
+        </a>
+        <nav>
+          <a href={url('books/')}>Books</a>
+          <a href={url('authors/')}>Authors</a>
+          <a href={url('search/')}>Search</a>
+          <a href={url('about/')}>About</a>
+        </nav>
+      </div>
+    </header>
+    <main class:list={['wrap', { wide }]}>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>All texts are by authors who died in 1961 or earlier and are in the public domain in Pakistan and India. Translations are faithful renderings made for this library. <a href={url('about/')}>About &amp; copyright</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

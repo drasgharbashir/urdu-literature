@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getAuthors, getBooks, url } from '../../lib/content.js';
+export function getStaticPaths() {
+  return getAuthors().map((a) => ({ params: { slug: a.slug }, props: { author: a } }));
+}
+const { author } = Astro.props;
+const books = getBooks().filter((b) => b.authorSlug === author.slug);
+---
+<Base title={author.name} description={`${author.name} (${author.name_urdu}), ${author.genre.toLowerCase()}, died ${author.died}. Key works: ${author.key_works}. Read in Urdu with English translation.`} type="profile">
+  <p><a href={url('authors/')}>← All authors</a></p>
+  <span class="title-ur" lang="ur" dir="rtl">{author.name_urdu}</span>
+  <h1>{author.name}</h1>
+  <table class="meta-table">
+    <tr><th>Died</th><td>{author.approx ? 'c. ' : ''}{author.died}</td></tr>
+    <tr><th>Period</th><td>{author.era}</td></tr>
+    <tr><th>Genre</th><td>{author.genre}</td></tr>
+    <tr><th>Key works</th><td>{author.key_works}</td></tr>
+  </table>
+  <h2>Books in the library</h2>
+  {books.length === 0 ? <p class="muted">None yet.</p> : (
+    <ul class="cards">
+      {books.map((b) => (
+        <li class="card"><a href={url(`books/${b.slug}/`)}><span class="title-ur" lang="ur" dir="rtl">{b.title_ur}</span><h3>{b.title_en}</h3></a></li>
+      ))}
+    </ul>
+  )}
+</Base>
