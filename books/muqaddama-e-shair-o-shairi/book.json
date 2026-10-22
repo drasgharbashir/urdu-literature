@@ -1,0 +1,86 @@
+{
+  "slug": "muqaddama-e-shair-o-shairi",
+  "title_en": "Muqaddama-e-Shair-o-Shairi (An Introduction to Poetry and the Art of Poetry)",
+  "title_ur": "مقدمۂ شعر و شاعری",
+  "author_en": "Altaf Husain Hali",
+  "author_ur": "خواجہ الطاف حسین حالیؔ",
+  "translator": null,
+  "subject_en": null,
+  "subject_ur": null,
+  "genre": "criticism",
+  "original_language": "ur",
+  "description_en": "Published in 1893 as the preface to his collected poems, Altaf Husain Hali's Muqaddama-e-Shair-o-Shairi is the founding work of Urdu literary criticism. Hali (1837–1914), pupil of Ghalib and ally of Sir Sayyid Ahmad Khan, asks what poetry is and what it does in society, names its conditions (imagination, study of the world, choice of words) and its qualities (simplicity, reality, passion), and then judges the ghazal, the qasida, the marsiya and the masnavi by them, with hundreds of examples from Mir, Sauda, Ghalib, Zauq, Mir Hasan, Shauq and others, and from Arabic and Persian. Complete Urdu text from the first Delhi edition (1893), with Hali's footnotes, a facing English translation, introduction and glossary. Cite as: Hali, Muqaddama-e-Shair-o-Shairi, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "حالی کے دیوان کے مقدمے کے طور پر ۱۸۹۳ء میں چھپنے والا \"مقدمۂ شعر و شاعری\" اردو تنقید کی بنیادی کتاب ہے۔ غالب کے شاگرد اور سر سید احمد خان کے رفیق الطاف حسین حالی (۱۸۳۷ء–۱۹۱۴ء) پہلے یہ سوال اٹھاتے ہیں کہ شاعری کیا ہے اور سوسائٹی پر اس کا کیا اثر ہے، اس کی شرطیں (تخیل، مطالعۂ کائنات، تفحص الفاظ) اور خوبیاں (سادگی، اصلیت، جوش) بیان کرتے ہیں، اور پھر انھی کی کسوٹی پر غزل، قصیدے، مرثیے اور مثنوی کو پرکھتے ہیں؛ میر، سودا، غالب، ذوق، میر حسن، شوق وغیرہ اور عربی و فارسی کی سیکڑوں مثالوں کے ساتھ۔ مکمل اردو متن دہلی کی پہلی اشاعت (۱۸۹۳ء) سے، حالی کے حواشی سمیت، مع انگریزی ترجمہ، تعارف اور فرہنگ۔ حوالہ: حالی، مقدمۂ شعر و شاعری، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Preamble: The Praise and Blame of Poetry",
+      "title_ur": "تمہید: شاعری کی مدح و ذم"
+    },
+    {
+      "position": 3,
+      "title_en": "Poetry Flourishes in Ages That Are Not Refined",
+      "title_ur": "شاعری ناشائستگی کے زمانہ میں ترقی پاتی ہے"
+    },
+    {
+      "position": 4,
+      "title_en": "The Reform of Poetry",
+      "title_ur": "شاعری کی اصلاح"
+    },
+    {
+      "position": 5,
+      "title_en": "The Conditions of Poetry: Imagination, Study of the World, Choice of Words",
+      "title_ur": "شاعری کی شرطیں: تخیل، مطالعۂ کائنات، تفحص الفاظ"
+    },
+    {
+      "position": 6,
+      "title_en": "The Qualities of Poetry: Simplicity, Reality, Passion",
+      "title_ur": "شعر کی خوبیاں: سادگی، اصلیت، جوش"
+    },
+    {
+      "position": 7,
+      "title_en": "Hebrew and Arabic Poetry Had the Most Passion",
+      "title_ur": "عبرانی اور عربی شاعری میں سب سے زیادہ جوش تھا"
+    },
+    {
+      "position": 8,
+      "title_en": "How Urdu Poetry Can Progress in Step with the Times",
+      "title_ur": "زمانہ کی رفتار کے موافق اردو شاعری میں ترقی کیونکر ہو سکتی ہے"
+    },
+    {
+      "position": 9,
+      "title_en": "The Ghazal",
+      "title_ur": "غزل"
+    },
+    {
+      "position": 10,
+      "title_en": "The Ghazal, Continued: Model Ghazals, Language and Idiom",
+      "title_ur": "غزل (باقی): نمونے کی غزلیں، زبان اور محاورہ"
+    },
+    {
+      "position": 11,
+      "title_en": "The Qasida and the Marsiya",
+      "title_ur": "قصیدہ اور مرثیہ"
+    },
+    {
+      "position": 12,
+      "title_en": "The Masnavi",
+      "title_ur": "مثنوی"
+    },
+    {
+      "position": 13,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ],
+  "kdp_ready": false
+}

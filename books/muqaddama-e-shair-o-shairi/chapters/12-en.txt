@@ -1,0 +1,337 @@
+# The Masnavi
+
+The *masnavi* is the most useful and serviceable of the forms of verse, for in the *ghazal* or the *qasida*, because one rhyme must be kept from first to last, there can be no room for continuous subjects of every kind. In the *musaddas* (six-line stanza) the difficulty is that in every stanza four rhymes of one kind and two of another must be brought in; so to state continuous subjects in it so well that the meaning goes on being expressed evenly, without addition or omission, and neither the setting of the rhymes nor the thread of everyday usage slips from one's hands, is not everyone's work. The *tarji'-band* too is not suited to continuous subjects, for in it at the end of every stanza the same refrain couplet comes again and again, which breaks the thread of the discourse. In the *tarkib-band*, if the number of couplets is kept equal in all the stanzas, the same difficulty arises, for in one stanza only one point can be well stated, but not every point has the same extent; some are larger and some smaller; so the stanzas too must be of different sizes; one stanza may be of two or three couplets and another of fifteen or twenty, and this is against the proportion that is the greatest element of verse.
+
+In short, of all the forms current in Persian and Urdu poetry, none is better fitted than the *masnavi* for stating continuous subjects. It is this form on account of which Persian poetry can be given preference over the poetry of Arabia. Because the *masnavi* was not current, or could not be, in Arab poetry, apparently not a single book could be written in it on history, story, ethics or Sufism of the kind of which hundreds, indeed thousands, have been written in Persian. That is why the Arabs call the *Shahnama* "the Quran of the Persians", and that is why it has been said of the *Masnavi-e-Ma'navi* that "it is a Quran in the Pahlavi tongue".
+
+In Urdu, apart from a few short love *masnavis*, apparently no acknowledged master has to this day written any *masnavi*, short or long, on ethics, history or the like. The state of the love *masnavis* too, as we have written above, is stages and stages removed from the demands and taste of this age. Apart from the fact that the stories told in these *masnavis* are full of impossible and supernatural things and of boundless exaggeration and hyperbole, in most *masnavis* the duties of poetry are not fully discharged either. In the *masnavi*, besides the duties that must be discharged in the *ghazal* or the *qasida*, there are some further conditions whose observance is most necessary. One of them is *rabt-e-kalam* (coherence of discourse), which is the life of the *masnavi* and of every continuous poem. In the *ghazal* and the *qasida*, as is plain, one verse has no connection with another, save as God wills; unlike the *masnavi*, in which every couplet should be connected with the next as every link of a chain is with the next. That is why those whose nature is dominated by the colour of the *ghazal* cannot discharge the duties of the *masnavi* well. There is a saying among cooks that one who cooks in a small pan cannot cook a good cauldron. As the small pan is to the cauldron, so is the *ghazal* to the *masnavi*. Just as one who cooks in a small pan cannot gauge the salt, water and heat of a cauldron, so those who are absorbed in the *ghazal* and on whom its colour has settled are often unequal to the arrangement and management of the *masnavi*.
+
+In a poem in which some historical event or some imaginary story is told, there is no need for the creation of novel conceits or for lofty flight; what is needed is that the meaning be expressed so clearly that if the same meaning were told in prose, the prose telling would be no clearer, plainer or more coherent than the verse; the verse telling should be distinguished from prose only in this, that its manner of expression is more moving, attractive and charming than prose.
+
+So the first duty of the writer of a *masnavi* is that the arrangement of couplets and hemistichs be so well considered that every hemistich fits on to the next and every couplet to the next, and that nowhere between them is a gap left such that, unless some words are taken as understood, the discourse is not as coherent and orderly as it should be. For instance, in the *Gulzar-e-Nasim* the author says:
+
+They used to rejoice in the moon-browed child; this was established by the star-gazer:
+he is a darling such that, seeing him, you will not be able to see anyone again.
+
+The meaning the author wishes to express is this: "People rejoiced on seeing the moon-browed child, but the astrologers told the king, 'This boy is dear to you, but he is such a darling that once you see him you will not be able to see anyone again, for as soon as you see him your sight will go.'" It is plain that unless several words are added and several changed in these two couplets, the meaning we have stated cannot come straightforwardly out of them; and the first hemistich cannot fit on to the second, nor the second to the third. Or, for instance, in the same *masnavi*:
+
+They call a son the light of the eye; a wink was the lot of that father.
+
+The meaning is that a son is the light of his father's eye, but this son was darkness to his father's eyes; so unless the words of the second hemistich are changed, the discourse cannot be coherent. [TN: *chashmak*, "a wink", is used for the partial blindness the king suffers on seeing his son.] Or, for instance:
+
+The king was coming from the hunting-ground; suddenly the father beheld.
+
+These two hemistichs too are not coherent, for the outward words suggest that the king is one person and the father another, whereas one and the same person is meant by father and king; so the second hemistich should be thus: "Suddenly his eye fell on his son."
+
+(1) In any case, in the *masnavi* it is most necessary to keep coherence of discourse in view, especially when history or story is told in it.
+
+(2) The second most necessary thing is that the story told in a *masnavi* should not be founded on impossible and supernatural things. Although the custom of telling such things in stories and tales has come down from of old, not only in Asia but more or less all over the world, and so long as human knowledge was limited such things affected people's hearts with great force, knowledge has now broken this spell. Now, instead of having any effect on people's hearts, these things are laughed at and despised, and instead of producing any wonder they show the poet's folly and simple-mindedness. Now the ability of a poet or a novelist is proved by his crossing, very easily and in keeping with knowledge and philosophy, the stages that were formerly crossed by means of impossibilities and that seemed by the ordinary course of things impossible to cross. For instance, in the *Shahnama*, where Rustam and Sohrab are made to fight, Firdausi, or whoever first made the story, has to establish two contradictory things: one, that Sohrab is much stronger and more powerful than Rustam; the other, that in the end he is killed at Rustam's hand. The first he has established by having Rustam thrown by Sohrab in the first encounter; but now the second cannot be established unless extraordinary strength arises in Rustam of itself. So for this purpose it was invented that in his youth, when he had grown weary of his own strength and might, Rustam had prayed to God that his strength be lessened, and so his real strength had been greatly lessened; now, overcome by Sohrab, he prayed again that his real strength be given back to him, and so his real strength, which had been kept in trust with God, was returned to him, and in the second or third encounter he overcame Sohrab. But in this age such humbug does not work. If anyone today met such a stage he could cross it thus: Rustam, who had never been overcome by anyone and whose fame was proverbial throughout Iran and Turan, being thrown by a mere boy, felt his pride stirred to the utmost, and the urge to keep the renown and honour of a lifetime rose with great force in his heart; though he was much weaker than Sohrab in strength, Sohrab was no match for him in the feats and experience of soldiering; so in the second or third encounter, through the passion of pride, regard for honour and practised skill in the art of war, he killed Sohrab.
+
+As for the ethical subjects that many famous poets of ancient times stated in the dress of supernatural things, or that are now stated in civilised countries, that is another world. Their purpose in adopting such forms is to draw moral lessons and to give the discourse effect by making it wonderful, not to make people believe impossible things and dress them as events. It is just like this: one man shows human traits in the form of animals and draws moral lessons from them, and another, without this purpose, tells tales of animals as if he really wished to prove that all human traits exist in them and to make people believe it; there is a very great difference between the one and the other. So one should avoid writing such baseless stories, especially in this age.
+
+(3) The masters of rhetoric have counted *mubalagha* (exaggeration) among the figures of meaning and the beauties of discourse, but alas, its pitch has risen until it has now reached a level at which it makes discourse worthless, light and of little weight. Even the most extreme exaggeration should go no further than this: that whatever is said in describing, praising or blaming a thing, though it may not be true of that thing, could be true of something or other; not that nothing in the world could answer to it. And the aim of exaggeration should be that the meaning one wishes to state strikes the hearer's heart with great force because of it, not that whatever belief he had is lost as well. For instance, of a bustling bazaar, one way is to say, "There the bowl rings from morning to evening" (even if a bowl rings there at some time or other); and another is to praise it thus: [TN: *katora bajna*, "the bowl ringing", is the water-seller's cry, an idiom for a lively bazaar.]
+
+Day and night there is a glitter and a fair; the bowl of sun and moon is ringing.
+
+Or, for instance, of such a bazaar, one way is to say, "There the ground is always wet from sprinkling," and another, "There the sprinkling is not of rose-water and *kewra* but of the water of pearls." So nowadays such exaggerations are thought shameful, and instead of leaving any impression on the hearer's heart or showing the poet's ability, they reveal their own absurdity and tastelessness.
+
+(4) To fit the discourse to the requirements of the situation, especially in telling a story, is so necessary that, if one looks closely, the whole secret of eloquence lies hidden in this alone. This is a very wide discussion, but here we wish only to give a few examples to impress the point on readers' minds.
+
+For instance, in the *masnavi* *Tilism-e-Ulfat*, at the point where Shaida the vizier, on behalf of the king of Ishqabad, has arrived in the city of Husnabad with royal pomp and state, bearing a proposal of marriage for his prince, and the king of Husnabad, hearing of his arrival, has sent his own vizier to talk with him, the author tells it thus:
+
+As soon as he arrived near the city wall he pitched his tent with pomp and state;
+being one who knew the ways of the world, he was a man of the field of battle;
+to set up awe from the very start and to display his might and majesty,
+that very day he drew up his army and showed everyone the size of his force.
+News of his arrival spread abroad; all the people were struck with dread.
+Meanwhile the king of that place too heard the news of his coming:
+that some captain of some king, bringing a great army with him,
+has come and encamped near the city wall, and that grandee is ready for war.
+As soon as he heard he was greatly alarmed; he called his viziers and said,
+"See whose army has encamped; what enemy has come against us?"
+In short, a vizier of good counsel, taking a great force with him,
+came to meet him where that one of equal rank was lodged.
+As soon as he heard, he showed him regard and called him in without ceremony;
+he came to the edge of the carpet to receive him, embraced him and seated him at his side.
+First they talked of this and that; then, in a certain manner, he said:
+"Our lord of the world, that one of heavenly rank, has asked this:
+why have you taken the trouble to come this way? With what intention have you honoured us?
+If you intend to see the sights, this is your home; this is the road of every traveller.
+If you have some other intention in your heart, I am not out of the question either; come on now!
+This is all I was waiting for; why the delay, then? In the name of God!"
+
+In this telling, apart from its verbal weaknesses, the great shortcoming is that the discourse has not been fitted to the requirements of the situation. In telling history the historian is in the grip of the events; in a story the events are in the grip of the teller. In history, once an event is well established, the historian is no longer answerable for it, though it is his duty to search out its causes and say why it happened; unlike a story, for any incoherence found in whose telling the maker of the story is himself answerable. First, not to settle the marriage proposal beforehand by letter, and suddenly to send off a mighty army with the vizier and the prince; then for the vizier, with a great force, to cross months of road and reach the walls of Husnabad, and the king of Husnabad to have no news at all of his state and intention; then for the king to send his vizier with a great force to find out about him; then for the vizier, on the king's behalf, to talk with a guest as people talk in the bazaar, namely, "If you have some other intention, I am not out of that either; this is all I was waiting for; why the delay now? In the name of God!": all this is wholly against the requirements of the occasion.
+
+After this Shaida the vizier, having delivered the proposal on behalf of the king of Ishqabad, says:
+
+If you have any thought of rank and state, that is out of place, O you of auspicious omen.
+You are the sultan of your own city; your servant is one who bestows crowns and takes tribute.
+Judge fairly in your heart, and plainly your servant has the advantage in every way:
+for today I am the sultan of kings, nay, today I am the emperor of the world.
+Many climes are in my grasp; I bestow crowns and diadems.
+God has given me such power, such is my might and majesty,
+that if I wished today Qarun would pay me tribute, and I would strike my coin over the inhabited quarter of the earth;
+if I set out to show my strength, I would snatch the crown of the king of the East.
+I am such a hero, such a shedder of blood, that my terror spreads through the seven climes;
+the rebellious come and fall at my feet and rub their noses at my door.
+
+The incoherence of this telling too is plain: the vizier, on behalf of a king who is making a proposal of marriage and whose part is humility and modesty, utters such senseless jackal's bluster. After this, when the vizier of Husnabad, having heard Shaida's speech, has gone back to his king and repeated it there, the king of Husnabad says in answer:
+
+Yes, say it: let the army be ready at once; bring Our Majesty's weapons!
+Let us see how much nerve he has; he means to fight with us!
+He has come to show his steel; does he think us made of wax?
+What is his king, and what is he? He is puffed up with the size of his army.
+
+This whole speech is so light and weightless that it by no means befits a king's mouth; rather it seems as if someone were mimicking some king to show up his folly. Then, when the nobles have soothed the king and cooled him down, the vizier sets out on the king's behalf with this conciliatory message to Shaida:
+
+This boasting you do, this great show of daring you make,
+would be found out if it came to a fight; come over here and it will be found out.
+Though I am not conceited like you, I am not afraid of hundreds;
+even if my head goes these feet will not retreat; even if the earth moves we will not move;
+here we do not fear even Rustam; the brave do not fear even a lion.
+What can I do? I have regard for the law of religion; I have in mind friendship and affection;
+I am ashamed because a guest has come, and this is also the custom of the world;
+otherwise I would show you a thing or two and wipe out all your pride.
+
+Up to here is the king's own message to the king. We do not discuss the slips of words and idioms in all these couplets; what we wish to show is that the discourse has been put together wholly against the requirements of the situation. It is not this episode alone; nowhere in this *masnavi* is any thought given to making the talk suit the occasion. Before this episode, where the king of Husnabad and his aged queen are consulting together about their daughters' marriage, he tells it thus:
+
+One day the king of Husnabad was in the inner palace with a happy heart;
+he was in warm privacy with his wife, absorbed in ease, drunk with pleasure.
+That fairy-faced one, finding them alone, came close in dalliance and said:
+"You give no thought to the girls; thank God they have grown up.
+I have no worry about other things, but this thought is with me always,
+that I sit with my foot in the stirrup; the strength of my body has given out;
+all the provisions for departure are ready, and I am a guest for two or four days more;
+only a few days are left of the journey now; if only I could see their wedding garlands!"
+Hearing this, that exalted one began to say, "Is it only you who speak of it, my moon?
+By God, I think of it myself; I am searching hard as well.
+I will not accept strangers; nothing but sorrow comes of them.
+And even if, say, I agreed to it, this could never be done by me, my *houri*."
+
+In this speech too most of the words are used wholly out of place and out of season. The king is himself a doddering old man and his queen an aged crone; she herself says in several places that she sits with her foot in the stirrup, that she is this way and that; yet to use such words as "he was in warm privacy with his wife", or "absorbed in ease and drunk with pleasure", or that "that fairy-faced one", namely the old woman, "came close in dalliance and said", or for the king to call his aged queen now "my moon" and now "my *houri*": all these things are against the requirements of the situation.
+
+In one place, when the prince has fainted, and this same aged queen, his mother, is distraught inside the palace and keeps sending out for news of him, a maidservant comes in from outside saying:
+
+Tell me, people, where is Your Highness? Say, what are you sitting doing, O *houri*?
+
+Then a little later other maids come in and say:
+
+There is running and racing, Your Highness; outside and in, this is all the talk, O *houri*.
+
+In both places to call the aged queen "Your Highness" in one hemistich and "O *houri*" in the next, and for servants to say so, and that too in a state of the utmost anxiety, is wholly against the requirements of the situation.
+
+As for the four *masnavis* that Nawab Mirza Shauq of Lucknow wrote, namely *Bahar-e-Ishq*, *Zahr-e-Ishq*, *Lazzat-e-Ishq* and *Fareb-e-Ishq*, although I think them better than all the present *masnavis* of Urdu in the purity of their everyday usage and idiom, the setting of their rhymes, the tightness of their constructions and the spontaneity of their hemistichs, yet, apart from their being immoral and indecent beyond measure, in them too very little attention is paid to fitting the discourse to the requirements of the situation. For instance, in *Lazzat-e-Ishq*, at the point where the prince and the vizier's son, separated from their companions, have stopped in a garden to rest and, tired from the road, have lain down on a platform and fallen asleep, the princess of that city, who owns the garden, and with her the vizier's daughter, have both come to stroll in the garden, have gone and stood over the two sleepers, and have laughed so loudly that they have woken up. Then the prince, seeing that evening has come, means to leave, and the princess talks to him thus:
+
+The queen said, laughing, "O moon-browed one, I cannot bear to be parted from you.
+Do as I say this time, or else I will give up my life, know this.
+For God's sake do not put off what I say; stay here tonight."
+
+After this the vizier's son says to the queen that if she will grant one request of his, he will not leave her feet and the prince will not go from here. After that he says:
+
+"This vizier's daughter standing by is in truth most mischievous;
+her saucy ways have taken my fancy; what can I do? My heart has fallen for her.
+If Your Highness gives her to me, all her impudence will be cured."
+
+Hearing this, the vizier's daughter says to the vizier's son:
+
+"Do not think me in your heart the least bit good; if you say one thing I will answer with a hundred.
+Do not be puffed up by the queen's words; go and take the air, get away from here!
+Come to your senses a little; I would not even strike your name with my shoe!"
+
+First she is a woman, second a princess, and then it is the first meeting; and above all she has fallen for the prince and wishes to make him fall for her. Even supposing she were a courtesan, how out of place and out of season is such free and unveiled talk with a man who is a total stranger, or the expression of desire with such insistence as would disgust the other! Then the vizier's son's very first talk about the vizier's daughter is so vulgar, and his declaration of love so clumsy; and then the vizier's daughter answers like a bawd: all these things are wholly against eloquence. Mir Hasan in *Badr-e-Munir* [TN: that is, his *masnavi* *Sihr al-Bayan*, whose heroine is Badr-e-Munir] tells it thus at exactly such a point, namely when Benazir has come into Badr-e-Munir's garden for the very first time and Badr-e-Munir, seeing him, has fallen in love:
+
+that the lovely one, shrinking a little, hid her face, and, showing the sway of her waist and braid,
+turned her face and went away from before him, leaving him there half slain;
+she went showing all her graces, hiding her face and smiling as she went:
+"Who is this wretch who has come here? Where am I to go now, leaving my own home?"
+Saying this, in the twinkling of an eye she went and hid in her own hall;
+she let the curtain drop quickly from her hand; the sun hid in a dark cloud.
+
+In this telling, as is plain, far more attention is paid to occasion and place than in Shauq's. After this, even at the very time of meeting, much regard for modesty and reserve is found in Mir Hasan's telling. Thus he describes that occasion:
+
+When they brought her by force and seated her there, do not ask me to describe her grace at that moment.
+She sat in a strange manner, shrinking her body coyly,
+hiding her face with the end of her veil, abashed and overcome with shame;
+her whole body broke out in sweat, like jasmine wet with dew.
+For an hour or two that moon and sun stayed bound by shame in the fetters of reserve.
+
+(5) The state of any person, thing, place or the like that is described should be natural in words and meaning and in keeping with experience, such as it actually is. At this point we quote as examples some verses from the *masnavis* of both Shauq and Mir Hasan. Shauq describes the queen's state in the days of separation thus:
+
+She did not pause from weeping for a moment; she did not eat even her own meal all day.
+The look of the garden was so changed that what was a rose-garden became a jungle;
+the whole garden of roses was a fire-temple; the nightingale's lament was a cry of burning;
+the canal and the pool looked as if they were the queen's eyes full of tears;
+the peacocks that danced in the garden were models of every scar of the queen;
+the clusters that hung as usual were all the grape-like wounds of the queen;
+all the trees were the very form of grief; all the cypresses were trees of mourning;
+the breeze had raised dust in the garden; the queen's heart was torn to shreds like the rose.
+The day she passed in weeping, but the night seemed a doomsday.
+Not finding that beloved at her side, a blow fell on her sick soul;
+not for a moment did she forget that moon; whenever she turned over, a sigh came from her heart.
+When she saw the garden in the moonlight, a scar was freshly made on her heart by that grief;
+when the cool, cool breeze began to blow, she began to burn with the fire of separation.
+Until dawn her heart kept wandering, as if a thorn kept pricking her side;
+with the thought of that rose-bodied one, no side of rest could be found;
+she writhed, but could not keep still; in no way did rest come to her.
+May God dig up the foundation of this love! Whichever way she turned, she sighed.
+Now both her cheeks turned pale, now both her hands and feet went cold;
+now the colour of her face began to change, now flames began to come from her mouth;
+now she tried to hold in her love, now she screamed and sighed;
+now her soul grew weary of living, now something like a faint came over her.
+Sleep did not come at all, and morning came; this night passed in grief for him.
+The birds flew from their nests; the call *Allahu akbar* rose high.
+Then the princess's state became such that, as the full moon wanes, she became a crescent;
+all night her nature had been in turmoil; neither that colour remained nor that form.
+A great difference came over her days: that turning sheepish at every word;
+that face flushed with fever; that face swollen with weeping;
+those puffed eyelids and cheeks; those red, red threads in the eyes.
+In short, how can the state she was in be told? Whoever saw it wept: such was her state.
+
+Although in this poem, apart from the first few couplets, the whole telling is very clear and natural, Mir Hasan, some seventy years before Shauq, when the Urdu language was in its early state, drew the scene of this same situation in a more natural way. He says:
+
+She began to grow weary of life; she began to go off and sleep on some pretext;
+restlessness began to settle in her soul; she began to see dreams full of dread.
+No laughing as before, nor that talking; no eating, no drinking, no opening her lips;
+wherever she sat, she would not rise again; day and night she pined away in love.
+If someone said, "Come, my lady," she would rise, saying, "Yes, ma'am, let us go";
+if someone asked, "How are you?", she would say, "Just as you see";
+if someone said something, she said something; asked about the day, she spoke of the night;
+if someone said, "Do eat something," she said, "Very well, have it brought";
+if they gave her water to drink she drank it; in short, she lived at others' hands.
+No thought of eating, no sense of drinking; her heart was full of the passion of love.
+Someone said, "Do take a little stroll"; she said, "My heart has had its fill of strolling."
+No inclination for the garden, no eye for the rose; the same face before her all day and night;
+secret questions and answers with that one; the book of grief for him always open before her;
+a *ghazal* or a *ruba'i* or some single verse, she would recite only of the kind that had pain in it;
+and that too if it happened to come up somewhere; otherwise she did not care for that either.
+Why? Because everything depends on the heart; if the heart is not there, even talk is a torment;
+when one's own very soul has gone out, what *ruba'i*, what *ghazal*?
+Talk on the tongue, but the heart sad; her senses scattered with bewilderment;
+no thought of her face, no thought of her body; no thought of her head, no thought of her limbs.
+If her head is uncovered, no matter; if her chemise is soiled, her bodice is not there either;
+if her *missi* is two days old, so be it; if there is no combing, then let it be.
+No wish for *surma*, no use for *kajal*; before her eyes the same evening of ill fortune.
+And yet this is the way of beauties I have seen: when they are dishevelled, their adornment is doubled;
+beauty is not lessened even so; when she sits dishevelled, it is as if she were adorned.
+In short, here the lack of grace is grace itself; to the lovely everything looks lovely.
+
+There seems no need to state the difference in simplicity and naturalness between these two poems; but it is necessary to point out where in Mir Hasan's telling the picture of a natural state has been drawn exactly. Going off to sleep on a pretext; seeing dreams full of dread; wherever she sits, not rising again from there; if someone tells her to rise, standing up, and otherwise sitting on; if someone asks how she is, saying she is well; if someone speaks, answering, but at random; if someone tells her to eat, saying "Very well", and otherwise nothing; doing everything at others' bidding, and otherwise doing nothing; holding questions and answers with someone within her heart; someone's face before her eyes day and night; talking with the tongue and being sad at heart; if her head is uncovered, it stays uncovered; if her chemise is soiled, it stays soiled; if no *missi* has been applied, then let it be without; if her hair is not combed, then let it be uncombed; no interest in *surma*, no concern with *kajal*; and yet looking lovely even without adornment, and being adorned all the more by being dishevelled: all these are such true and telling things as always happen in such states. Although Shauq's telling is very fine compared with other *masnavis*, measured, exact things such as Mir Hasan has told are very rare in Shauq.
+
+Those who are infatuated with verbal artifice and die for verbal correspondences can never draw the picture of any natural state. This same description of separation and waiting is given in *Tilism-e-Ulfat* thus:
+
+She began to feel shame at modesty; she began to bear the airs of immodesty;
+the value of low esteem began to rise; the wet eye too began to rise in her sight;
+she began to sigh cold sighs; she began to have regard for the burning of love.
+Instead of *pan*, eating the blood of her heart; seeing the henna, stretching out her feet;
+day and night conversing with silence; always remembering self-forgetfulness;
+she was warm in company with cold sighs; even *surma* fell from her eyes;
+weakness too began to show its strength; thinness began to think of the grave;
+the smoke of sighs became acquainted with her lips; for this reason the burning of her heart rose high;
+she began to bear the intensities of the heart's pain; despair began to stay close at her side;
+the blood of her liver too began to show its colour; it began to come from her eyes in place of tears;
+heaviness of head too began to raise its head; she began to find ease in restlessness;
+from *kajal* and mirror, day and night, she kept in view the closing of her eyes;
+her fondness for few words grew daily; paleness itself became the rouge on her face;
+not even by mistake would she have her braid plaited; she writhed with twists and turns and the comb;
+hearing again and again of lac, that beauty would bite her lips a hundred times;
+she came to hate her companions; she kept to solitude in the corner of seclusion;
+when the dryness of her lips grew headstrong, her grieving wiped it clean away;
+instead of laughing there was weeping every day; dust was her bedding in place of cushions;
+whenever someone brought her meal, she would retch for hours;
+she lived only by eating her vexation; she drank the blood of her heart in place of water;
+though the pain of her liver was her companion, restraint was her companion day and night;
+now her eyes fixed on the ceiling, now consultations with the pain of separation;
+now saying to her heart, "No, O heart, this claim of the heart-stealer is false";
+there was some hope in her heart and some despair; now a degree of certainty, now fear.
+
+This *masnavi* is by a famous poet of Lucknow, Aftab-ud-Daula Mehr-ul-Mulk Khwaja Asad Ali Khan Bahadur Shams Jang, whose pen name is Qalaq. It is said that most people of Lucknow think it a *masnavi* of the highest rank; perhaps it is so, but alas, it is wholly at odds with the taste of the present age. The verses we have quoted from it here are not special in any way; the whole telling of this *masnavi* from first to last is of the same kind. In verbal correspondences the thread of meaning is often lost, and no state or scene can be described as it should be. In the first four couplets, the first hemistichs can with difficulty be partly understood, but the meaning of the last four hemistichs we have not understood at all. After them too most hemistichs are of the same kind. As for the couplets or hemistichs whose sense can be somewhat understood, nothing in them is stated straightforwardly. For instance, "she had no shame left before anyone" is stated as "she began to feel shame at shame"; or "she was silent day and night" becomes "she conversed with silence"; or "she was self-forgetful" becomes "she remembered self-forgetfulness". In short, all the couplets, as is plain, are like this, or even more tangled and unnatural.
+
+In the *masnavi* *Gulzar-e-Nasim* too verbal correspondences are strictly kept. It too has written, somewhat briefly, of Bakawali's state in separation from Taj-ul-Muluk; it tells it thus:
+
+She who held hunger and thirst in her control drank tears, having eaten oaths;
+she who was weary of the garment of life changed colours instead of clothes;
+as some time passed without food or sleep, her strength and endurance waned;
+in form she was left a mere fancy; in shape she was left a mere image.
+
+In this telling too, apart from the third couplet, the other three seem to have no meaning, and apparently the author did not put any meaning into them; he only wished to state the conceit that in place of eating she "ate" oaths, in place of drinking she drank tears, in place of clothes she changed colour, and so on. [TN: *qasam khana*, "to eat an oath", is the Urdu for swearing; *rang badalna*, "to change colour", plays on changing clothes.]
+
+(6) In a story it is also necessary to take care that one statement does not belie another, for this proves the storyteller's clumsiness, and he truly becomes an instance of the proverb, "A liar has no memory." Not to speak of the novels now written in civilised countries, even the storytellers of ancient Asia always took care that one statement should not contradict another. It is true that a story does not tell of some particular event, but the storyteller tells it in the form of an event; so to tell it in a way that proves his misstatement here and there is against the principles of storytelling.
+
+The craftsman who makes a statue of a human being in stone or metal, plainly, makes a copy of a human being and not a real one; but it is the craftsman's duty that no difference should be felt between it and a real human being except the presence of life. In the same way it should be the storyteller's duty to tell the whole story in the form of events. To impress this point on the mind we quote a few couplets from the *masnavi* *Tilism-e-Ulfat*. A storyteller is telling the prince of Ishqabad, Jan-e-Jahan, what he saw with his own eyes of Alam Ara, the princess of Husnabad: that when he reached Husnabad, a man, after speaking of Alam Ara's beauty, said to him:
+
+Even to see her is hard, for she is a Laila within the litter [1];
+she is veiled not only from men but from angels; nay, she is veiled from the eye of heaven.
+
+This statement shows that she is kept in *purdah* with great care; but in this same statement, as talk of her goes on, it is declared that at the window in the garden where she goes and sits:
+
+beneath the roof there is always a throng; select and common always crowd together;
+on one she practises cruelty and tyranny; on another she turns an eye of favour and kindness;
+with one she spoke coquettishly; another she finished off with a wink;
+to one she promised union; to one longing lover she refused;
+with two phrases she put one off; one she drew into banter;
+on one, laughing, she flung the chewed *pan*; one's face went red with vexation;
+one she made happy from afar with a laugh; one she called near the curtain;
+so the whole day passes; what can I say? A general massacre takes place.
+From two hours before evening till nightfall that sun-bodied one sat displaying herself.
+
+In short, how far shall I write? Verses of this kind go on for a long way, showing not only the absence of *purdah* but the very height of courtesan behaviour. The contradiction between this statement and that of the two couplets above is plain. There are many such examples in this *masnavi* and in *Gulzar-e-Nasim*, but other *masnavis* too are not wholly free of it.
+
+(7) It is also necessary to take care that nothing is stated in the course of a story that is contrary to experience and observation. Just as it does not befit a story nowadays to be founded on impossible and supernatural things, so it is by no means permissible to state details in the course of a story that experience and observation belie. This proves not so much the storyteller's tastelessness as his ignorance, his unfamiliarity with the ways of the world and his carelessness in getting necessary information. For instance, in *Badr-e-Munir* the scene of a particular occasion and time is described thus:
+
+That state of singing, that beauty of the idols, that loveliness of the garden, that scene of the day;
+something of the shade of the trees and something of that sunshine; that green of the rice, that bloom of the mustard.
+
+The last hemistich plainly implies that on one side the rice was standing and on the other the mustard was in flower; but this is contrary to fact, for rice grows in the *kharif* (autumn crop) season, and mustard is sown in the *rabi'* (spring crop) season along with wheat.
+
+Or, for instance, in the *masnavi* *Tilism-e-Ulfat*, when Prince Jan-e-Jahan's ship has sunk and Jan-e-Jahan and all on board have drowned, it is told thus:
+
+The next day that matchless pearl, having endured the toil of the ocean of calamity,
+sinking like the sun, came up again; but came up alive, upon a plank.
+
+That is, after staying sunk for a night and a day, Jan-e-Jahan came out of the sea alive, and came out sitting on a plank. First to come out alive after so long, and then to come up from the depths of the sea sitting on a plank, is wholly contrary to experience and observation.
+
+(8) Just as it is necessary to state with great explicitness the important and necessary things on which a story is founded, so it is necessary to state in symbol and allusion the incidental things that are not to be said openly; but alas, in our *masnavis* very little attention is paid to either. For instance, in the story of *Gul-e-Bakawali* the whole story is founded only on this: that when the fifth son was born to Zain-ul-Muluk, the astrologers decreed that if the king raised his eyes and looked at this son he would lose his sight; but in *Gulzar-e-Nasim* this is stated so inadequately that unless someone already knows the story of *Gul-e-Bakawali* he can understand nothing of it. As for the second point, our poets have never given it a thought even by mistake; rather, where things are shameless they spread themselves even more, and state unspeakable things openly with great pride. Alas, we cannot give more plain and open examples of such places; to impress the difference between explicit statement and allusion, we content ourselves here with one passing example. Khwaja Mir Asar of Delhi says in his *masnavi* *Khwab-o-Khayal* at the point of intimacy:
+
+Panting on in the tussle; as things came open, covering them up.
+
+In the second hemistich nothing is stated explicitly about what was coming open and what was being covered again and again. This meaning cannot be expressed in better words, for on such occasions this is always how it is said: the breast, the bosom, the bodice and the like are not named outright. Nawab Mirza Shauq has expressed this same meaning in *Bahar-e-Ishq* thus:
+
+Panting on in the tussle; covering up the loosened clothes.
+
+Shauq has kept this much veil, that he has made do with naming the clothing and has not named the breast and the rest; but the veil is so thin that the body shows through it.
+
+Explicit statement is unsightly not only on occasions of shamelessness and immodesty; in a story many places come where, if symbol and allusion are not used, the discourse becomes very light and weightless. Although this discussion really belongs to the fourth section, in which fitting the discourse to the requirements of the situation has been discussed, it has been stated separately and specially because it was thought more important.
+
+Besides these eight points storytelling has other duties too, but here we content ourselves with these alone. If our countrymen have any thought of reforming poetry, they need no one to tell them; their own nature will guide them.
+
+Now we cast a brief glance at those particular *masnavis* that, in our view, are distinguished in one respect or another. Of all the love *masnavis* in Urdu that have come before our eyes so far, those of only three men are such that the duties of poetry have been discharged in them more or less. First, Mir Taqi, who was probably the first to tell a few love stories in the Urdu *masnavi*. At the time Mir wrote these *masnavis* Persian influence was very strong on the Urdu language, and probably no model of the *masnavi* existed in Urdu, and even if one or two did exist, little help could be had from them. Besides, although the language of the *ghazal* had become very polished, a long time was still needed before the road of the *masnavi* was cleared; that is why in Mir's *masnavis* Persian constructions, translations of Persian idioms, and Persian words that the Urdu language can no longer bear are found, measured by today's standard of eloquent Urdu, somewhat more than they should be. Again, many words and idioms of the Urdu language that have now fallen out of use are found in Mir's *masnavi*; although all these things are found more or less in Mir's *ghazal* too, in the *ghazal* they can pass, for if even one verse of a *ghazal* comes out clear and fine, the whole *ghazal* gains distinction; that fine verse goes round on people's tongues and the rest of the padding verses do not matter. But in the *masnavi* it does not do for a few verses here and there to be clear and fine; if even one link of the chain is uneven and ill-matched, the whole chain offends the eye. So for these reasons Mir's *masnavi* may perhaps not please the people of today, but this makes no difference to Mir's poetry. At the time Mir wrote these *masnavis* it was beyond possibility to write a *masnavi* in better language. Even so, Mir's *masnavi* is distinguished in most respects. Although Mir spent his life writing *ghazals*, in the *masnavi* too he never let go of the order and continuity of the telling, and expressed his meaning very well, as only a practised and expert master can. Besides, the clear and fine verses in Mir's *masnavi* are not fewer than the verses in which old idioms or Persian influence prevail; hundreds of verses from Mir's *masnavis* are on people's tongues to this day.
+
+It is true that very little of the story element is found in Mir's *masnavis*; he has told a few true or true-seeming events as anecdotes in a plain and simple way; in them no scene of any wedding, ceremony, time or season is described, nor is the setting of any garden, forest or mountain, or any other display, shown; but all the love *masnavis* of Mir that we have seen draw a lesson, and, unlike the common *masnavis*, are free of shameless and immodest things.
+
+After Mir Taqi, the true fame and acceptance that Mir Hasan of Delhi's *masnavi* *Badr-e-Munir* has gained in India has fallen to the lot of no *masnavi* before it or since, to this day. The idea that Mir Hasan got some help or guidance from Mir Taqi's models does not seem right, for the story quality that is in Mir Hasan's *masnavi* is nowhere to be found in Mir Taqi's *masnavis*.
+
+If one sets aside the fact that, like the old stories, this *masnavi* too is founded on tales of demons and fairies, it is not out of place to say that Mir Hasan has fully discharged all the duties of storytelling. The pomp and splendour of the kingdom; the bustle and life of the capital; despair and hopelessness and weariness of the world in the state of childlessness; the talk of the astrologers; the birth of the prince and the ceremony of the sixth day; the display of dancing, singing and music; the scenes of gardens and of gatherings of every kind; the processions of riders; bathing in the *hammam*; the adornment of houses; the description of royal dress, jewels and ornaments; the picture of the bedchamber; the state of youthful sleep; the lifelessness of palaces and gardens in sorrow and grief; the first meeting of lover and beloved, with its regard for modesty and reserve; the description of love; the description of beauty; the description of separation; the description of misfortunes; the description of joy; the messages and greetings of the marriage proposal; the preparations for the wedding; the reunion of the separated and the picture of that state: in short, whatever is described in this *masnavi* he has painted before the eyes; and he has made an exact tracing of the states that passed, and the affairs that took place, on such occasions in the households of kings and nobles in the last period of the Muslims. After Mir Hasan, other *masnavis* too have tried, in rivalry with *Badr-e-Munir*, to show all these scenes, but have mostly fallen far from the straight road. One gentleman says in praise of a bazaar that "there the goods of coquetry, playfulness and grace are sold" (that is, no goods are to be had); "the market of cold sighs is always brisk" (that is, the bazaar has no life at all); "the coin of the heart's scar is changed on every side" (that is, no small change of current coin is to be had); "the gold of life is weighed on the balance of the thorn of the eyelash" (that is, there is neither gold there nor a balance to weigh gold); "the fruit-sellers sell the apple of the chin" (that is, there are no apples); "in place of vegetables, youthful bloom is sold" (that is, no vegetables are to be had); "at the confectioners' shops sweets are made of the syrup of life" (that is, there is a famine of *laddus*, *peras*, *balushahis* and the like); "in the bazaar the sprinkling is of the water of pearls, and the bowl of sun and moon is ringing" (that is, dust blows in the bazaar and it is silent at all hours). In the same way, in every scene he has wished to show, he has built a mere spell of words and had nothing to do with meaning. In any case, in our view, of the love *masnavis* of Urdu none has been written to this day equal to *Badr-e-Munir* in most respects. It is true that there are certainly some words and idioms in it that have now fallen out of use; but the beauty and ornament of a *masnavi* of seventy or eighty years ago is just that such words and idioms are present in it.
+
+After Mir Hasan, the *masnavis* of Nawab Mirza Shauq of Lucknow are the most worthy of regard. Shauq probably wrote these *masnavis* in the last years of Wajid Ali Shah's reign. In three [2] of them he has told the story of his own lust and self-gratification, or let us say has slandered himself; and in one *masnavi*, namely *Lazzat-e-Ishq*, he has written a story very like that of *Badr-e-Munir*, in the same metre. Many passages in these *masnavis* are so immoral and indecent that the printing of all of them has long been stopped by order; but if they are looked at as poetry, they can up to a point be preferred to *Badr-e-Munir*. They are wholly free of old words and idioms that have now fallen out of use, and of padding and filler words. In a certain kind of telling, in the smoothness of the language, the purity of everyday usage, the setting of the rhymes and the spontaneity of the hemistichs, they are far ahead of *Badr-e-Munir*. In them men's and women's idioms are used in such a way that no one has used them with such ease even in prose to this day. Although in these *masnavis* the scene of every occasion is not shown as in *Badr-e-Munir*, from which the poet's power of telling could be fully judged, yet whatever he has told, whether moral or immoral, he has given its full due of beauty of expression. Unlike the ordinary poets of Lucknow, he made no rule at all of verbal correspondences, and often preferred the common everyday usage of Urdu to correctness of words, to which the people of Lucknow are strictly bound. Nor did he much keep to the prosodists' needless restrictions on *radif* and rhyme, but he never let go of the real purpose of *radif* and rhyme. For instance:
+
+Why does anyone die? Who knows! What do we daughters-in-law and daughters know of this?
+
+Our poets will certainly call this *radif* wrong, but the real purpose of the *radif* is fully achieved by it, for on hearing this verse the hearer does not feel the difference of singular and plural at all, and that is the whole point of the *radif*. [TN: the refrain *jane* / *janen* differs only in number, singular against plural, which the ear hardly notices.] Of the ease with which he has painted the picture of affairs at the point of intimacy, what more can be said than "the thief's mother hides her head between her knees and weeps"? Alas, no more praise can be given to Shauq's *masnavis* than this: if he had spent in a good place the poetry he spent on writing such immoral *masnavis*, and had not used the angel of light to do the work of the angel of darkness, his *masnavis* would today have no equal in the Urdu language.
+
+It is not without wonder how Nawab Mirza Shauq, against his own school, came to think of using such clear and idiomatic language in the *masnavi*; for when the trend of society has turned in another direction, some outside impulse is needed to turn it the opposite way. Apparently it seems that Khwaja Mir Asar of Delhi, the younger brother of Khwaja Mir Dard, wrote a *masnavi* which he probably named *Khwab-o-Khayal*, and which became famous, for a particular reason, mostly in the East (Awadh); in this *masnavi*, as we have heard from some of our friends, there are some forty or forty-five verses of the same kind as Shauq wrote, far more of them, in *Bahar-e-Ishq* at the point of intimacy. It seems that the idea of using such clear language came to Shauq on seeing this *masnavi*, and since he was a man of playful nature and had great command of the idioms of the ladies of the household too, he founded his *masnavi* on these same forty or forty-five verses of *Khwab-o-Khayal*, and told at greater length in his own *masnavi* the affairs that were told briefly and in passing by Khwaja Mir Asar; and on the foundation of the kind of idioms Asar had laid, Shauq raised a building. The great proof of this is that many hemistichs and verses of *Khwab-o-Khayal* are found, with slight differences, in *Bahar-e-Ishq*, one or two of which we too remember; but there is no doubt that in its present state *Khwab-o-Khayal* bears no comparison with *Bahar-e-Ishq*.
+
+Now we end this essay. To hope that our veteran poets, on whom the colour of the old poetry has settled, will pay any attention to this essay or think it worth attention is quite out of place; and it is also idle to think that all that is written in it must be accepted. But we do hope that our young countrymen, who have a taste for poetry and recognise the temper of the times, will perhaps read this essay, and at least admit this much: that the present state of Urdu poetry certainly needs reform or amendment. Even if not one of the humble opinions on the reform of poetry that we have expressed in this essay is accepted, if through this essay the idea spreads generally in the country that our poetry does indeed need reform, we shall think we have had complete success; for the first step of progress is the conviction of one's own decline.
+
+Although, to show the true state of Urdu poetry, it was most necessary to criticise openly the verse of famous and acknowledged poets, for the weakness of a building is shown by nothing so well as by the weakness of its foundation, yet, only because our countrymen are not yet used to hearing objections and take criticism for disparagement, in this essay, as far as possible, no fault or objection has been raised against the verse of any particular poet in a way peculiar to his verse alone; rather, objections have been made to the general manner of poetry, and whoever's verse came to mind has been quoted as an example; which shows that the purpose is not to object to that person in particular but to show the fault of the general manner of poetry, in which others are included along with him. Besides, as far as was possible, no objection has been made against anyone that would show that he is ignorant of the accepted principles of his own poetry, or has made some error of grammar or prosody, or has committed some lapse that, by the old standard, reflects on his poetry; rather, the objections made are mostly such as apply not only to Urdu poetry but to all Asiatic poetry.
+
+Even so, if, as human nature will have it, anything has been written that offends any of our countrymen, we ask their forgiveness with the utmost humility and respect. And since this subject is, so far as we know, wholly new in Urdu literature, it is possible that, if by chance there are some merits in it, some slips and errors will be found along with them. God, indeed, has given this rule, "Truly good deeds drive away evil deeds" [3] [TN: Quran 11:114], but man has fixed in its place this rule, "Truly evil deeds drive away good deeds"; so by this human rule we ought not to hope that, along with the errors of this essay, its merits too (if it has any) will be shown; but if people are content merely to show the errors, and do not take pains to present the merits as faults, we shall still think ourselves most fortunate.
+
+The writer: Altaf Husain Hali
+
+# Notes
+
+[1] Hali's note: That is, she is in *purdah*.
+
+[2] Hali's note: That is, in *Bahar-e-Ishq*, *Zahr-e-Ishq* and *Fareb-e-Ishq*.
+
+[3] Hali's note: That is, good deeds wipe out evil deeds; so the second phrase will mean that evil deeds wipe out good deeds.

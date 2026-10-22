@@ -1,0 +1,25 @@
+# About This Edition
+
+This is a complete Urdu text and English translation of *Muqaddama-e-Shair-o-Shairi* ("An Introduction to Poetry and the Art of Poetry") by Khwaja Altaf Husain Hali (1837–1914).
+
+Source of the Urdu text: *Muqaddama-e-Dīwān-e-Hālī*, the first edition, printed in Delhi in 1893 as the introduction to Hali's collected Urdu poems; the copy in the Allama Iqbal Library, University of Kashmir, scanned by the Digital Library of India and freely available on the Internet Archive (archive.org/details/dli.ernet.446421). The text was transcribed page by page from the scan for this edition.
+
+What is left out: the calligrapher's colophon at the end of the printing, and a few names of poets added by hand in the margins of the scanned copy, which are not part of the printed text. Hali's own text is given complete, together with his footnotes, which are listed at the end of each chapter. Paragraphs have sometimes been divided more often than in the printing, to make the facing translation easier to follow. The headings of the printing are kept; the chapter divisions follow them.
+
+Quotations: Hali quotes verse and prose in Persian and Arabic as well as Urdu. All of these are translated into English, and the originals stand in the facing Urdu column. Where the printing has an evident slip, or a reading of the scan is uncertain, the text is given as printed and a translator's note says so. Unreadable words are marked [illegible].
+
+Copyright: Hali died in 1914, and the work was first published in 1893, so it is in the public domain everywhere. The English translation is new.
+
+# Introduction
+
+Altaf Husain Hali was born in Panipat in 1837. He was a pupil of Ghalib and for some years a companion of Mustafa Khan Shefta, and later a close ally of Sir Sayyid Ahmad Khan in the movement for Muslim educational reform. In the early 1870s he worked in Lahore at the Government Book Depot, revising Urdu translations of English books, and there he took part in the "new poetry" gatherings organised by Muhammad Husain Azad, at which poets recited poems on set natural subjects instead of the traditional *ghazal*. His long poem *Musaddas* (1879) made him the poet of the reform movement.
+
+In 1893 Hali published his collected Urdu poems, and set before them a long prose introduction on the nature of poetry. This introduction quickly took on a life of its own, and has been printed ever since as a separate book under the name *Muqaddama-e-Shair-o-Shairi*. It is generally held to be the first systematic work of literary criticism in Urdu.
+
+The work falls into two halves. The first is a general theory of poetry: what poetry is and what it does in society; why it flourishes in unrefined ages; the three conditions a poet needs, namely imagination, the study of the world and the careful choice of words; and the qualities good verse should have, which Hali, after Milton, sums up as simplicity, passion and truth to reality. The second half applies this theory to the forms of Urdu poetry in turn, the *ghazal*, the *qasida* and the *masnavi*, and asks how each could be reformed to suit a new age.
+
+Why it is studied: the *Muqaddama* marks the point at which Urdu literature began to judge itself by explicit principles, and it set the terms of debate about classical poetry for a century. Hali draws at once on the Arabic and Persian critical tradition, which he knew deeply, and on English writers such as Milton and Macaulay, whom he knew through translation and conversation. Readers will find in it a close account of how the *ghazal*, *qasida* and *masnavi* were actually written and judged in nineteenth-century Delhi and Lucknow, with hundreds of examples from Mir, Sauda, Ghalib, Zauq, Momin, Mir Hasan, Nasim, Shauq and many others. Its attack on exaggeration, verbal artifice and the conventions of the *ghazal* was sharply contested in its own day, and the arguments it provoked are part of its history.
+
+Names in this translation: Hali, Ghalib, Mir Taqi Mir, Sauda, Zauq, Momin, Mir Hasan, Shauq, Nasikh, Atish, Insha, Sa'di, Hafiz, Firdausi, Nizami, Rumi; Dilli is given as Delhi and Lakhnau as Lucknow. Cultural and technical terms are kept in italics with a short gloss on first use, and explained in the glossary at the end. Translator's notes are marked [TN: ...].
+
+How to cite: Altaf Husain Hali, *Muqaddama-e-Shair-o-Shairi* (1893), Urdu text from the first Delhi edition, with English translation, urduintranslation.com, 2026, https://www.urduintranslation.com/works/muqaddama-e-shair-o-shairi.
