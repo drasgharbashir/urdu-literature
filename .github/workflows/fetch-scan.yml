@@ -1,0 +1,31 @@
+name: Fetch scan from archive.org
+
+on:
+  push:
+    branches: [claude/fetch-scan]
+  workflow_dispatch:
+    inputs:
+      identifier:
+        description: archive.org identifier
+        required: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download files
+        env:
+          ID: ${{ inputs.identifier || 'in.ernet.dli.2015.296279' }}
+        run: |
+          mkdir scan && cd scan
+          curl -sSfL "https://archive.org/metadata/$ID" -o metadata.json
+          for f in $(jq -r '.files[] | select(.name|test("(\\.pdf|_djvu\\.txt|_page_numbers\\.json)$")) | select(.name|test("_text\\.pdf$")|not) | .name' metadata.json); do
+            echo "Downloading $f"
+            curl -sSfL --retry 3 "https://archive.org/download/$ID/$(jq -rn --arg s "$f" '$s|@uri')" -o "$f"
+          done
+          ls -la
+      - uses: actions/upload-artifact@v4
+        with:
+          name: scan
+          path: scan/
+          retention-days: 3
