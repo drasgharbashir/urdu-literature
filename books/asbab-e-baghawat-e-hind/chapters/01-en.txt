@@ -1,0 +1,25 @@
+# About This Edition
+
+This is a complete Urdu text and English translation of *Asbab-e-Baghawat-e-Hind* ("The Causes of the Indian Revolt") by Sir Syed Ahmad Khan (1817–1898), written in 1858, in the months after the uprising of 1857, and first printed in 1859.
+
+Source of the Urdu text: *Asbab-e-Baghawat-e-Hind 1857*, published by Munshi Fazluddin, bookseller, Qaumi Kutub Khana, Bazar Kashmiri, Lahore, undated (it calls the author "the late", so it was printed after 1898). The scan is freely available on the Internet Archive (archive.org/details/AsbabEBaghawatEHind-SirSyedAhmadKhan). The text was transcribed page by page from the scan for this edition.
+
+What is left out: the title page, the publisher's list of Sir Syed's works and his advertisement for *Al-Khutbat al-Ahmadiya*, the page numbers, and the short summaries printed in the margins as side-headings. Nothing of the author's text is omitted. Two obvious printer's repetitions (a phrase set twice) have been removed. The book ends with the Persian proclamation of the Lieutenant-Governor of Bengal, which Sir Syed refers to; it is given in chapter 9 with a translation. Sir Syed says that the circular letter of the missionary E. Edmond is printed at the end too, but this edition does not include it. Section headings are Sir Syed's own; the chapter divisions follow his five "causes".
+
+Copyright: Sir Syed died in 1898, so the work is in the public domain everywhere. The English translation is new.
+
+# Introduction
+
+Sir Syed Ahmad Khan was a judicial officer of the East India Company at Bijnor when the uprising broke out in May 1857. He stayed loyal to the Company, saved the lives of Europeans in the district, and lost members of his own family in the sack of Delhi. When it was over, and British opinion was blaming the revolt on a Muslim conspiracy, he wrote this short pamphlet to answer the question that everyone in India and Britain was asking: why did it happen?
+
+His answer is bold for its time. He rejects the popular explanations one by one: a plot hatched with Russia or Iran, a conspiracy of the King of Delhi, a long-planned Muslim *jihad*, the mysterious chapatis passed from village to village. Then he names what he sees as the one root cause: Indians had no voice in the making of the laws that governed them, so the Government never knew their grievances and they never understood its intentions. From this root he traces five branches: the belief that the Government meant to convert India to Christianity; laws that ignored Indian custom, above all on land and revenue; the Government's ignorance of the poverty and unemployment of its subjects; the coldness and contempt of British officers towards Indians; and the mismanagement of the army.
+
+Sir Syed printed about five hundred copies and sent almost all of them to Parliament and the Government in England, keeping one for himself; he was advised that circulating it in India would be dangerous. An English translation by Auckland Colvin and G. F. I. Graham appeared in 1873. The pamphlet is now read as a founding text of modern Indian political thought: it asks for Indian representation in the Legislative Council a generation before the Indian National Congress, and it marks the beginning of the reformist project that led Sir Syed to found the Muhammadan Anglo-Oriental College at Aligarh.
+
+Why it is studied: *Asbab-e-Baghawat-e-Hind* is a core primary source for 1857 in history and South Asian studies courses, and a set text in Urdu prose and Aligarh-movement papers. It is short, carefully argued and full of detail about land revenue, schools, courts and the army that students of colonial India need.
+
+A note on voice: Sir Syed writes as a loyal subject addressing the British, and speaks of "our Government" and "our nation's rule". He often says that the Indians "misunderstood" the Government's measures, while making clear that the grievances were real. Readers should keep in mind the caution with which a colonial official had to write in 1858.
+
+Names in this translation: Sir Syed Ahmad Khan, Delhi, Oudh (Awadh), Meerut, Barrackpore, Bareilly, the Punjab, Hindustan. The King of Delhi is Bahadur Shah Zafar (not named in the text). Cultural and administrative terms are kept in italics with a short gloss on first use, and explained in the glossary at the end. Persian and Arabic verses are translated, with the originals on the Urdu page. Translator's notes are marked [TN: ...].
+
+How to cite: Sir Syed Ahmad Khan, *Asbab-e-Baghawat-e-Hind* (1859), Urdu text from the Lahore edition of Munshi Fazluddin (undated), with English translation, urduintranslation.com, 2026, https://www.urduintranslation.com/works/asbab-e-baghawat-e-hind.

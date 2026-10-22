@@ -1,0 +1,71 @@
+{
+  "slug": "asbab-e-baghawat-e-hind",
+  "title_en": "Asbab-e-Baghawat-e-Hind (The Causes of the Indian Revolt)",
+  "title_ur": "اسباب بغاوت ہند",
+  "author_en": "Sir Syed Ahmad Khan",
+  "author_ur": "سر سید احمد خان",
+  "translator": null,
+  "subject_en": "History",
+  "subject_ur": "تاریخ",
+  "genre": "essay",
+  "original_language": "ur",
+  "description_en": "Written in 1858, while the ashes of 1857 were still warm, this short treatise by Syed Ahmad Khan (1817–1898), a judicial officer of the East India Company who had stood by the British at Bijnor in 1857, told the British government what almost nobody else dared: that the Revolt was not a Muslim conspiracy or a plot of the Mughal court, but the result of a government that kept Indians out of its councils and so never knew, or was told, what its subjects felt. He traces five consequences: popular fear for religion, unsuitable laws and revenue settlements, ignorance of the people's poverty and grievances, the neglect of courtesy and trust, and the mismanagement of the army. He had five hundred copies printed and sent almost all of them to Parliament and the government in England; it is a founding text of modern Indian Muslim political thought and a core reading in courses on 1857, colonialism and South Asian history. Complete Urdu text from the Lahore edition of Munshi Fazluddin, Qaumi Kutub Khana (undated, after 1898), with the Persian proclamation of the Lieutenant-Governor printed as its appendix, a facing English translation, introduction, notes and glossary. Cite as: Sir Syed Ahmad Khan, Asbab-e-Baghawat-e-Hind, tr. urduintranslation.com (2026), https://www.urduintranslation.com/works/asbab-e-baghawat-e-hind. The first chapter is free to read.",
+  "description_ur": "سر سید احمد خان (۱۸۱۷ء–۱۸۹۸ء) نے یہ مختصر رسالہ ۱۸۵۸ء میں لکھا، جب ۱۸۵۷ء کی آگ ابھی ٹھنڈی نہ ہوئی تھی؛ غدر کے وقت وہ بجنور میں کمپنی کے صدر امین تھے۔ اس میں انھوں نے بے خوف ہو کر سرکار کو بتایا کہ غدر نہ مسلمانوں کی سازش تھی نہ دلی کے دربار کی، بلکہ اس کی جڑ یہ تھی کہ ہندوستانیوں کو لیجسلیٹو کونسل میں جگہ نہ ملی، اس لیے حکومت رعایا کے دل کا حال نہ جان سکی۔ اس اصل سے پانچ شاخیں نکلیں: رعایا کی غلط فہمی اور مذہب کا خوف، نامناسب قوانین، رعایا کے حال سے ناواقفیت، فرائض سے غفلت، اور فوج کا بد انتظام۔ یہ رسالہ جدید مسلم سیاسی فکر کی بنیاد اور ۱۸۵۷ء، استعمار اور جنوبی ایشیا کی تاریخ کے نصابوں کا لازمی متن ہے۔ مکمل اردو متن منشی فضل الدین، قومی کتب خانہ، لاہور کی اشاعت سے، مع ضمیمہ (لفٹیننٹ گورنر کا فارسی اشتہار)، انگریزی ترجمہ، تعارف، حواشی اور فرہنگ۔ حوالہ: سر سید احمد خان، اسباب بغاوت ہند، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": true,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Preface, and the Causes That Were Not",
+      "title_ur": "دیباچہ، اور وہ اسباب جو اصل نہ تھے"
+    },
+    {
+      "position": 3,
+      "title_en": "The Root Cause and Its Five Branches",
+      "title_ur": "اصلی سبب اور اس کی پانچ شاخیں"
+    },
+    {
+      "position": 4,
+      "title_en": "The First Cause: Misunderstanding, and Interference in Religion",
+      "title_ur": "اصل اول: رعایا کی غلط فہمی اور مداخلت مذہبی"
+    },
+    {
+      "position": 5,
+      "title_en": "The Second Cause: Unsuitable Laws and Methods of Rule",
+      "title_ur": "اصل دوم: نامناسب قوانین اور طریقۂ حکومت"
+    },
+    {
+      "position": 6,
+      "title_en": "The Third Cause: Ignorance of the Subjects' Condition",
+      "title_ur": "اصل سوم: رعایا کے حال سے ناواقفیت"
+    },
+    {
+      "position": 7,
+      "title_en": "The Fourth Cause: Duties Neglected",
+      "title_ur": "اصل چہارم: فرائض سے غفلت"
+    },
+    {
+      "position": 8,
+      "title_en": "The Fifth Cause: The Army",
+      "title_ur": "اصل پنجم: فوج کا انتظام"
+    },
+    {
+      "position": 9,
+      "title_en": "Appendix: The Lieutenant-Governor's Proclamation",
+      "title_ur": "ضمیمہ: نقل اشتہار"
+    },
+    {
+      "position": 10,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ],
+  "kdp_ready": false
+}
