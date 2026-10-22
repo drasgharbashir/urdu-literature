@@ -1,0 +1,66 @@
+{
+  "slug": "intikhab-e-akbar",
+  "title_en": "Intikhab-e-Akbar: Satires and Occasional Poems",
+  "title_ur": "انتخابِ اکبر: پیش رو یعنی قطعات",
+  "author_en": "Akbar Allahabadi",
+  "author_ur": "سید اکبر حسین اکبرؔ الہ آبادی",
+  "translator": null,
+  "subject_en": "Poetry",
+  "subject_ur": "شاعری",
+  "genre": "nazm",
+  "original_language": "ur",
+  "description_en": "Akbar Allahabadi (1846–1921), judge, wit and the great comic poet of Urdu, wrote the sharpest verse commentary on India's meeting with the West: on the \"New Light\" of English education, English clothes and words, Sir Sayyid and the Aligarh college, Westernised young men and their English brides, purdah, the railway and the telegraph, and the Viceroy's durbars. This book gives the complete section \"Pesh-rau\" (\"The Vanguard\") of his collected poems, sixty pieces including \"A Glimpse of the Delhi Durbar\", \"Lightning in the Church\", the purdah poem of 1891, his answer to Southey's \"Cataract of Lodore\", \"The Curzon Sabha\" and the national poem written for Mohsin-ul-Mulk, with his parodies of Hafiz and Sa'di. Urdu text from Kulliyat-e-Akbar, Part One (4th ed., Standard Press, Allahabad, 1914), with a facing line-by-line English translation, notes on the puns and Persian quotations, an introduction and a glossary. A core text for courses on Urdu poetry and on colonialism and modernity in South Asia. Cite as: Akbar Allahabadi, Intikhab-e-Akbar: Pesh-rau, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "اکبر الہ آبادی (۱۸۴۶ء تا ۱۹۲۱ء)، جج، ظریف اور اردو کے سب سے بڑے مزاحیہ شاعر، نے ہندوستان اور مغرب کے ملاپ پر سب سے تیکھا منظوم تبصرہ کیا: انگریزی تعلیم کی \"نئی روشنی\"، انگریزی لباس اور الفاظ، سر سید اور علی گڑھ کالج، مغرب زدہ نوجوان اور ان کی انگریز بیویاں، پردہ، ریل اور تار، اور وائسرائے کے دربار۔ اس کتاب میں ان کے کلیات کا پورا حصہ \"پیش رو یعنی قطعات\" ہے، ساٹھ نظمیں، جن میں \"جلوۂ دربار دہلی\"، \"برق کلیسا\"، ۱۸۹۱ء کی پردے کی نظم، \"آبشار لوڈور\" کا جواب، \"کرزن سبھا\" اور محسن الملک کی فرمائش پر قومی نظم شامل ہیں، نیز حافظ اور سعدی کی پیروڈیاں۔ اردو متن کلیات اکبر، حصہ اول (طبع چہارم، اسٹینڈرڈ پریس، الہ آباد، ۱۹۱۴ء) سے، مع انگریزی ترجمہ مصرع بہ مصرع، حواشی، تعارف اور فرہنگ۔ حوالہ: اکبر الہ آبادی، انتخاب اکبر: پیش رو، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "A Glimpse of the Delhi Durbar",
+      "title_ur": "جلوۂ دربار دہلی"
+    },
+    {
+      "position": 3,
+      "title_en": "The New Light and the Old Faith: Poems 2–11",
+      "title_ur": "نئی روشنی اور پرانا دین: نظمیں ۲ تا ۱۱"
+    },
+    {
+      "position": 4,
+      "title_en": "The Sayyid, the Preacher and the Oudh Punch: Poems 12–15",
+      "title_ur": "سید، واعظ اور اودھ پنچ: نظمیں ۱۲ تا ۱۵"
+    },
+    {
+      "position": 5,
+      "title_en": "Lightning in the Church, and Purdah: Poems 16–27",
+      "title_ur": "برق کلیسا اور پردہ: نظمیں ۱۶ تا ۲۷"
+    },
+    {
+      "position": 6,
+      "title_en": "The Cataract of Lodore, and Sir Sayyid's College: Poems 28–34",
+      "title_ur": "آبشار لوڈور اور سر سید کا کالج: نظمیں ۲۸ تا ۳۴"
+    },
+    {
+      "position": 7,
+      "title_en": "There Is No God but God: Poems 35–47",
+      "title_ur": "لا الٰہ الا اللہ: نظمیں ۳۵ تا ۴۷"
+    },
+    {
+      "position": 8,
+      "title_en": "The Curzon Sabha and the National Poem: Poems 48–60",
+      "title_ur": "کرزن سبھا اور قومی نظم: نظمیں ۴۸ تا ۶۰"
+    },
+    {
+      "position": 9,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ],
+  "kdp_ready": false
+}
