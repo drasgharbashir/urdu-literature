@@ -1,0 +1,27 @@
+{
+  "title_ur": "باغ و بہار",
+  "title_en": "Bagh-o-Bahar (The Garden and the Spring)",
+  "author": "Mir Amman",
+  "author_ur": "میر امن دہلوی",
+  "genre": "Prose (dastan)",
+  "status": "translated",
+  "first_published": "1804, Calcutta (Hindoostanee Press, for the College of Fort William); written 1801–1802 (1215–1217 AH)",
+  "us_status": "public_domain",
+  "source_url": "https://archive.org/details/dli.ernet.436944",
+  "source_identifier": "dli.ernet.436944",
+  "edition": "The Bagh o Bahar in the Hindustani language, edited by Duncan Forbes, 4th edition (London: William H. Allen / W. Watson, 1860), 379 pages of Urdu text. Scan: Digital Library of India copy from the Maulana Azad Library, Aligarh Muslim University. Only Mir Amman's text is used; Forbes's English editorial matter is not included.",
+  "edition_year": "1860",
+  "page_count": 379,
+  "description": "Mir Amman's tale of the four dervishes and King Azad Bakht, written in plain Delhi Urdu at Fort William College in 1801–1802 and counted as the first classic of modern Urdu prose.",
+  "translation_note": "Faithful English translation made for this library, paragraph by paragraph. Verse is rendered couplet by couplet, accuracy before rhyme. Each reading section covers about four pages of the 1860 edition.",
+  "transliteration": {
+    "Mir Amman": "Mir Amman",
+    "Dilli": "Delhi",
+    "Azad Bakht": "Azad Bakht",
+    "Khiradmand": "Khiradmand",
+    "Rum": "Rum",
+    "Qustuntunia": "Constantinople"
+  },
+  "transcription_note": "The digital base text is the Urdu Wikisource transcription (ur.wikisource.org/wiki/باغ_و_بہار), proofread section by section against the page images of the 1860 Forbes edition; dropped words and misreadings were corrected to the scan. Spelling follows modern Urdu usage. Mir Amman's petition to the College (section 1) and the closing verses with the chronogram (last section) are not printed in the 1860 edition and are given from the Wikisource text of the first edition; the order of the closing couplets was restored from the rhyme. Gilchrist's English preface and Forbes's notes are not included.",
+  "cross_check_url": "https://ur.wikisource.org/wiki/باغ_و_بہار"
+}
