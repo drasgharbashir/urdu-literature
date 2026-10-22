@@ -1,0 +1,61 @@
+{
+  "slug": "rani-ketki-ki-kahani",
+  "title_en": "Rani Ketki ki Kahani (The Story of Rani Ketki)",
+  "title_ur": "رانی کیتکی کی کہانی",
+  "author_en": "Insha Allah Khan Insha",
+  "author_ur": "سید انشاء اللہ خان انشاؔ",
+  "translator": null,
+  "subject_en": null,
+  "subject_ur": null,
+  "genre": "dastan",
+  "original_language": "ur",
+  "description_en": "Around 1803 the Lucknow wit Insha Allah Khan Insha (1756–1817) set himself a famous challenge: to tell a whole story in the plain speech of Hindustan without one Persian or Arabic word. The result is this short, playful romance, claimed by both Urdu and Hindi literary history and set in classical prose courses on both sides of the border. Prince Ude Bhan falls in love with Princess Ketki in a mango grove; her father refuses the match; a yogi turns the prince and his parents into deer; Ketki puts on the yogi's magic ash, becomes invisible and goes looking for him in the forests; and the god Indra restores them for one of the most extravagant weddings in the language. Complete Urdu text from the Anjuman Taraqqi-e-Urdu edition (Aurangabad, 1933, ed. Maulvi Abdul Haq; editor's matter omitted), with a facing English translation, introduction, note on the text and glossary. Cite as: Insha, Rani Ketki ki Kahani, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "لکھنؤ کے ظریف شاعر سید انشاء اللہ خان انشاؔ (۱۷۵۶ء–۱۸۱۷ء) نے ۱۸۰۳ء کے لگ بھگ اپنے لیے ایک مشہور چیلنج رکھا: ہندوستان کی سیدھی بول چال میں ایک پوری کہانی، جس میں ایک بھی فارسی عربی لفظ نہ ہو۔ یہ مختصر اور شوخ داستان اسی کا نتیجہ ہے، جس پر اردو اور ہندی دونوں کی ادبی تاریخیں دعویٰ رکھتی ہیں۔ کنور اودے بھان امریوں میں رانی کیتکی پر عاشق ہوتا ہے؛ رانی کا باپ انکار کرتا ہے؛ جوگی مہندر گر کنور اور اس کے ماں باپ کو ہرن بنا دیتا ہے؛ کیتکی بھبھوت لگا کر غائب ہو جاتی ہے اور بن بن اسے ڈھونڈتی ہے؛ آخر راجہ اندر سب کو اصل روپ میں لاتا ہے اور دھوم دھام سے بیاہ ہوتا ہے۔ مکمل اردو متن انجمن ترقی اردو کی اشاعت (اورنگ آباد، ۱۹۳۳ء، مرتبہ مولوی عبدالحق؛ مرتب کی عبارتیں حذف) سے، مع انگریزی ترجمہ، تعارف اور فرہنگ۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": true,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Invocation, and the Plan of an Unusual Undertaking",
+      "title_ur": "حمد، اور ڈول ڈال ایک انوکھی بات کا"
+    },
+    {
+      "position": 3,
+      "title_en": "The Meeting in the Mango Grove",
+      "title_ur": "امریوں میں ملاقات"
+    },
+    {
+      "position": 4,
+      "title_en": "The Yogi Turns the Prince into a Deer; Ketki's Lament",
+      "title_ur": "جوگی کا کنور کو ہرن بنانا؛ رانی کیتکی کا رونا"
+    },
+    {
+      "position": 5,
+      "title_en": "The Magic Ash, and Ketki Goes into the Forest",
+      "title_ur": "بھبھوت، اور رانی کیتکی کا بن کو نکلنا"
+    },
+    {
+      "position": 6,
+      "title_en": "The Prince Restored, and the Preparations",
+      "title_ur": "کنور کا اصل روپ میں آنا، اور بیاہ کے ٹھاٹھ"
+    },
+    {
+      "position": 7,
+      "title_en": "The Wedding",
+      "title_ur": "بیاہ"
+    },
+    {
+      "position": 8,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ],
+  "kdp_ready": false
+}
