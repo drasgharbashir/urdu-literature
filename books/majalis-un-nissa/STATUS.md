@@ -26,3 +26,9 @@ The 1924 publisher's ads and press notes are omitted.
 - Printed word-gloss footnotes kept, renumbered per chapter as [n], listed at chapter end under "# حواشی" / "# Notes".
 - Uncertain readings to note in PROGRESS.md: I.4 "جمی جم"; I.9 "اداسی چھا گئی" (library stamp); I.14 "دہشت" (print looks like "دباغت"); I.18 "اپنے پڑھنے سے"; I.36 right-margin letters restored from context; I.42 "بیڑی روٹی"; I.45 line 3 faint; I.48 "علم کا چرچا نہیں"; I.56 "ہیضہ کو تھتکارا" as printed; I.82 "دو من دس سیر" (print unclear); I.85 "تلا چڑھوا"; I.87 "ڈھکنی", "نماز کی چوکی" (smudged); I.100 "اکڑا"; I.116 "رونکھی".
 - Scripts in work/: proc.py (raw page transcription to blocks + notes), notes.py, split.py, crop.py.
+
+## Majlis 6 (II.1–21) notes
+- II.16: printed "دیکھو، کبھی تم ان کو عیب نہ جانو" contradicts the sense; translated by sense with a [TN].
+- II.17: read "ایک جمعے کے دن تو سفر نہ کرنا" (the word is smudged; "عذر" is the other possible reading but makes no sense).
+- II.20: read "مگر بہت ضرور تینوں زبانوں کا سیکھنا ہے".
+- II.2/II.3: the catchword at the foot of II.2 ("اس") is not repeated in the text.
