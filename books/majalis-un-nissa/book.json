@@ -1,0 +1,76 @@
+{
+  "slug": "majalis-un-nissa",
+  "title_en": "Majalis-un-Nissa (Assemblies of Women)",
+  "title_ur": "مجالس النساء",
+  "author_en": "Altaf Husain Hali",
+  "author_ur": "خواجہ الطاف حسین حالیؔ",
+  "translator": null,
+  "subject_en": null,
+  "subject_ur": null,
+  "genre": "novel",
+  "original_language": "ur",
+  "description_en": "Written in 1874 by the poet and reformer Altaf Husain Hali (1837–1914), Majalis-un-Nissa is one of the first Urdu prose narratives set entirely in the home, and a founding text of the debate on women's education in South Asia. In nine evening gatherings an elderly governess, Atu-ji, answers the doubts of the young women of a Delhi household by telling the life of Zubaida Khatun: how her mother taught her to read, keep accounts and run a house; how, widowed young, she raised her son Sayyid Abbas herself; and how he travelled from Delhi to Bombay, Mecca and Istanbul. Rich in the everyday speech of Delhi women, with Hali's own glosses. Complete Urdu text from the Hali Press edition (Panipat, 1924; publisher's matter omitted), with a facing English translation, introduction and glossary. Cite as: Hali, Majalis-un-Nissa, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "شاعر اور مصلح الطاف حسین حالی (۱۸۳۷ء–۱۹۱۴ء) کی ۱۸۷۴ء کی تصنیف \"مجالس النساء\" اردو کی ان اولین نثری کہانیوں میں سے ہے جن کا سارا ماحول گھر کے اندر کا ہے، اور جنوبی ایشیا میں عورتوں کی تعلیم کی بحث کی بنیادی کتاب ہے۔ نو مجلسوں میں ایک بزرگ استانی، آتوجی، دلی کے ایک شریف گھرانے کی جوان بیبیوں کے شبہات کا جواب زبیدہ خاتون کا حال سنا کر دیتی ہیں: ماں نے انھیں کس طرح لکھنا پڑھنا، حساب رکھنا اور گھر چلانا سکھایا؛ کم عمری میں بیوہ ہو کر انھوں نے اپنے بیٹے سید عباس کو کس طرح خود پالا؛ اور وہ دلی سے بمبئی، مکہ اور استنبول کیسے پہنچا۔ دلی کی بیگماتی زبان کا خزانہ، حالی کے اپنے حواشی کے ساتھ۔ مکمل اردو متن حالی پریس کی اشاعت (پانی پت، ۱۹۲۴ء؛ ناشر کی عبارتیں حذف) سے، مع انگریزی ترجمہ، تعارف اور فرہنگ۔ حوالہ: حالی، مجالس النساء، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "The First Majlis: Atu-ji, Mahmooda Begum and Maryam Zamani",
+      "title_ur": "پہلی مجلس: آتوجی، محمودہ بیگم اور مریم زمانی کی گفتگو"
+    },
+    {
+      "position": 3,
+      "title_en": "The Second Majlis: Zubaida Khatun's Childhood",
+      "title_ur": "دوسری مجلس: آتوجی کا بیان"
+    },
+    {
+      "position": 4,
+      "title_en": "The Third Majlis: A Mother's Counsel on Learning",
+      "title_ur": "تیسری مجلس: زبیدہ خاتون کا باقی بیان"
+    },
+    {
+      "position": 5,
+      "title_en": "The Fourth Majlis: Running a Household",
+      "title_ur": "چوتھی مجلس: زبیدہ خاتون کا باقی بیان"
+    },
+    {
+      "position": 6,
+      "title_en": "The Fifth Majlis: Studies, Marriage and Widowhood",
+      "title_ur": "پانچویں مجلس: زبیدہ خاتون کا باقی بیان"
+    },
+    {
+      "position": 7,
+      "title_en": "Part Two. The Sixth Majlis: Sayyid Amjad Ali's Testament",
+      "title_ur": "دوسرا حصہ۔ چھٹی مجلس: سید امجد علی کا وصیت نامہ"
+    },
+    {
+      "position": 8,
+      "title_en": "The Seventh Majlis: Sayyid Abbas's Upbringing",
+      "title_ur": "ساتویں مجلس: سید عباس کا بیان"
+    },
+    {
+      "position": 9,
+      "title_en": "The Eighth Majlis: Man and Beast, and the Government School",
+      "title_ur": "آٹھویں مجلس: آدمی اور جانور، اور سرکاری مدرسہ"
+    },
+    {
+      "position": 10,
+      "title_en": "The Ninth Majlis: The Journey, the Quicksand and Istanbul",
+      "title_ur": "نویں مجلس: آتوجی کا بیان"
+    },
+    {
+      "position": 11,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ],
+  "kdp_ready": false
+}

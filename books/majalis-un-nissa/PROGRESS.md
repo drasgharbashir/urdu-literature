@@ -1,25 +1,21 @@
-# Majalis-un-Nissa — WORK IN PROGRESS (do not publish yet)
+# Majalis-un-Nissa (majalis-un-nissa)
 
-There is deliberately no `book.json` here, so this folder cannot be published as it stands.
+Produced by the cloud project thread "University-ready book list" (queue: /mnt/project-files/notes/book-queue.md, item 3).
 
-Author: Altaf Husain Hali (d. 1914), public domain.
-Source: archive.org `in.ernet.dli.2015.373957` ("Majalis Unnisa", Hali Press, Panipat, 1924 / 1342 AH; State Central Library Hyderabad copy), 244 PDF pages.
-Page map: part 1 book p = PDF p - 2 (pp. 1-130 = PDF 3-132); part 2 pp. 1-106 = PDF 137-242.
-The 1924 publisher's ads and press notes are omitted.
+## Source
+- Author: Khwaja Altaf Husain Hali (1837-1914). Written 1874. Public domain everywhere; us_status not needed (pre-1931 work).
+- Urdu text: archive.org `in.ernet.dli.2015.373957` ("Majalis Unnisa", Hali Press, Panipat, 1924 / 1342 AH; State Central Library Hyderabad copy), 244 PDF pages.
+  Page map: part 1 book p = PDF p - 2 (pp. 1-130 = PDF 3-132); part 2 pp. 1-106 = PDF 137-242. Text ends at II.106 "تمام شد": nine majalis.
+- Omitted: the 1924 publisher's ads and press notes. Hali's printed word-gloss footnotes are kept (chapter-end notes).
 
-## Done
-| Majlis | Book pages | Urdu transcribed | English | Chapter files |
-|---|---|---|---|---|
-| 1 | I.1-22 | yes | yes, parity checked | chapters/02-ur.txt, 02-en.txt |
-| 2 | I.23-47 | yes | yes, parity checked | chapters/03 |
-| 3 | I.48-75 | yes | yes, parity checked | chapters/04 |
-| 4 | I.76-101 | yes | yes, parity checked | chapters/05 |
-| 5 | I.102-130 (end of part 1) | yes: work/m5.txt, processed work/m5.ur | NOT yet translated | - |
+## Chapters
+1 About this edition + Introduction (new); 2-6 majalis 1-5 (part 1); 7 part 2 heading, majlis 6 and Sayyid Amjad Ali's testament; 8-10 majalis 7-9; 11 Glossary (new, 40 entries).
+All 11 chapters: ur/en block parity checked (same heading flags and line counts per block); double-quote counts per block checked against the Urdu.
 
-## To do
-1. Translate majlis 5 (write work/m5.en with the same blocks as m5.ur; footnotes [1]-[4]; then `python3 notes.py m5` with an m5.nmap.json, and `split.py` to split long paragraphs). Contains a Persian couplet (Sa'di, *Bustan*: "سپردم بتو مایۂ خویش را / تو دانی حساب کم و بیش را") that needs a translation plus the original in a note.
-2. Part 2: majalis 6 (II.1), 7 (II.22), 8 (II.58), 9 (II.79) to the end "تمام شد" at II.106; check whether a 10th majlis starts between II.79 and II.106.
-3. Chapter 01 "About this edition" + introduction; final glossary chapter; book.json (slug majalis-un-nissa, genre novel); PROGRESS.md; catalog row.
+## Status
+- 22 Oct 2026: ur + en complete, reviewed against the Urdu, book.json written.
+- book.json has "is_published": false on purpose: this is the book's first publication, which needs the owner's go-ahead (CLAUDE.md). Flip it to true when publishing.
+- NEXT (PC): cover, publish_book.py, deploy, per the usual pipeline.
 
 ## Conventions used
 - Speaker abbreviations expanded: آ = آتوجی (Atu-ji), م / م ب = محمودہ بیگم, ب ب = بڑی بیگم, م ز = مریم زمانی.
