@@ -32,3 +32,9 @@ The 1924 publisher's ads and press notes are omitted.
 - II.17: read "ایک جمعے کے دن تو سفر نہ کرنا" (the word is smudged; "عذر" is the other possible reading but makes no sense).
 - II.20: read "مگر بہت ضرور تینوں زبانوں کا سیکھنا ہے".
 - II.2/II.3: the catchword at the foot of II.2 ("اس") is not repeated in the text.
+
+## Majlis 7 (II.22–57) notes
+- II.25: "بیماری کاہلی کے سوا" read as printed; translated "except when ill or indisposed".
+- II.49: bottom lines faded; read "یا بیٹھا بڑی بی کے ساتھ مغز زنی کر رہا ہے" and "اسے کبھی ڈانٹتیں تم نہیں".
+- II.36: Hali's list of vulgar, irregular and women's words is kept in transliteration with short glosses.
+- II.54–57: Zubaida Khatun's speech to the aunt runs on; the shawl anecdote and the water anecdote are inside it (single quotes).
