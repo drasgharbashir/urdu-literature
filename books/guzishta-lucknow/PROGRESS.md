@@ -1,0 +1,282 @@
+# Guzishta Lucknow (guzishta-lucknow)
+
+Produced by the cloud project thread "University-ready book list" (queue: /mnt/project-files/notes/book-queue.md, item 5).
+
+## Source
+- Author: Abdul Halim Sharar (1860-1926). Serialised in his journal Dilgudaz and collected as a book in his lifetime. Public domain (author died 1926, published before 1931); us_status not needed.
+- Urdu text: archive.org `dli.ernet.450196` (undated reprint; catalogue publisher "Sultan Haseen and Sons (karachi)"). Scan page offsets drift (repeated images at p-111/112 and p-253; see notes below).
+- Last four pages ([p350]-[p353]): the DLI copy breaks off after p349 (last leaf lost). Taken from the 1971 Maktaba Jamia edition (ed. Rashid Hasan Khan), archive.org `nMGq_guzashta-lucknow-by-maulana-abdul-halim-sharar-ed.-rashid-hasan-khan-new-delhi-1`, book pp.437-440; confirmed as the end of the book against a second scan of that edition. Author's text only; the editor's matter is not used.
+- Missing leaf pp.203-204 (food section, ch29) marked [illegible] with a TN. Duplicate section number (53) printed twice in both editions; the pottery section is printed as (54).
+
+## Chapters
+1 About this edition + Introduction (new); 2-55 Sharar's sections (1)-(54), one per chapter; 56 Glossary (new, 72 entries).
+All 56 chapters: ur/en block parity checked (same heading flags and line counts per block).
+
+## Status
+- 22 Oct 2026: ur + en complete, reviewed against the Urdu, book.json written.
+- book.json has "is_published": false on purpose: this is the book's first publication, which needs the owner's go-ahead (CLAUDE.md). Flip it to true when publishing.
+- NEXT (PC): cover, publish_book.py, deploy, per the usual pipeline.
+
+## Uncertain readings and printed slips (page = printed page of the DLI copy; each has a [TN] where it affects the translation)
+- p1 'پرانے چندربنسی خاندان' as printed (Rama's line is usually called Suryavanshi); TN
+- p3 'محاصل ملک میں سے پنج آنی' as printed (five annas in the rupee)
+- p5 'گرجی بیگ خان کی مسجد', 'موضع جنورا اور چھاؤنی گوشائیں' place names read from print; 'نوچ کے پھینک دیے جاتے' (could be فوج کے)
+- p6 'مقبول علی خان اول و دوم یوسف علی خان' as printed (sense unclear: perhaps two Maqbul Ali Khans and Yusuf Ali Khan)
+- p8 French names read 'مسیو ژانتیل، مسیو سون سون اور مسیو پیدروز' (Gentil and two others; second and third uncertain)
+- p13 dates given in 'سنہ محمدی' (an era about 570 years behind the Christian era): ۴۵۹ (1030), ۶۳۱ (1202), ۹۶۹ (1540); digits small
+- p17 'لیکٹ' (de Laet) date 'سنہ ۱۰۶۱ محمدی (۱۶۳۱ء)' small digits
+- p20 'بھگونت سنگھ' then 'بلونت سنگھ' as printed (same rebel; printer's inconsistency)
+- p22 'بزن بیگ خان', 'باغ مہانرائن' read from print; date 'سنہ ۱۱۶۷ محمدی (۱۷۳۸ء)' small digits
+- p23 'دوگانواں میں ۷۰۰ ایکڑ' place name and figure uncertain
+- p24 Hijri-era dates for Malihabad and the march on Lucknow (۱۱۷۹، ۱۱۸۰ محمدی; ۱۷۵۰، ۱۷۵۱ء) small digits, uncertain
+- p28 date 'سنہ ۱۲۱۳ محمدی (۱۷۸۴ء)', dimensions '۶۰ فٹ چوڑا، ۱۲۰۰ فٹ لمبا', '۱۶۷ فٹ لمبی، ۵۲ فٹ چوڑی' small digits
+- p29 'نہ در و دیوار کی کوئی چپپڑ اکھڑی' read چپپڑ (flake of plaster); 'ٹکیت گنج' reading
+- p30 list of mohallas read from print; 'ٹکری یا ٹکی حسین الدین خان کی چھاؤنی', 'آذلی', 'ترمنی گنج' uncertain
+- p31 'وہ مدرسہ آج تک جاری ہے' — the school (La Martiniere) is mentioned without introduction, as printed; TN
+- p33 'قلمرو کا کوئی جزء اسامی سے نہ دیا ہوگا' as printed; sense: no ruler like him would have let any part go (to a tenant?)
+- p34 first line partly covered by a stain: 'بے انتہا ناراضی' restored from visible letters
+- p35 last line word faint, read 'تنقید'; right margin of the scan stained, a few line-initial letters restored
+- p39 the sentence on Maulana Habib-ur-Rahman Khan Sherwani is a later addition by Sharar in smaller type, squeezed between paragraphs; its last words ('عہد سے تھا') partly cut off
+- p40 'باوجود اس کے زمانے تک' as printed (sense: until this time)
+- p41 'اچھوتیاں' as printed; date 'سنہ ۱۲۵۶ محمدی (۱۸۲۷ء)' small
+- p43 'کرنل ولکاکس' (Wilcox); date 'سنہ ۱۲۷۶ محمدی (۱۸۴۷ء)' small
+- p44 'بادشاہ اور ان کی ماں غازی الدین حیدر کی خاص محل' as printed (Badshah Begum, his stepmother?)
+- p45 one line under an ink stain: 'تو سلطنت کی طرف کون توجہ کرتا' partly conjectural; date 'سنہ ۱۲۶۶ محمدی (۱۸۳۷ء)'
+- p46 one line under an ink stain: 'اور ان کی تخت نشینی منظور نہ ہوگی' partly conjectural; 'منڈیاؤں' (Mandiaon cantonment); 'گریپ' (grapeshot)
+- p47 'اور جہاں تک بنا ملک کے سنبھالنے' partly under an ink stain
+- p48 'ایک اتنا بڑا اور اونچا مینار بنا دیا جائے' under an ink stain, conjectural; 'نئے امام باڑے کی مخالف سمت ایک عالیشان عمارت' (the printed word before عمارت unclear); date 'سنہ ۱۲۷۱ محمدی (۱۸۴۲ء)'
+- p49 running head reads 'مضامین شرر' on this page (other pages 'گزشتہ لکھنؤ'); 'تجارتی غفلت' as printed (perhaps for انتظامی)
+- p50 'رہگرائے عالم جاودان' as printed; 'ستونوں کی جڑائی بھی کرا لائے' as printed
+- p51 'اسی عہد شیعی پاستان' read as printed (perhaps 'عہد ایشیائی پاستان'?) uncertain
+- p54 several lines underlined by a reader in the scanned copy (no textual effect)
+- p56 Persian couplet (Hafiz) given on one line with ' / '; 'عجیب و غریب صورتوں' refers to the present occupants
+- p57 'تین لاکھ روپیہ سالانہ ماہوار' as printed (sense: three lakhs a year, paid monthly?)
+- p58 Sharar's own grandfather (Munshi Qamar-ud-Din) mentioned; 'سنہ ۱۲۸۵/۱۲۸۶ محمدی' dates small
+- p60 'شاہ صاحب ... باڑی اور محمدی ہوتے ہوئے پوائیں میں' place names as printed; Sa'di half-line 'یاران فراموش کردند عشق' as printed
+- p64 'سرود بستان یاد دہانیدن' (proverbial phrase, from the Persian: music recalling the garden) as printed
+- p65 group names (رادھا منزل، ساردھا منزل، لٹکن) read as printed; 'ساردھا' uncertain
+- p66 kothi list: 'صد سلطانی' (first of pair at line start, partly cut by frame) uncertain; 'مکاندار' as printed
+- p67 bird list 'کشوری' (? = cassowary) as printed
+- p68 'بغدادی اونٹ' (two-humped) as printed; last word of p68 'رہ' partly cut
+- p69 'ماڑ پرور' (snake-keepers? read 'مار پرور') uncertain; 'بندی خانہ' as printed; 'اٹھاسی' as printed
+- p70 'شاید اٹھ سکی ہو' as printed (sense: hardly ever)
+- p70 last word read 'مگر' (cut at margin, could be another connective)
+- p71 'عطارد الدولہ', 'تقی علی خان' (could be 'تقیر/تغیر'), 'منصر الدولہ' as printed
+- p72 date 'سنہ ۱۳۱۴ محمدی (۱۸۸۷ء)' small print, digits uncertain; Persian/Urdu misra 'خواب تھا جو کچھ کہ دیکھا...' (Mir Dard) inline as printed
+- p73 'دعوے کیا' as printed
+- p74 (scan image p-085, printed reduced; image p-084 is a blank leaf). Term 'تو دو نامہ' (body and fn2) uncertain reading; 'مارکے' (marks) as printed; 'بدے جاتے' (kite contests wagered) as printed
+- p76 'ایسی گنگا نہیں بہا رکھی تھی' as printed (sense requires 'ایسی گنگا بہا رکھی تھی'; printed 'نہیں' likely misprint for 'بہا'? kept)
+- p78 marginal mark 'سا' beside paragraph 'اب ہم جدا جدا' (reader's/printer's mark?) ignored
+- p79 date in small type: 'سنہ ۱۱۶۹ھ (سنہ ۱۱۸۴ محمدی مطابق سنہ ۱۷۵۶ء)' — last digit of CE year could be ۲ or ۶; ۶ matches 1169 AH
+- p80 'ٹانڈے' (Qaim's home town, read from 'ٹکینے/ٹانڈے'?) uncertain; 'سبھا کے ایک اکبر' as printed
+- p81 'شرفا و کملا' as printed; 'آٹھوں' (the 'Athon' fair) as printed
+- p83 'مثنویوں میں' (printed 'مثنوں')? and 'ساقی نامۂ شفقتیہ' as printed; 'اردو مثنوں میں' read as 'اردو مثنوی میں'
+- p87 'سیہرے، ہرش چندر' (titles of popular stage pieces; first word unclear, 'Harishchandra' fairly clear) conjectural
+- p88 'دہلی ہی کی خاک نے صاحبقران تخلص بلگرام کے ایک ہزل گو' as printed is confused (Delhi vs Bilgram); normalised to 'کی خاک کے ... ہزل گو لکھنؤ میں آئے' — translation follows the sense
+- p89 last two printed lines almost entirely faded in scan (only scattered fragments, e.g. '...محاورات'); marked [illegible]
+- p89 'اور انگریزی میں بھی' = 'and in the English period too' (printed as is)
+- p90 'خوبیاں اور حد بیان سے باہر' as printed (sense: 'its merits are beyond description')
+- p91 Insha quotation (from Darya-e-Latafat): 'یہاں سے ہے کے پیسے ڈولی کہار و' second misra unclear as printed; 'انوری ریختہ' as printed (= 'the Anvari of Rekhta'); 'اوپر والیاں چیلیں' as printed
+- p92 'ایجاد گو ایک دہلی ہی کے شاعر سے ہوئی تھی مگر لکھنؤ میں ہوئی' as printed
+- p93 'اسی زمانے میں یا بعد' (printed 'اسی زمانے میں بعد') sense uncertain
+- p94 last word 'بے اصل ہے' partly cut at margin
+- p97 dates small type: محشر 1882, دلگداز 1887, novels 1888; 'ناول دلچسپ اور موثر ڈراما شہید وفا' as printed
+- p98 'لوگ تغلق کے عہد میں' as printed (probably a misprint for 'تغلق کے عہد'; perhaps 'لودی/تغلق'); 'امیر خسرو نام ایک قابل شخص ... اکبر کے زمانے' as printed (author's claim)
+- p99 'لگوں کے بہترین' (printed 'لگوں کے بہترین جن سے') normalised to 'لگوں کے لیے بہترین ہیں'; 'مینوں مینوں' (crawling child's gait) as printed
+- scan note: images p-111/p-112 repeat book pp. 98-99; offset 13 from p100
+- p100 'ایک ہندو بڑھیا کے کاتے والا' as printed (a seller of ... ; sense unclear: 'بڑھیا کے کاتے' = 'old woman's spun [candy floss]'?) uncertain
+- p101 'کپڑبیے' (= cloth-sellers? read 'کبڑبیے') uncertain
+- p103 margin note in faint ink beside line 3 (reader's annotation) ignored; a faint inked line above 'حاصل ہے' also ignored
+- p104 ink blot over lines 2-5 (centre); 'اہل سنت', 'بے نتیجہ' read through stain
+- p105 'کلیات' read for printed 'کل بالیدہ'? (darbar-e Andalus ne kull ... aur tajribat) uncertain
+- p107 'حکیم بابا' read for printed 'حکیم بنا/بنہ'; 'حکیم عبد المعید صاحب' + marginal addition 'صاحب' beside last name
+- p110 Ghalib's Persian verses: line 2 'ہم برین عہد و رائے و پیمانند' printed 'ہم برین عہد و رائے پیمانند'; line 6 'سخن است' printed 'سخنت'; read as printed where sensible
+- p112 'خطرے میں نہ لاتے تھے' as printed; 'ان دنوں' read for 'اتنے دنوں'? (printed 'استنے دنوں') — sense: 'in all this time'
+- p114 left-margin handwritten annotation (vertical, Urdu) ignored
+- p115 'جو خاص اقلیم آذربائجان کے رہنے والا تھا' — printed 'جو خاص ... کے رہنے والا تھا' with a word lost in the gutter; 'اقلیم آذربائجان' conjectural; 'محمود کے دن کے ساتھ' printed 'محمود کے [آنے کے] دن'? gutter loss
+- p119 'منسا رام' read for printed 'منسا/منشا رام'; 'مولوی قل احمد' as printed; death year of Imad 'المتوفی ۵۹۷ھ' superscript small, uncertain
+- p121 Persian 'این کار از تو آید و مردان چنین کنند' (Hafiz/proverbial) inline; ink blot over 'دکھایا اور کہا'
+- p122 European printer's name printed 'آرسل/آرچر' unclear — marked [?]; dates in small type: 'سنہ ۱۲۳۳ محمدی تا سنہ ۱۲۵۶ محمدی مطابق ۱۸۱۴ء تا ۱۸۲۷ء' digits uncertain; pencil '993'? scribble mid-page ignored
+- p124 'کریما، مامقیماں' (primer titles) as printed; prices '۶ یا ۸ آنے' printed as numeral+abbreviation
+- p125 'اور شہر سے مصلح سنگ بہم پہنچانے لگا' as printed (sense: 'and the city began to supply stone-correctors [to others]'); 'موجد ایک پرانے بزرگ' name not given in text
+- p127 list of ten arts: item (7) printed 'بانا' after '(۶) برچھا' at line break — likely '(۶) برچھا، (۷) بانا'; reading '(۶) برچھا، (۷) بانا' adopted below
+- p128 names 'کٹرۂ بزن بیگ خان', 'بیچے باز خان' (could be 'بچے باز خان'), 'ببر لنگر باز', 'دھنیا مہری' read as printed; 'لڑنے بھڑنے رہتے ہیں' as printed
+- p129 'میر رستم علی کے سینے میں دونوں طرف باڑھ ہوتی' as printed — probably 'پٹے میں' (sword-stick) for 'سینے میں'; translator should note; 'اسیوں' (a qasba, Asiwan) as printed; 'گوری بیچے باز' as printed
+- p131 'ان میں لوہے کے قلمتراش یا سوئی تک کے پاس رکھنے کی قسم تھی' as printed (= they had sworn not to carry); 'قبلہ نما' (compass) as printed
+- p132 'کسی زبردست یا بے آزار' printed (sense requires 'زیردست'= weaker); 'پاؤں لے' (bannot term for footwork) as printed
+- p133 'مشرقی ممالک خاصۃً پنجاب' as printed (author means north-western/upper provinces); 'پیچپیچ' printed 'پیچپیتی'? read as 'پیچ پیچ' (skill in holds)
+- p135 'ام ابان' episode (Fath Dimashq, Thomas) as printed; 'بادشاہ کے اشارے سے' as printed (Asaf-ud-Daula was nawab; Sharar writes بادشاہ)
+- p136 margin pencil marks beside last lines ignored; 'ٹوک کے حملہ' as printed (= with a challenge/warning)
+- p140 'تاؤ دے لگا کے' as printed; 'اس چوٹ نے شیر نے' printed doubled 'نے' — normalised to 'اس چوٹ سے شیر نے'
+- p142 'تو بڑے تک' printed (word lost) — read 'بڑی دیر تک'; 'بھاگ گئے ہیں' as printed
+- p144 footnote printed at foot of p144 (Shervani: beasts and elephants were fought in Delhi too) has no visible reference mark there; attached to the claim on p137 that such fights were unknown in old India
+- p146 'بوچے پر سوار' (a kind of litter/sedan) as printed; 'ہرّے' = 'hurrah'
+- p147 'لہذا ہند میں مرغوں کی نسلیں ایران ہوتی ہوئی آئیں' — printed 'لہذی/لہذا'; sense 'Hence...' kept
+- p149 names list: 'میجر سوارس', 'نواب گھسیٹا', 'سید میراں صاحب', 'جیون خان' read as printed; last line partly cut ('جو بیانہ' ?)
+- p149/150 'نواب محمد تقی خان جو بیانہ کے ایک عالی مرتبہ رئیس' (Biana?) uncertain; p150 'چینگ' printed 'چینگ/چینٹک'; 'کھونٹیوں' read for printed 'کھنڑیوں/گھنڈیوں'
+- p151 'لہولہان' read for printed 'اوقو/لہو'? uncertain; marginal handwritten annotations (Urdu, left margin) ignored
+- p153 'بٹیر جاڑوں سے' (from the cold regions? printed 'جاڑوں سے') as printed; 'صبح ہوتے ہی دو سب طرف سے' printed — 'وہ سب طرف سے'?; 'غلام محمد خان خالص پوری' as printed
+- p154 'سدا یعنی مادہ' as printed; 'اس چڑیا' (galdum, not bulbul) — sentence as printed seems to describe the galdum; 'دونوں حریف کرتے ہوئے' printed 'حریف کرتے ہوئے' (word missing?)
+- p155 pigeon breed names (گلی، نساوری، گلوے، لقے، لوٹن، چوپا چندن) read as printed
+- p156 'ٹپت' (pigeon breed from Khost) as printed
+- p157 'نواب پالے' as printed (name? 'Nawab Pale'); 'چھپی' (pigeon-flyer's signal pole/cloth) as printed; price of Resham-pare pair here 25,000 (cf. p68: 24,000)
+- p157 'پلاٹنیہ' as printed (a prized pigeon variety; spelling uncertain). p157 last line has no stop; joined to p158 'یہ صرف مشہور نہیں ہے'. p158 'ندا جانے' misprint → 'خدا جانے'; 'دس بار' read 'دس بارہ'. Serial note '(یہ ذکر ابھی ختم نہیں ہوا…)' is the author's own Dil Gudaz serial remark, kept.
+- p159 three small line-drawings in the text (shape of the tukkal, upper and lower kanp) rendered as [figure]; 'کمتی قندیل' as printed (? 'کنمی'/'کمپتی'); 'گلیند' as printed (wick-ball); 'شاہ عالم بادشاہ اول' = Shah Alam I (Bahadur Shah I)? as printed; last words 'جب چاہیں اتار لیں' partly read
+- p160 'ہوا دان (آکاس دیا)': printed 'ہوادا کاس دیا' (the akash-diya, sky-lamp) — reading uncertain. 'پتنگ' for the superior tukkal (dots faint).
+- p161 'لوزات' as printed (lozenge? 'لوزات' = almonds/lozenge shape); 'جھلجھل' (tinsel fringe) twice; 'میر امدو' read from 'میر عمدو'? uncertain; 'ڈور پیٹے چلے جاتے' uncertain ('پیتے' = let out)
+- p162 'لمڈوری' as printed (? 'لمڈوری پیچ' long-line bout); 'بے مائیگی سے' as printed; 'آکے آنکھوں پر بٹھائے' ok
+- p163 'پرگ' as printed (? 'پرگ'/'برگ'); 'سرس راگ' as printed; Sharar's claim Krishna is an avatar of Mahadev kept as printed [TN later: Krishna is traditionally an avatar of Vishnu]; 'ابن مسجح' (Ibn Misjah)
+- p164 'فلع (کھماچ)' read uncertain (printed 'ضلع'? ); 'زیلف' as printed (zaif/zilf?)
+- p166 'اکبر ثانی کے عہد میں مرزا خان … تحفۃ الہند' as printed [TN: Tuhfat al-Hind of Mirza Khan dates from Aurangzeb's reign]; 'سرودھا' as printed (svarodaya?); 'شمس الاصوات' as printed
+- p167 'قدیم مایۂ لباط' as printed (? 'مایۂ ارتباط'/'مایۂ بساط'); kept as printed, translate loosely '[the] old foundation texts'
+- p168 'ہتھے پر سے اکھڑ گئے' as printed (lost his temper / balked); 'منغص' (vexed) as printed
+- p169 'ثقاہت آبی' as printed (? 'ثقاہت مآبی' = pious sobriety); 'جناب قبلہ و کعبہ' = the chief mujtahid
+- p170 'رحمی الدولہ' as printed (? 'رحیم الدولہ'); 'پرتاب گڑھ' read from 'پرتسڈا'? uncertain; 'میاں سارنگ' as printed (Sadarang?) ; 'شبدایان' as printed (? 'شیدایان')
+- p171 'جوگی کنبرا' as printed (? 'جوگ کنبرا')
+- p173 'بجھو خان' as printed (? 'بجو خان'); 'دلی خان' as printed (? 'ولی خان'); 'شوری' = Shori Miyan (tappa)
+- p176 'یک فنیا' as printed (one-skill specialist)
+- p177 'ناچ ہی کے کٹوایا' as printed (? 'ناچ ہی کے صلے میں'); 'بڑا انبار گروہ' read from 'بڑا انباری گروہ'? uncertain; 'بیلڈ' = ballet
+- p179 Bindadin's age '۷۷' as printed (written c.1914–20 serial)
+- p181 'نیشنل سٹائرسٹ' printed 'نیشنل سٹائرز' (national satirists); 'اسپکٹیٹر اور ٹاٹلر' printed 'اسپکٹیٹر اور ٹاٹلر' (The Spectator and The Tatler)
+- p182 left margin of page cropped in scan: last letters of several lines supplied from context ('گہری نظریں', 'اس پر کیا', 'اٹک اٹک کے', 'حضرت سے پہلے کا ہے', 'ان کے مکان', 'رقص و سرود', 'اٹھو اٹھو', 'نواب صاحب', 'اچھل کے', 'پہچانا', 'ضرور کرتے', 'متنبہ', 'اس کا', 'جاتے۔ آج کل', 'اسی طرح دنوں'?, 'دیوان جی', 'ہو جاتے۔ یہاں', 'سجن'). 'اسی طرح دنوں کا' unclear — read 'ان دنوں'; 'کائستھوں' printed 'کائیتھوں'
+- p182/183 'علی نقی خان مع اپنی بی بی کے' — last word of p182 read 'مع' (printed looks like 'نے'); pun on قائم (Qaim / 'keep standing')
+- p184 'منصرم والی گوہر' as printed
+- p187 'شہادت سبط جعفر' as printed (? 'سبط جعفر' = Husain? likely misprint for 'سبط پیغمبر'); kept as printed, TN
+- p188 'عطائی' (self-taught amateur) as printed
+- p189 footnote (عہ) printed at foot of p189, attached to Khwaja Hasan Maududi on p188; 'منجھو صاحب' as printed
+- p190 'سیاست و بیخود کرنے والا' as printed (? 'مست و بیخود')
+- p192 year printed '۱۸۸۶ء'? first digit partly obscured (Sharar visited England 1886? Colonial and Indian Exhibition was 1886 at South Kensington; Earls Court?) — kept 1886, mark uncertain
+- p193 'قرعے' (strokes) as printed
+- p197 'اس قریب سے' as printed (? 'اس ترتیب سے'); p196→197 junction: p197 line 1 begins mid-sentence with blank space before 'دن بھر' — possibly a dropped word; joined as printed
+- p200 'فوجی پاہیوں' as printed (? 'سپاہیوں')
+- p202 'بٹیا' as printed (? 'بتیا'); last word 'جو تھے' unclear at line end, read as continuing
+- GAP: one leaf (book pp.203–204) is missing from the archive.org scan (image p-215 = p.202, p-216 = p.205). Marked [p203] [illegible]; TN needed: 'pages 203–204 missing from the source scan'. Offset now 11. p205 right margin shaded by a fold: first word of p205 hidden (probably the cook) → [illegible]; 'اقامت پذیر', 'دسترخوان', 'سامنے', 'کیں', 'کے' partly hidden, supplied from visible fragments.
+- Scan order: image p-217 = p.207, p-218 = p.206 (swapped).
+- p206 'چتیاں' (spots) as printed; 'سلفچی آفتابہ' (wash-basin and ewer)
+- p208 'ملجانے' read 'مل جانے'; 'گلتھی' (rice dish) as printed
+- p210 'بھونوں' as printed (? 'بہونوں'); 'کھپا کھپایا' read from 'کھپا یا'
+- p211 '۴۲ سیر' read (printed '۴۲' partly smudged); 'مقطر' (distilled/strained); Sharar's own testimony: lived 6–7 years with Munshi-us-Sultan in Matiya Burj
+- p213 'چونچالی' (liveliness) as printed; 'محمو' as printed (Mahmu)
+- p215 'جبن' (curd/cheese) as printed; 'پنیری' as printed
+- p216 'لال' = lal (red avadavat bird) flying out of samosas; 'کچے بھٹوں' read (printed 'کچے بھٹوں' with dots unclear); 'کھڑکی کے سے خار' as printed (? 'ککڑی کے سے خار' = cucumber-like prickles) — prefer ککڑی
+- p218 'حصوں' (portions sent out) as printed; 'اروِیاں' (arum/arbi)
+- p219 header page number printed '۱۱۹' (misprint for ۲۱۹); 'جھجھرا' (cover) as printed (? 'جھجرا')
+- p221 'بلندی ہند' read 'بلادِ ہند'? printed 'بلندی'; translate as 'cities of India'. 'ان کا پتہ نہیں' as printed (sense: 'their origin is not known'?) ; 'سمنک' (germinated wheat flour) as printed
+- p222 'جو فی سیر چالیس سیر کے قریب پڑا' as printed (ratio per seer of samnak); 'دہنیت' (fattiness) as printed; 'کاچھ کے' (skimmed)
+- p224 'مستند معیار رہی تسلیم' as printed (? 'معیار ہی')
+- p225 'چوگھڑے' as printed (wedding sweet-boxes/caskets)
+- p226 'گلی رکابیوں' as printed (unglazed clay? 'گِلی'); 'کھتوں' (pits); 'شالباف (ڈول)' as printed
+- p227 'آثار' read for printed 'آلوز'? (? 'الواح'); 'حقے خانہ' printed 'حقہ خانہ'?
+- p229 'مشروع' (mashru' fabric) and 'گلبدن' fabrics
+- p230 'چولی قبا سی سی لی گئی' as printed ('قبا سی سیں لی'?); 'بارلیٹ' (? 'باریک' or barege fabric) as printed
+- p231 'اہل کار اور یابان دربار' as printed (? 'باریابانِ دربار' = those admitted to court) → read باریابان
+- p234 'کمرخی' as printed (? 'کمرخی' = with corners/'kamrakhi'); 'نین سکھ' (fabric)
+- p236 'لبان' as printed (? 'لبان' = sides of head?) ; 'تیلی ٹوپی' read (printed 'تیلی'); 'نکے دار' as printed; 'موقر و شین' (? 'موقر و متین')
+- p237 'گرنٹ' (? grenadine fabric) as printed
+- p240 'بھراؤ میں کپڑے کا' (with cloth padding) read from zoom
+- Scan: image p-253 repeats p.240; offset now 13 from p.242.
+- p243 'اب جگہ بالکل' as printed (? 'اب ہر جگہ'); 'حدیث العمر' (young) as printed; 'گھیتلا' (curled-toe shoe)
+- p244 'ابد کے زمانے میں' as printed (? 'بعد کے زمانے میں') → read 'بعد'; 'گھرس' (tuck) as printed
+- p245 'تقیائے' as printed (? 'اتقیائے' = the pious)
+- p246 ink blots: 'سارے ہندوستان [کے مس]لمانوں' supplied; lower blot hides ~1–2 words in 2 lines ('انھیں کی [illegible] کا اثر', 'دہلی کے [illegible] عہد'); 'شریف زادوں' supplied from fragment.
+- p247 ink blot over centre: 'ایک ایک پائجامے' supplied; 'اس قدر عزیز' supplied; 'شہر کی [illegible] عورتیں' (prob. 'شریف'/'عام'); 'آئے گا' supplied. 'اوریبی' as printed (= bias-cut, 'اریب')
+- p248 'شکنوں' (creases) as printed; 'ملا اعلیٰ' as printed
+- p250 'خوردنوکا' as printed; 'چمرودھے' (coarse leather) as printed; 'کٹھل' (jackfruit)
+- p251 'چڑھویں' as printed (= چڑھواں); 'دوکان' as printed.
+- p252 'بلندی ہند' as printed (prob. = upper/northern India, contrasted with جنوبی ہند); last word at foot hidden by ink blot, read 'کہلا…' from fragments, continues p253.
+- p252 final words 'کہلاتا ہے۔' completed under ink blot (only 'کہلا' visible; p253 opens a new sentence).
+- p253 'بلندی ہند' again — Sharar's term for upper/northern India; 'طیار' as printed; 'گھٹنے' (= tight) as printed.
+- p254 'محرم' here = the bodice (= انگیا), not the month; 'لاہی' (a fine fabric) and 'کریب' (crêpe) as printed; 'گھرس لیے' as printed (tucked); 'باڈس' = bodice.
+- p255 Persian misra quoted as printed: 'ہر لحظہ بوضع دگر آن یار برآمد' (variant of the well-known 'ہر لحظہ بشکل آن بت عیار برآمد') — translate + keep original in note.
+- p256 'سائے' (= saya, gown), 'بانٹ' (= bonnet) as printed, Sharar glosses بانٹ himself; 'گندہ' as printed (prob. = گندہ/گاڑھا, thick/coarse). New section (37).
+- p257 zoom-verified: 'پنڈے میں تین تین کرتیوں کا چست انگرکھا' (angarkha with three-tiered bodice panels). 'بڑھا دیا جاتا' = taken off (idiom of jewellery). 'گرنٹ' as printed.
+- p258 one word at left margin after 'دولائیوں' cropped by binding (ends '-ان'?) → [illegible].
+- p259 last line faint (worn bottom edge); 'سہاگ' read from fragments, confirm against p260 start.
+- p260 'سادہ کاروں' as printed (gem-setters, = سادہ کار); last line 'جن پر شاہ اور اپنے مذاق کا تصرف' as printed — 'شاہ' perhaps for شاہی; translate literally. New section (۳۸).
+- p261 ink stain over 'دہلی والوں کے کوئی' — read through stain, confident.
+- p262 ink blot over item (10) — read 'مجلسیں' from fragments; blot over 'کے بعد … بیان' on last line, read from fragments.
+- p263 'مارکین صاحب' (popular corruption of Martin) as printed; La Martinière was in fact built by Claude Martin (Constantia) — Sharar's 'dolatmand French merchant' fine; TN optional.
+- p264 'سودی خانہ' as printed (store-room, = سودا خانہ?) — gloss with TN; 'ماما اصیلوں' = maidservants.
+- p265 'آثاروں' = wall-thickness (آثار); 'مکانیت' = usable room-space.
+- p267 'بنا کے جاتے' as printed (prob. 'بنائے جاتے'). New section (۳۹).
+- p268 'شالباف (ٹول)' — Sharar glosses; 'سندل کی وضع' as printed (sandal-shape? prob. 'صندل'); translate cautiously with TN.
+- p269 'بکار آمد' as printed.
+- p270 sub-item printed '(۳) وضع قطع' (Sharar's list numbering; furniture = (۲) was given as section ۳۹ without the number). Ink blot over 'موقع پر ہمیں' read from fragments. 'ایک جوڑا کو' as printed. New section (۴۰).
+- p271 'ہم مذہبی' (shared Shi'i faith) and 'وہاں ہی' as printed; 'یا تو … یا' construction as printed (= 'whereas among Muslims … in Iran').
+- p272 'صلعم' as printed (render as ﷺ-style abbreviation in translation: 'peace be upon him'); 'شریف و وضیع' as printed; 'دوپٹوں کے موباف' as printed.
+- p273 sub-item '(۴) اخلاق و عادات' (list numbering, not a section heading).
+- p276 'پیارو' (courtesan's name) and 'حکیم مہدی' (Hakim Mahdi Ali Khan, minister of Nasir-ud-din Haidar); 'دستور کی رقم' = customary fee/nazrana for appointment; 'بےحیا کیے چلا جانا' as printed (prob. 'بےحجابی سے'? reads 'بےحیا') — translate as 'openly and unabashedly'.
+- p277 'کی باعث' as printed (twice). New section (۴۱).
+- p278 'سلف سیکری نا کسر' as printed — Sharar's garbled transliteration of English 'self-sacrifice' (?) glossed by himself 'یعنی … قربان کر دینے'; keep as printed, TN in translation. NB: logic suggests he means trade calls self-sacrifice folly. 'ہو جیے' as printed.
+- p279 'تنغص' as printed (= تنغّص, vexation); 'اس کی سواد' as printed.
+- p281 New section (۴۲).
+- p282 'سوا ناجائز چیزوں کے' = except forbidden (alcoholic) drinks. zoom-verified 'شاعری، نثاری اور سخن فہمی'.
+- p283 'چودھرائن بی حیدر جان' (courtesan); 'چندے کے ذکر' as printed (prob. 'چندے کا ذکر').
+- p284 sub-item '(۶) صاحب سلامت'. Arabic greetings — translate + keep original. 'بون متیں' (bon matin) as printed.
+- p286 'اس لیے کہ' as printed (sense: 'therefore'); 'صلعم' small superscript after 'رسول خدا' read from fragments.
+- p287 'اسلام کی اصلی سلام' as printed; Arabic formulas 'سلامٌ علیکم', 'السلام علیک یا ابا عبد اللہ' — translate + keep original.
+- p288 'تسلیم و آداب و تسلیم' as printed (dittography? keep); 'ادنیٰ و اعلیٰ' read through blot over last line; 'کردہ و فحش' as printed (prob. 'کریہہ و فحش', ugly and obscene) — translate 'coarse and obscene' with TN. New section (۴۳), sub-item (۷).
+- p289 right margin cropped: initial letters supplied (اس بارۂ، حاصل، تعلیم، مگر، اہل، باہر، سامنے، ہیں، الزام، لکھنؤ، میں نے، ہیں، ایک، یہ، عرب، دنیا، کے، ہندوستان، بذلہ، زبان، 'کیا جائے' (first letter cropped, appears as لیا), اور، ضمیر، شما).
+- p290 'کوس لمن الملکی' (Persian idiom: beat the drum of 'whose is the kingdom?' = proclaim sovereignty) — gloss.
+- p291 'مجارٹی' (majority) as printed; 'جو رسیلا پن' printed looks like 'چور رسیلا پن' (misprint) — normalised.
+- p292 lower half left margin cropped: line-final words supplied from context (بولے جا رہے ہیں، رہیں گے، فارسی، لوگوں، اور ان کو، کو گفتگو، الفاظ سے، اور مثلوں، ہر لفظ، پست، ادنیٰ).
+- p293 New section (۴۴), sub-item (۸). Sharar calls 'الظرافة في الكلام كالملح في الطعام' a 'well-known hadith' — it is a proverb, not an authenticated hadith; TN. Printed 'مقولہ ملکہ' read 'مقولہ بلکہ'.
+- p294 'ڈاکٹر اگھورناتھ' (Bengali scholar, prob. Aghorenath Chattopadhyay) — name as printed. Joke 'دودھ پیا کرتے ہیں' (= 'we are sucklings these days') — TN. 'I conceive' anecdote. Closing quote of Sharar's reply placed where speech ends on p295.
+- p295 'حکم کے طور پر' (as arbiter, = حَکَم) — translate 'as arbiter'. Close-quote of Sharar's reply to Aghornath placed at 'ہنسا جائے گا'.
+- p296 sub-item (۹). 'ارمانیں' as printed. Ceremony names (چھٹی، چلہ، نہان، عقیقہ، کھیر چٹائی، دودھ بڑھائی، بسم اللہ، ختنہ، رتجگا) → glossary.
+- p297 'خدا رحم' as printed (a votive sweet) — glossary/TN; 'نہان ہوتی ہیں' (= are to bathe). 'چٹوے' as printed (small toy pots?). New section (۴۵).
+- p298 Sharar's claim that Jews shaved the infant at 'مسجد اقصیٰ' (the Temple) and sacrificed on the 8th day conflates circumcision/redemption rites; TN. 'دو، اور … ایک بکرا' — standard aqiqa rule.
+- p299 'مدت رضاعت اڑھائی برس' — Sharar ascribes 2½ years to Hanafis (Abu Hanifa's view: 30 months); keep. Arabic 'رب یسر ولا تعسر وتمم بالخیر' — Sharar gives his own translation; keep original in note.
+- p301 ink blot over 'شاہد' in 'شاہد آرزو' — read from fragments.
+- p302 'بےشغل و عشق کھکھیڑے کی منگی دلھن' as printed (idiom: a bride betrothed without any fuss/trouble) — ink blot over first letters; 'بردکھوا' (groom-viewing) → glossary. Ink blot after 'اطمینان' (prob. 'کر کے'). Allusion: Mir Hasan's masnavi Sihr al-Bayan, Prince Benazir and Princess Badr-e-Munir — TN.
+- p303 'مشتمل و باوقعت' as printed (prob. 'مشتمل' = substantial?); 'تکلیف' as printed (prob. 'تکلف'); 'جھوٹا ابٹنا / جھوٹی مہندی' (the bride's used ubtan/henna) → glossary; 'سنگین طباقوں' read with doubt ('stone platters'); 'فینسوں' (palanquins, = فینس). Sharar's ubtan sentence: printed 'ابٹنا' read for 'بٹنا'.
+- p304 'ڈھکا ڈھکا کے کھلاتی' as printed (prob. 'feed him with veiled hands'?) — TN cautious. 'سنہری منقش کا سہرا' as printed. 'سوہے' = red cloth (سوہا). 'منہ گھڑوں پر' as printed (word order). 'ساچق' (Turkic sachiq) → glossary. Section (۴۶) heading at foot of page.
+- p305 'خرموں' as printed (dates, = خرما). 'تین باجے' = three kinds of band (continues p306).
+- p306 'بریچھے بردار' as printed (spear-bearers, = برچھے); 'سریر آرا' = enthroned rulers. Sharar's 'English put the crown on Oudh kings from Ghazi-ud-din Haidar' (1819 assumption of kingship) — fine. 'اس اس پانوں والے بیڑے' as printed (dittography? keep 'اس').
+- p307 zoom: 'رسّی نگھائی جاتی ہے' (groom made to step over a rope; نگھانا = to make cross); 'بیسیوں اور رسمیں' as printed.
+- p308 'قرأت و صحت مخارج' as printed; 'گاؤں ہوا' (sense: if it is a village). Last two lines very faded: 'کوئی دقیقہ [illegible] نہیں رکھا جاتا' (prob. اٹھا), 'حقیقت یہ ہے کہ کتخدا' read from fragments; 'ان تمام رسوم کی' as printed.
+- p309 'پر اسرار لاج (فراموش خانہ)' — Sharar glosses Masonic lodge; 'پہلی [illegible]' — one word faded (prob. 'آتے ہی'); 'ٹونے' as printed. Last line of page badly faded: 'ظروف، [illegible] دی جائیں درج ہوتی ہیں۔ تمام چیزوں' (missing c. 4–5 words, prob. 'اور جو جو چیزیں دلھن کو'). New section (۴۷).
+- p310 'ایک سوہے یعنی ٹول پر کی تنزیب کا کرتا' as printed (sense unclear: red tul-lined tanzeb kurta?); 'سلام کرائی' and 'شربت پلائی' (gift customs) → glossary; 'کنٹر' (decanter); 'چھپکا' (palanquin canopy/cover).
+- p311 Printed rows of dots after 'لگے ہوتے ہیں' and before 'اس کے بعد' — elision marks in the source edition (omitted list of items?); rendered '… …' and noted in About This Edition. 'بھوڑے کا کھانا' as printed (prob. 'بھوڑے/بہوڑے', the bride's dowry meal) — glossary w/ caution. 'بنڑے' (wedding songs) → glossary. zoom-verified 'عزیز مرد جی کھول کھول کے' (generously).
+- p312 'سوا اپنے کی ساتھ والیوں کے' as printed; 'بر کا جوڑا' (the bridegroom-side wedding outfit); 'چوتھی' and 'چالے' → glossary. 'ایک دوسرے کے کھینچ کھینچ کے مارتی' as printed (= on one another).
+- p313 'ناظرین گلگداز' as printed (prob. 'ناظرین گداز'? keep); 'بری' (bari, bridal gift set) → glossary; 'کھیلیں' (parched grain); 'مقنع' as printed (prob. 'مقیش'/veil-cloth?) — translate 'muqanna' with TN; 'پچھلے پہر اس وقت کے حسب' as printed (garbled; sense 'at the appointed time in the last watch'); confirms 'بھوڑے'.
+- p314 'توڑا' (full set meal portion) → glossary; 'چونٹی چونٹی کے لیے' as printed (prob. 'every last servant/ant'? = چونٹی 'ant' hyperbole) — translate literally with TN. 'چوتھی میں ایک آنے کی گھڑی تک' as printed (sense: until the chauthi, i.e. until her return) — TN cautious. 'نہ بولے نہ چالے' as printed.
+- p315 'بھوکے بنگالی' (idiom: famished) — keep with TN; 'قسی القلب' (hard-hearted); 'کپڑے کی چٹیں' (strips). New section (۴۸).
+- p316 'شہدے' (rough-mannered professional bearers) — gloss; 'صندوق شامیانے' as printed; 'تلقین' (Shi'i graveside instruction) → glossary.
+- p317 Qur'an 20:55 'منها خلقناكم وفيها نعيدكم ومنها نخرجكم تارة أخرى' — Sharar gives only Urdu translation; give English + Arabic in note. 'نکیرین' (Munkar and Nakir) → glossary. Ja'far al-Tayyar anecdote — fine.
+- p318 'سوم، تیجا، چہلم، دسویں، برسی، تیرہویں' → glossary.
+- p319 'کپڑوں کے نئے … کپڑے' as printed. 'دلیسے' as printed (prob. = a death-anniversary feast; TN). Last line: a folded page corner covers c. 3–4 words after 'پکوایا جاتا ہے' (fragment in margin '…ہے اصول جو…') → [illegible].
+- p320 zoom: 'گھر کے پرجوں' (پرجا = household dependents/service castes); 'حلال خور' (sweeper). 'آل عبا' (People of the Cloak). Last line: first word cut by binding/fold → [illegible] (prob. 'یہاں'). New section (۴۹), item (۱۰) 'آداب صحبت میں دسویں چیز'.
+- p321 Mir Anis, Mirza Dabir; proverb 'بگڑا شاعر مرثیہ گو' (a failed poet becomes an elegist); 'بازو' (supporting voices) → glossary; ذاکر, حدیث خواں, واقعہ خواں, تحت اللفظ خواں, سوز خواں → glossary.
+- p322 'آرٹیروں اور اسپیکروں' (orators and speakers) as printed.
+- p323 'ممبر' as printed (= منبر); 'بجز رقت کے بندوں کے' (except at the stanzas of pathos); 'غفرانمآب' (title of Sayyid Dildar Ali, first Shi'i mujtahid of Lucknow) — TN.
+- p324 'مولوی مہدی حسین صاحب مرحوم' as printed. 'عید شجاع' (9 Rabi' al-Awwal festival) — TN neutral gloss.
+- p325 Sectarian 'صحبت' gatherings described critically by Sharar (hearsay 'سنا جاتا ہے'); translate faithfully and neutrally; TN not needed beyond noting Sharar's own stance. 'پرتکلف کا فرش' as printed. 'مولوی غلام امام شہید' (author of a popular Maulud) — TN.
+- p326 'ڈھاڑیوں' (dhadhi minstrels); 'بھنڈی خانوں' as printed (= بھنڈار خانے? hookah-stores) — TN; 'چنبروں' (hookah rings). New section (۵۰).
+- p327 'مہنالیں' (hookah mouthpieces, = مہنال/منہنال) → glossary; 'خمیرہ' (fermented tobacco) → glossary.
+- p328 Ibn Battuta reference — fine; 'مہوبے' (Mahoba, famous for betel). 'بیڑا اٹھانا' idiom → TN.
+- p329 'ہرائند' (raw green smell), 'بکٹھی/بکٹھا پن' (astringent), 'توڑ' (whey), 'اکال' as printed (caustic, = آکال?), 'بیگمی پان' → glossary.
+- p330 'قاضی محمد یونس صاحب مقیم محمود نگر' (Sharar's acquaintance) as printed; 'بےبنے' read for printed 'بےبنے'; 'پونا' (Poona).
+- p331 'ٹرتے دار بارود' as printed (granular gunpowder-like); 'منشی سید احمد حسین صاحب' (Sharar's friend). 'غیر مدبر' = unprocessed. New section (۵۱).
+- p332 'لیئی' (paste) as printed; 'اصغر علی محمد علی' (perfumers' firm); 'تقویم پارینہ' (last year's almanac = obsolete). Last line left-margin cropped: 'جو رنگ ملا کر الائچی کے' read from fragments.
+- p333 'مگر پھر اس کے کہ' as printed (= باوجود اس کے); 'منہ میں رکھتے ہی' as printed (prob. 'رکھتے ہیں'); 'ریخوں' (gaps between teeth); 'مسی' (tooth-blackening powder) → glossary; 'دہنیت' (oiliness). Remark on Hindu friends not eating paan from Muslim hands — Sharar's observation, translate faithfully.
+- p334 'چاندی کی طرف کا حصہ' as printed (prob. misprint for 'چوٹی کی طرف', the crown/top end) — TN. Sharar lists three cut types then calls the dust 'پانچویں قسم' (fifth kind) — counting inconsistency in the original; keep, TN. 'ہشت پہل' (octagonal); 'دو رخی/یک رخی' → glossary.
+- p335 'پہلی پٹاریاں' read for printed 'پہلی پٹاریاں' (sense 'were at first patari boxes'); 'کلھیاں' (small lidded pots) → glossary.
+- p336 Persian saying in quotes read 'شتر بمقدار علم' (camel proportioned to its banner?) — reading uncertain, first word blurred; keep with TN '[reading uncertain]'. 'عمرو عیار کی زنبیل' (Amar Ayyar's bottomless bag, Dastan-e Amir Hamza) — TN. 'ناگردان', 'حسن دان', 'آرام دان' → glossary.
+- p337 'کیری نما' (mango-shaped); 'تطویل' (cumbersome). New section (۵۲) at foot.
+- p338 'دھنک' (gold/silver lace edging) → glossary; 'پھانکیں' (segments).
+- p339 'بیدر … بدری کا کام' (Bidri ware of Bidar); 'بےپور' as printed (prob. Jaipur? reads 'بجے پور'?) — keep as printed with TN; 'ہڑک' (palanquin-bearers' drum?) as printed; 'جو چینی اور تمام چینی کے' as printed (dittography?).
+- p340 'سلفچی، آفتابہ، بیسن دانی' (wash-basin, ewer, gram-flour box) → glossary. Remark that silver lotas imply laxity in shar'ia (use of silver vessels disapproved) — TN.
+- p341 'وہ اتھلے طشت … ہوتی ہیں' (plural agreement as printed); 'گلی ظروف آب' (clay water-vessels, = گِلی); 'متمائز' as printed.
+- p342 New section (۵۳). 'ہوادار، بوچے، فینسیں، میانے' (litters/palanquins) → glossary; 'فٹنوں، لینڈو' (phaetons, landaus).
+- p343 'ایک اونٹ تو نہیں' as printed (sense: except the camel); 'بروہم یا ردھا گاڑیوں' (brougham; 'ردھا' as printed — prob. 'رتھ'?); 'سکھپال، رتھ، بہلی' → glossary. Sharar's claim the havadar was an English invention — his conjecture.
+- p344 'گرد جلو کے' printed like 'جلوکی'; sukhpal/rath/bahal → glossary.
+- p345 'جو چاندی کے زیور...' (the horses) as printed; 'چھتلے' (fabric canopy cover); 'جھگے' (smocks); 'گلگردار' as printed; 'دہی مچھلی' auspicious send-off → TN; 'ٹٹکا' (totka, charm); 'کلغیوں' read for 'کلگروں'?
+- p346 'رانوں' read for printed 'اونون' (dot/letter lost); 'تہمت' as printed = تہمد; 'چلتے کر و فر' as printed; 'تنسکھ' (tansukh, fine muslin) printed 'تن سکھ'; Sharar's Shia/Hanafi fiqh claim on satr → TN. 'چوگوشیہ' (four-cornered cap).
+- p347 heading printed '(۵۳)' again (duplicate of p342's) — renumbered (۵۴), note in About This Edition; 'اسلیپر مخملی خوردنوکا' as printed (slipper with small toe-tip?); 'اپنے سائے تک سے بچتے' — 'سائے' read, glyph unclear ('سانے'); 'بہتات سے لوگوں' as printed; 'داشت' = care.
+- p348 left margin cropped in lower half: initial letters of 'کسگروں (کاسہ گروں)', 'تک', 'نیز', 'کسگر' supplied from context. 'گلی ظروف' (clay vessels).
+- p349 'ظروف گلدستوں اور لکھنؤ کے ظروف' as printed (sense unclear: perhaps 'ظروف و گلدستوں'); 'بدھنی' (spouted ewer), 'جھجری' (water-cooler pitcher), 'آبخورہ', 'مٹی کا عطر' (attar of earth) → glossary.
+- SOURCE SWITCH: the Lahore scan (dli.ernet.450196) breaks off after p349 (last leaf lost; publisher's ads follow). [p350]–[p353] are transcribed from the 1971 Maktaba Jamia edition (ed. Rashid Hasan Khan), archive.org nMGq_guzashta-lucknow-...-new-delhi-1, book pp.437–440 (images 441–444); author's text only. Checked against the second scan of the same edition (dciU_...), which also ends at p.440 with a closing ornament: this is the end of the book. Both editions number the pottery section '(۵۳)'; we print (۵۴) to avoid a duplicate — note in About This Edition. 1971 text confirms 'ظروف، گلدستوں' at p349.
+- p351 'ٹھنگر' as printed (short neck/spout of the jhajjar); 'انواسے ہوئے' = fresh, never-used; Azimullah Khan's hookahs; Tennyson clay pipes anecdote (Sharar's hearsay) → TN.
+- p352 'نازک امرا' read (glyph 'اُمرا'); 'سٹ' = set.
+- p353 'میڈم ٹسائڈس اگزبیشن' (Madame Tussaud's Exhibition) → TN; 'ٹیلوں' read.
