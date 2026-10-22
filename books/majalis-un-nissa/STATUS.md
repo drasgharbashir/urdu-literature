@@ -38,3 +38,11 @@ The 1924 publisher's ads and press notes are omitted.
 - II.49: bottom lines faded; read "یا بیٹھا بڑی بی کے ساتھ مغز زنی کر رہا ہے" and "اسے کبھی ڈانٹتیں تم نہیں".
 - II.36: Hali's list of vulgar, irregular and women's words is kept in transliteration with short glosses.
 - II.54–57: Zubaida Khatun's speech to the aunt runs on; the shawl anecdote and the water anecdote are inside it (single quotes).
+
+## Majlis 8 (II.58–78) notes
+- II.60: "مولوی صاحب سے میرا سلام کہو" read from a faded line; II.61 bottom lines faded and read with contrast enhancement.
+- II.64: "اس میں آدمی کی سی محبت" read as printed.
+- II.67: "اس پر بھی ٹھیر کر" and II.68 "زور سے" (before ٹھونگ) are uncertain readings.
+- II.72: footnote word read as "کھٹراگ" (glossed انتظام); the reading is uncertain.
+- II.73: "ہے۔" supplied at the page end; "جدا ہلکان" read as printed.
+- Contemporary references (gas lighting in Calcutta, the telegraph, Roorkee) are given short [TN] notes.
