@@ -4,13 +4,13 @@
   "author": "Mirza Ghalib",
   "author_ur": "مرزا اسد اللہ خان غالب",
   "genre": "Poetry",
-  "status": "found",
+  "status": "published",
   "first_published": "1841, Delhi",
   "us_status": "public_domain",
   "source_url": "https://archive.org/details/in.ernet.dli.2015.296279",
   "source_identifier": "in.ernet.dli.2015.296279",
-  "edition": "To be confirmed from the scan's title page (Digital Library of India scan; archive.org lists the date as 1841)",
-  "edition_year": "",
+  "edition": "First edition, printed in October 1841 (1257 AH) at Sayyid Muhammad Khan Bahadur's lithographic press, Delhi, under the management of Sayyid Abdul Ghafoor (colophon, scan page 4). Scan: Digital Library of India copy from Jamia Millia Islamia.",
+  "edition_year": "1841",
   "page_count": 112,
   "description": "Ghalib's own selection of his Urdu ghazals, qasidas, qit'as and ruba'is, the most celebrated collection of Urdu poetry.",
   "translation_note": "Faithful English translation made for this library. Each couplet (sher) is rendered as two lines; accuracy comes before rhyme.",
@@ -19,5 +19,7 @@
     "Asad": "Asad",
     "Dilli": "Delhi",
     "Lakhnau": "Lucknow"
-  }
+  },
+  "transcription_note": "The Urdu was transcribed from the scan images, page by page, and the wording was checked against the Urdu Wikisource text of the divan (based on the 1862 Nizami edition, in modern spelling). Spelling follows that modern standard. About a dozen faded couplets and lines are marked [illegible]. Ghalib's Persian preface (scan pages 6–7) and the Persian afterword (taqriz, pages 107–111) are not yet transcribed.",
+  "cross_check_url": "https://ur.wikisource.org/wiki/دیوان_غالب"
 }
