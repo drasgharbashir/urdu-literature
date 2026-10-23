@@ -1,0 +1,3 @@
+Footnotes signed "ادیب ۱۲" (a reprint editor's glosses, not Nazir Ahmad's) are left out, with their markers:
+p3 fn1 on ریفارمر: "انگریزی لفظ ہے جس کے معنی ہیں اصلاح دینے والا۔ ادیب ۱۲"
+Rule used: notes signed "ادیب" are dropped; notes ending only with "۱۲" (the usual end-mark) are kept as the author's.
