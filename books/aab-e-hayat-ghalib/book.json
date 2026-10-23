@@ -1,0 +1,60 @@
+{
+  "slug": "aab-e-hayat-ghalib",
+  "title_en": "Aab-e-Hayat: The Life of Ghalib",
+  "title_ur": "آب حیات: ذکر غالب",
+  "author_en": "Muhammad Husain Azad",
+  "author_ur": "محمد حسین آزاد",
+  "translator": null,
+  "subject_en": "Literary history and biography",
+  "subject_ur": "تذکرہ و سوانح",
+  "genre": "biography",
+  "original_language": "ur",
+  "description_en": "The section on Mirza Ghalib (1797–1869) from Muhammad Husain Azad's Aab-e-Hayat (1880), the first history of Urdu poetry and a founding classic of modern Urdu prose. Azad, a pupil of Ghalib's rival Zauq who knew Ghalib in person, tells of his noble descent, lost pension and journey to Calcutta, his poverty, pride, marriage, religion and friends, and the ruin of Delhi in 1857; quotes many of his famous Urdu letters; lists his Persian and Urdu works; tells the story of the wedding sehra that offended the emperor and Ghalib's verse apology; and collects his celebrated witticisms, ending with his own death chronogram and a selection of ten ghazals. One of the earliest accounts of Ghalib and the source of many anecdotes still told about him, read in courses on Ghalib, Urdu literature and the culture of Mughal Delhi. Complete Urdu text from the Lucknow edition of 1900, with Azad's footnotes, a facing English translation, an introduction and a glossary. Cite as: Muhammad Husain Azad, Aab-e-Hayat (Ghalib), tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "محمد حسین آزاد کی \"آب حیات\" (۱۸۸۰ء)، اردو شاعری کی پہلی تاریخ اور جدید اردو نثر کی کلاسیک، سے مرزا غالب (۱۷۹۷ء–۱۸۶۹ء) کا حصہ۔ آزاد، جو غالب کے حریف ذوق کے شاگرد تھے اور غالب کو ذاتی طور پر جانتے تھے، ان کا نسب، پنشن کا چھن جانا اور کلکتہ کا سفر، تنگ دستی، خودداری، شادی، مذہب اور دوست، اور ۱۸۵۷ء میں دلی کی تباہی بیان کرتے ہیں؛ ان کے مشہور اردو خطوط نقل کرتے ہیں؛ ان کی فارسی اور اردو تصانیف گناتے ہیں؛ اس سہرے کا قصہ سناتے ہیں جس سے بادشاہ کو ناگواری ہوئی اور غالب کی منظوم معذرت؛ اور ان کے مشہور لطیفے جمع کرتے ہیں، جن کے بعد غالب کی اپنی تاریخ وفات اور دس غزلوں کا انتخاب ہے۔ مکمل اردو متن ۱۹۰۰ء کی لکھنؤ کی اشاعت سے، آزاد کے حواشی کے ساتھ، مع انگریزی ترجمہ، تعارف اور فرہنگ۔ حوالہ: محمد حسین آزاد، آب حیات (ذکر غالب)، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Ghalib: Life",
+      "title_ur": "غالب: حالات زندگی"
+    },
+    {
+      "position": 3,
+      "title_en": "Mirza Sahib's Life and Natural Habits",
+      "title_ur": "مرزا صاحب کے حالات اور طبعی عادات"
+    },
+    {
+      "position": 4,
+      "title_en": "Mirza Sahib's Life and Natural Habits (continued)",
+      "title_ur": "مرزا صاحب کے حالات اور طبعی عادات (جاری)"
+    },
+    {
+      "position": 5,
+      "title_en": "Persian Works",
+      "title_ur": "تصنیفات فارسی"
+    },
+    {
+      "position": 6,
+      "title_en": "Persian Works (continued)",
+      "title_ur": "تصنیفات فارسی (جاری)"
+    },
+    {
+      "position": 7,
+      "title_en": "Ghazals",
+      "title_ur": "غزلیں"
+    },
+    {
+      "position": 8,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ]
+}
