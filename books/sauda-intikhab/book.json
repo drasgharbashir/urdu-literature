@@ -1,0 +1,60 @@
+{
+  "slug": "sauda-intikhab",
+  "title_en": "Sauda: Selected Poems",
+  "title_ur": "انتخاب کلام سودا",
+  "author_en": "Mirza Muhammad Rafi Sauda",
+  "author_ur": "مرزا محمد رفیع سودا",
+  "translator": null,
+  "subject_en": "Poetry",
+  "subject_ur": "شاعری",
+  "genre": "poetry",
+  "original_language": "ur",
+  "description_en": "Selected poems of Mirza Muhammad Rafi Sauda (1713–1781), with Mir Taqi Mir the great poet of eighteenth-century Delhi and the master of the Urdu qasida: his ode in praise of the Prophet, which moves from a prelude of wise sayings through a 'second opening' to the praise of the Prophet's justice, together with twenty-four ghazals full of wit, wordplay and mockery of the Shaikh and the Qazi, and four quatrains. Urdu text from Urdu Wikisource with a couplet-by-couplet facing English translation, notes on puns and allusions, an introduction and a glossary. Cite as: Sauda, Selected Poems, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "مرزا محمد رفیع سودا (۱۷۱۳ء–۱۷۸۱ء) کا منتخب کلام، جو میر تقی میر کے ساتھ اٹھارھویں صدی کی دہلی کے بڑے شاعر اور اردو قصیدے کے استاد تھے: ان کا نعتیہ قصیدہ، جو حکیمانہ اقوال کی تشبیب سے \"مطلع ثانی\" کے راستے رسول اکرمؐ کے عدل کی مدح تک پہنچتا ہے، اور ساتھ ظرافت، رعایت لفظی اور شیخ و قاضی پر طنز سے بھری چوبیس غزلیں اور چار رباعیاں۔ اردو متن اردو ویکی ماخذ سے، شعر بہ شعر انگریزی ترجمے، رعایتوں اور تلمیحات کی وضاحت، تعارف اور فرہنگ کے ساتھ۔ حوالہ: سودا، منتخب کلام، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "The Qasida in Praise of the Prophet",
+      "title_ur": "نعت حضرت رسالت علیہ السلام (قصیدہ)"
+    },
+    {
+      "position": 3,
+      "title_en": "Ghazals 1–6",
+      "title_ur": "غزلیں ۱ تا ۶"
+    },
+    {
+      "position": 4,
+      "title_en": "Ghazals 7–12",
+      "title_ur": "غزلیں ۷ تا ۱۲"
+    },
+    {
+      "position": 5,
+      "title_en": "Ghazals 13–18",
+      "title_ur": "غزلیں ۱۳ تا ۱۸"
+    },
+    {
+      "position": 6,
+      "title_en": "Ghazals 19–24",
+      "title_ur": "غزلیں ۱۹ تا ۲۴"
+    },
+    {
+      "position": 7,
+      "title_en": "Quatrains",
+      "title_ur": "رباعیات"
+    },
+    {
+      "position": 8,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ]
+}

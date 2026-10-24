@@ -1,0 +1,31 @@
+# About This Edition
+
+This book gives the Urdu text, with an English translation, of a selection from the poems of Mirza Muhammad Rafi Sauda (1713–1781): his *qasida* (ode) in praise of the Prophet, twenty-four *ghazals* (lyric poems in couplets) and four *rubais* (quatrains).
+
+Source of the Urdu text: Urdu Wikisource (ur.wikisource.org), author page "Mirza Muhammad Rafi Sauda", where each poem has its own page. Wikisource does not name the printed edition the poems were taken from. The book takes the only qasida and all four quatrains on that page, and the first twenty-four ghazals in the order the page lists them, leaving out two long ghazals of thirteen and fifteen couplets.
+
+What is not included: Sauda's satirical *Shahr Ashob* (lament for the city) and his other satirical qasidas are not on Urdu Wikisource or in any other freely transcribed source, so they are not included here. Nothing has been supplied to fill that gap.
+
+What is included and what is left out: each poem is given complete, as it stands on Wikisource, with nothing added. Wikisource page headings and licence notices are left out. Spellings in the source, including a few evident misprints, are kept as they stand; where the meaning is affected, a translator's note says so. In the qasida one line stands alone without its partner, and one line is garbled; both are kept and marked.
+
+Arrangement: the qasida comes first, as it does in the old collected works (*kulliyat*), followed by the ghazals, numbered 1 to 24 and headed, as is usual, by their first lines, and then the quatrains. Each couplet (*sher*) stands as a block of two lines, and each quatrain as a block of four.
+
+Translation: the translation is faithful and complete, in plain modern English, with nothing summarised or skipped. Accuracy comes before rhyme and metre: each couplet is translated as two lines, and the poet's pen name (*takhallus*), Sauda, is kept as a name. Where a couplet turns on a pun or an allusion, a translator's note explains it. Key terms are kept in italics with a short gloss and explained in the glossary at the end. Translator's notes are marked [TN: ...].
+
+Copyright: Sauda died in 1781. His poems are in the public domain everywhere. The English translation is new.
+
+# Introduction
+
+Mirza Muhammad Rafi Sauda was born in Delhi in 1713, the son of a merchant family from Kabul. With his younger contemporary Mir Taqi Mir he stands at the height of the classical Urdu poetry of eighteenth-century Delhi, and the old critics called him the master of the *qasida*. When Delhi was ruined by invasion and civil war, he left it, as so many poets did, first for Farrukhabad and then for Lucknow, where he was honoured by the Nawab Asaf-ud-Daula and where he died in 1781.
+
+Sauda wrote in every form. His qasidas, long odes in one rhyme, praise God, the Prophet, the Imams and his patrons, and are celebrated for their learning, their vigour and their mastery of difficult rhymes. He was also the great satirist of Urdu: in his *Shahr Ashob*, the "lament for the city", and in his mocking qasidas he laughed at greedy patrons, ignorant physicians, bad poets, starving horses and the collapse of the old order in Delhi. His ghazals are less inward than Mir's, but full of wit, play on words and bold images.
+
+The qasida in this book, a *na't* (poem in praise of the Prophet), shows the form's classic course. It opens with a prelude of wise sayings about skill, solitude, wealth and patience; then, with a "second opening", it turns to the beloved, and only then to its real subject, the praise of the Prophet Muhammad, whose justice makes the hawk rear the pigeon's chick and the wolf guard the flock. At the end the poet checks himself, afraid that his praise has gone too far, and asks forgiveness.
+
+The ghazals show Sauda's range: the lover's tears and the beloved's cruelty, the tavern against the mosque, the Shaikh and the Qazi mocked, the mystic's sense that idol and Ka'ba point to one Reality, and, again and again, delight in a pun. The quatrains end in the same spirit: the true pilgrimage is the one made to the heart.
+
+Why it is studied: Sauda is one of the two pillars, with Mir, of the classical Urdu poetry of Delhi, and the founder of the Urdu qasida and of Urdu satire. His work is read in every university course on classical Urdu poetry.
+
+Names in this translation: Sauda, Mir Taqi Mir, Dard, Delhi, Lucknow, Isfahan, Ali, Joseph, Solomon, Khizr, Adam, Eve, Majnun, Farhad, Parvez, Mani, Bihzad. Key terms are kept in italics with a short gloss on first use, and explained in the glossary at the end.
+
+How to cite: Mirza Muhammad Rafi Sauda, *Selected Poems* (Urdu Wikisource), with English translation, urduintranslation.com, 2026, https://www.urduintranslation.com/works/sauda-intikhab.
