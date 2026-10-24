@@ -1,0 +1,29 @@
+# About This Edition
+
+This book gives the Urdu text, with an English translation, of forty-five poems by Meeraji (1912–1949): ten *ghazals* (lyric poems in couplets) and thirty-five *nazms* (poems on a single theme, many in free verse). They are all the poems of Meeraji held on Urdu Wikisource, and they are given here in the order of that collection: the ghazals first, then the nazms.
+
+Source of the Urdu text: Urdu Wikisource (ur.wikisource.org, author page "مصنف:میراجی"), where each poem has its own page, marked as in the public domain in India. Wikisource does not name the printed edition the poems were taken from. Meeraji's poems appeared in literary magazines and in his collections of the 1940s; the exact first printing of each poem is not recorded here.
+
+What is included and what is left out: each poem is given complete, as it stands on Wikisource, with nothing added. Wikisource page headings and licence notices are left out. One poem, "The Night's Story in the Guise of Day", repeats a whole stanza; the repetition is kept as it stands in the source. Where a word in the source looks like a misprint, it is kept and a translator's note says so; where a reading is uncertain, a translator's note says so. Nothing has been supplied to fill a gap.
+
+Arrangement: the poems are numbered 1 to 45 and grouped into chapters. Each poem has its own heading: a ghazal is headed by its first line, as is usual, and a nazm by Meeraji's title. Meeraji's own line breaks are kept. In his long free-verse poems a line often breaks in the middle of a phrase; the English follows the Urdu line by line as closely as English word order allows, so that the two columns can be read side by side.
+
+Translation: the translation is faithful and complete, in plain modern English, with nothing summarised or skipped. Accuracy comes before rhyme and metre: the ghazals are translated couplet by couplet, two lines to each couplet, and Meeraji's pen name, which he places in the last couplet of most ghazals, is kept as a name. Several poems are frankly sensual, as Meeraji intended; they are translated as he wrote them, in a literary register, without softening or heightening. Key terms are kept in italics with a short gloss and explained in the glossary at the end. Translator's notes are marked [TN: ...].
+
+Copyright: Meeraji died in 1949, so his work is in the public domain in Pakistan and India. The poems were first published in the 1930s and 1940s, so their status in the United States should be checked before any sale there. The English translation is new.
+
+# Introduction
+
+Meeraji was the pen name of Muhammad Sanaullah Dar, born in 1912 in the Punjab. He grew up partly in Lahore, left school without a degree, and educated himself through wide reading in Urdu, Persian, Hindi, Sanskrit and English literature. He took his pen name from Meera Sen, a Bengali girl he loved from a distance and never spoke to; the unanswered love became a lasting theme of his poetry and of the legend that grew around him.
+
+In Lahore he worked for the literary journal *Adabi Duniya* and became a leading figure of the *Halqa-e-Arbab-e-Zauq* ("Circle of the Men of Taste"), a writers' group that met weekly to read and criticise new work. He later worked for All India Radio in Delhi and then moved to Bombay. He lived poor and unsettled, drank heavily, and died in Bombay in 1949, aged only thirty-seven.
+
+With N. M. Rashid, Meeraji is counted as one of the two founders of modern Urdu poetry. He was among the first to write the Urdu *azad nazm* (free verse), with lines of irregular length that follow the movement of thought rather than a fixed metre. His subjects were the inner life: desire and its frustration, loneliness, memory, time, death and the self. He drew on French Symbolism, on Freud and on English and American modern poetry, and also on Hindi and Sanskrit tradition, the songs of Krishna and Radha, and the imagery of Indian rivers, forests and seasons. He translated poets as different as Sappho, Baudelaire, Edgar Allan Poe and the Sanskrit and Bengali love poets, and he wrote some of the first close critical readings of modern Urdu poems.
+
+The poems in this book show his range. The ghazals keep the classical form but often use a soft Hindi vocabulary of the *geet* (song). "The Clerk's Song of Love" gives the day of a poor city clerk who loves a woman far above him. "The Pilgrim", "Deprivation" and "The Tall Building" are long, dreamlike monologues in free verse. "The Student" is a sharp reflection on women, learning and power, and "The End of the War" is a comic scene between a mother-in-law and a daughter-in-law. Poems such as "Beyond the Body", "On the Bank of a Stream" and "Temptation" treat desire with a frankness that shocked many of his first readers and made him a controversial figure.
+
+Why it is studied: Meeraji is read in every course on modern Urdu poetry, on the Progressive and Halqa-e-Arbab-e-Zauq movements, and on modernism in South Asian literature. His free verse, his psychology of desire and his blending of Western and Indian sources make him central to the history of the Urdu poem in the twentieth century.
+
+Names in this translation: Meeraji, Meera Sen, N. M. Rashid, Iqbal, Mir, Timur, Plato, Luqman, Indra, Lahore, Delhi, Bombay. Key terms are kept in italics with a short gloss on first use, and explained in the glossary at the end.
+
+How to cite: Meeraji, *Selected Poems* (Urdu Wikisource), with English translation, urduintranslation.com, 2026, https://www.urduintranslation.com/works/meeraji-nazmen.

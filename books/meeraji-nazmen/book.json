@@ -1,0 +1,72 @@
+{
+  "slug": "meeraji-nazmen",
+  "title_en": "Meeraji: Selected Poems",
+  "title_ur": "میراجی کی نظمیں",
+  "author_en": "Meeraji",
+  "author_ur": "میراجی",
+  "translator": null,
+  "subject_en": "Poetry",
+  "subject_ur": "شاعری",
+  "genre": "poetry",
+  "original_language": "ur",
+  "description_en": "Forty-five poems by Meeraji (1912–1949), with N. M. Rashid the founder of modern Urdu poetry and a pioneer of Urdu free verse: ten ghazals and thirty-five nazms, including The Call of the Sea, The Clerk's Song of Love, The Pilgrim, Deprivation, The Student, The Tall Building and The End of the War. Dreamlike monologues on desire, loneliness, memory, time and the self, drawing on French Symbolism and Freud as well as Hindi song and Indian myth, they made Meeraji the most daring voice of the Halqa-e-Arbab-e-Zauq in 1940s Lahore. Urdu text from Urdu Wikisource with a line-by-line facing English translation, an introduction and a glossary. Cite as: Meeraji, Selected Poems, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "میراجی (۱۹۱۲ء–۱۹۴۹ء) کی پینتالیس نظمیں اور غزلیں، جو ن م راشد کے ساتھ جدید اردو شاعری کے بانی اور اردو آزاد نظم کے پیش رو تھے: دس غزلیں اور پینتیس نظمیں، جن میں سمندر کا بلاوا، کلرک کا نغمۂ محبت، جاتری، محرومی، طالب علم، اونچا مکان اور جنگ کا انجام شامل ہیں۔ خواہش، تنہائی، یاد، وقت اور ذات پر خواب ناک خود کلامیاں، جو فرانسیسی علامت نگاری اور فرائڈ کے ساتھ ہندی گیت اور ہندوستانی اساطیر سے بھی رس لیتی ہیں، اور جنھوں نے میراجی کو ۱۹۴۰ء کی دہائی کے لاہور میں حلقۂ ارباب ذوق کی سب سے بے باک آواز بنایا۔ اردو متن اردو ویکی ماخذ سے، سطر بہ سطر انگریزی ترجمے، تعارف اور فرہنگ کے ساتھ۔ حوالہ: میراجی، منتخب کلام، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "us_status": "check",
+  "kdp_hold": "Meeraji died in 1949. The Urdu text is public domain in Pakistan and India, but poems first published from 1931 on may still be in copyright in the US (95 years from publication, restored by the 1994 URAA). Clear before any US sale.",
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Ghazals: Poems 1–10",
+      "title_ur": "غزلیں: ۱ تا ۱۰"
+    },
+    {
+      "position": 3,
+      "title_en": "The Call of the Sea and The Clerk's Song of Love: Poems 11–15",
+      "title_ur": "سمندر کا بلاوا اور کلرک کا نغمۂ محبت: نظمیں ۱۱ تا ۱۵"
+    },
+    {
+      "position": 4,
+      "title_en": "The Pilgrim and The Rival: Poems 16–21",
+      "title_ur": "جاتری اور رقیب: نظمیں ۱۶ تا ۲۱"
+    },
+    {
+      "position": 5,
+      "title_en": "Beyond the Body and The Night's Story in the Guise of Day: Poems 22–25",
+      "title_ur": "جسم کے اس پار اور دن کے روپ میں رات کہانی: نظمیں ۲۲ تا ۲۵"
+    },
+    {
+      "position": 6,
+      "title_en": "Deprivation and The Student: Poems 26–30",
+      "title_ur": "محرومی اور طالب علم: نظمیں ۲۶ تا ۳۰"
+    },
+    {
+      "position": 7,
+      "title_en": "Passing On and The Washerman's Ghat: Poems 31–35",
+      "title_ur": "چل چلاؤ اور دھوبی کا گھاٹ: نظمیں ۳۱ تا ۳۵"
+    },
+    {
+      "position": 8,
+      "title_en": "On the Road in the Evening and The Tall Building: Poems 36–39",
+      "title_ur": "شام کو راستے پر اور اونچا مکان: نظمیں ۳۶ تا ۳۹"
+    },
+    {
+      "position": 9,
+      "title_en": "Temptation and The End of the War: Poems 40–45",
+      "title_ur": "ترغیب اور جنگ کا انجام: نظمیں ۴۰ تا ۴۵"
+    },
+    {
+      "position": 10,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ]
+}
