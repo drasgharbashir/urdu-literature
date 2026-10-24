@@ -52,3 +52,30 @@ p56: "سب بدتین ہوئیں خالصے لگا چکے" as printed (= مدت�
 p57-: "دو سو بار رکھوائی تھیں" as printed (= "دو سو بار" pawned twice? sense unclear)
 p57: "دیوانہ را ہوئے بس ست" as printed (proverb: دیوانہ را ہوئے بس است)
 p57: "جیسے میراں و نشیب کی گردان" as printed (perhaps a grammar-book conjugation, e.g. ضرب یضرب); sense unclear
+p59: "جو ہڑ میں ایک میر صاحب" — place name printed "جوہڑ/جونپور?" unclear
+p60: "برسوں کی جمی جمائی ٹھیڑی" as printed (= ٹھیہ, a stall/pitch); "لڑکوں کا پالا چھونا" as printed (children's game); "تم کون دقتوں کے آئے ہوئے ہو" as printed
+p60: "اور تم تو کیا آدمی، کی پیر شدی" as printed (Persian tag, perhaps "تو کہ آدمی، کی پیر شدی" = when did you become a pir?)
+p61: "کسی قدر جھول سے بھی گئے تھے" as printed (sense: had lost some ground)
+p62: "بڑے بھائی کے دائیں وار ہیں" as printed (= برابر کے?); sense: about the same age as my elder brother
+p63: "لینے کا نام لینا، میں دونوں میں" (scan unclear); "مگر ابا جان اس کا یہ جواب" second ابا/آغا unclear; "اور کام نہ کیے" reading
+p66: "چھوٹک حواشی" reading unclear (perhaps "چھوڑ کر"?)
+p66: "تار کے ساتھ دوڑا" unclear (ڈورا?)
+p67: "سدھاریں گے" — scan "سدھارئیے"? ending unclear
+p67: "شاید تمھاری ناکہنوں ہوا ہو" — scan unclear (ناکہنی? with superscript کا); translate cautiously
+p70: "اور روزوں بھی" (text has "اور دوں بھی"? i.e. "اور یوں بھی") — check; "رات سے کھیل تک" (کھیل = khil, parched grain?) reading
+p71: "خان بہادر کا خطاب ملتا چلا آئی" — scan "کا خطاب بٹتی چلی آئی"? reading uncertain
+p72: "مبدل بناخوشی" = مبدل بہ ناخوشی
+p76: "پھر رسی گئی" unclear (پھر رہ گئی?); "دانت بچے ہوئے" = بھچے/بھنچے (clenched); "جب تک دوسرا نکاح کرے" (sic: نہ کرے?); "اشغاف قلب" = شغاف قلب
+p77: Quran quote has superscript marker but no matching footnote on page; dropped marker
+p78: "موتی" here = میت/موت? scan clearly "موتی" (= موت, death-gathering) ; "بھنڈوڑنی"
+p78: "پر بات سوایا" unclear; "ہولی میں آئی ہوں" (sic, = غمی میں?) unclear; "سواری اترو الو"
+p79: "آزادی نوجوان بیر نہ ہوتی" unclear (= زندہ نہ رہتی? "بیر" uncertain); "کنواسے" (= پرنواسے)
+p79: "اخل کفر" = داخل کفر/اقل? ; "مولویوں کے بین یہ تھے" reading of line-end ambiguous (could be "مولویوں کے بین یہ تھے" sarcastic heading for the family laments)
+p80: inserted speaker label "مستجاب کی ماں:" — scan has "مستجاب کی ماں دودھ بھی نہ بخشوا کے گئے" (could be within Hadi Begum lament; verify)
+p80: "ایک فرد بشر کا نشان دو جو کبھی مرا" — = "نشان دو" (show me one); "مستثنیٰ" scan "محتمل"? unclear
+p81: "قاعدہ تو ٹوٹتا تھا" (rule of not taking fees broken?) unclear
+p82: "ہرانی جتانی" (scan) = making someone lose/win arbitrarily
+p83: Arabic proverb on scan reads "عند الامتحان یکرم الرجل" with rest cut; completed "او یہان" per standard proverb — check; Urdu gloss "عزت گئی یا رہی" supports it
+p85: "خواص جنھوں نے ہم دیا ہوں سے" — unclear (= "ہم مولویوں سے"?); Persian couplet "عذرت از پیش می رود با ما / با خداوند غیب دان نرود" — your excuse may pass with us but not with the all-knowing Lord
+p87: hadith on scan "رب اشعث اغبر لو حلف علی اللہ لابرہ" — I normalised to اقسم; restore scan wording
+p89: "تو جائے بہر بھی ہے" unclear (= "تو جائے صبر بھی ہے"?)
