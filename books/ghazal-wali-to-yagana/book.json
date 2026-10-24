@@ -1,0 +1,72 @@
+{
+  "slug": "ghazal-wali-to-yagana",
+  "title_en": "The Urdu Ghazal from Wali to Yagana",
+  "title_ur": "اردو غزل: ولی سے یگانہ تک",
+  "author_en": "Wali Dakkani, Mir Dard, Atish, Zauq, Dagh, Hasrat Mohani, Fani and Yagana",
+  "author_ur": "ولی دکنی، میر درد، آتش، ذوق، داغ، حسرت موہانی، فانی اور یگانہ",
+  "translator": null,
+  "subject_en": "Poetry",
+  "subject_ur": "شاعری",
+  "genre": "poetry",
+  "original_language": "ur",
+  "description_en": "Forty-eight ghazals by eight masters of the Urdu lyric, six by each, tracing the form across two and a half centuries: Wali Dakkani, the Deccani poet who showed Delhi that the ghazal could be written in Urdu; the Sufi Khwaja Mir Dard; Atish of Lucknow; Zauq, laureate of the last Mughal court; Dagh, master of the playful Delhi idiom; and the twentieth-century voices of Hasrat Mohani, Fani Badayuni and Yas Yagana Changezi. The standard 'Wali to Yagana' sequence of university Urdu courses, with the Urdu text from Urdu Wikisource, a couplet-by-couplet facing English translation, notes on allusions and wordplay, an introduction and a glossary. Cite as: The Urdu Ghazal from Wali to Yagana, tr. urduintranslation.com (2026). The first chapter is free to read.",
+  "description_ur": "اردو غزل کے آٹھ استادوں کی اڑتالیس غزلیں، ہر ایک کی چھ، جو ڈھائی صدیوں میں اس صنف کا سفر دکھاتی ہیں: دکن کے ولی، جنھوں نے دہلی کو دکھایا کہ غزل اردو میں کہی جا سکتی ہے؛ صوفی خواجہ میر درد؛ لکھنؤ کے آتش؛ آخری مغل دربار کے ملک الشعرا ذوق؛ دلی کے شوخ محاورے کے استاد داغ؛ اور بیسویں صدی کی آوازیں حسرت موہانی، فانی بدایونی اور یاس یگانہ چنگیزی۔ جامعات کے اردو نصاب کا معیاری سلسلہ \"ولی سے یگانہ تک\"، اردو متن اردو ویکی ماخذ سے، شعر بہ شعر انگریزی ترجمے، تلمیحات اور رعایتوں کی وضاحت، تعارف اور فرہنگ کے ساتھ۔ حوالہ: اردو غزل، ولی سے یگانہ تک، ترجمہ urduintranslation.com (۲۰۲۶ء)۔ پہلا باب مفت۔",
+  "access": "premium",
+  "is_published": false,
+  "is_featured": false,
+  "free_chapters": 1,
+  "us_status": "check",
+  "kdp_hold": "All eight poets died by 1956, so the Urdu text is public domain in Pakistan and India. Hasrat Mohani (d. 1951), Fani Badayuni (d. 1941) and Yas Yagana Changezi (d. 1956) published collections from 1931 on, which may still be in copyright in the US (95 years from publication, restored by the 1994 URAA). Clear those chapters before any US sale.",
+  "chapters": [
+    {
+      "position": 1,
+      "title_en": "About This Edition and Introduction",
+      "title_ur": "اس اشاعت کے بارے میں اور تعارف"
+    },
+    {
+      "position": 2,
+      "title_en": "Wali Dakkani: Ghazals 1–6",
+      "title_ur": "ولی دکنی: غزلیں ۱ تا ۶"
+    },
+    {
+      "position": 3,
+      "title_en": "Khwaja Mir Dard: Ghazals 7–12",
+      "title_ur": "خواجہ میر درد: غزلیں ۷ تا ۱۲"
+    },
+    {
+      "position": 4,
+      "title_en": "Haidar Ali Atish: Ghazals 13–18",
+      "title_ur": "حیدر علی آتش: غزلیں ۱۳ تا ۱۸"
+    },
+    {
+      "position": 5,
+      "title_en": "Shaikh Ibrahim Zauq: Ghazals 19–24",
+      "title_ur": "شیخ ابراہیم ذوق: غزلیں ۱۹ تا ۲۴"
+    },
+    {
+      "position": 6,
+      "title_en": "Dagh Dehlavi: Ghazals 25–30",
+      "title_ur": "داغ دہلوی: غزلیں ۲۵ تا ۳۰"
+    },
+    {
+      "position": 7,
+      "title_en": "Hasrat Mohani: Ghazals 31–36",
+      "title_ur": "حسرت موہانی: غزلیں ۳۱ تا ۳۶"
+    },
+    {
+      "position": 8,
+      "title_en": "Fani Badayuni: Ghazals 37–42",
+      "title_ur": "فانی بدایونی: غزلیں ۳۷ تا ۴۲"
+    },
+    {
+      "position": 9,
+      "title_en": "Yas Yagana Changezi: Ghazals 43–48",
+      "title_ur": "یاس یگانہ چنگیزی: غزلیں ۴۳ تا ۴۸"
+    },
+    {
+      "position": 10,
+      "title_en": "Glossary",
+      "title_ur": "فرہنگ"
+    }
+  ]
+}

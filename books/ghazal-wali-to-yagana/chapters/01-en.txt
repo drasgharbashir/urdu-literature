@@ -1,0 +1,27 @@
+# About This Edition
+
+This book gives the Urdu text, with an English translation, of forty-eight *ghazals* (lyric poems in couplets) by eight poets, six by each, chosen to show the course of the Urdu ghazal over two and a half centuries: Wali Dakhni, Khwaja Mir Dard, Haidar Ali Atish, Shaikh Muhammad Ibrahim Zauq, Dagh Dehlavi, Hasrat Mohani, Fani Badayuni and Yas Yagana Changezi. It follows the "Wali to Yagana" ghazal unit of the Pakistani BS Urdu reading list.
+
+Source of the Urdu text: Urdu Wikisource (ur.wikisource.org), where each ghazal has its own page, linked from each poet's author page. For each poet, six ghazals were taken from the first ghazals listed on the author page, leaving out only very long poems and two-couplet fragments. Wikisource does not name the printed edition each ghazal was taken from.
+
+What is included and what is left out: each ghazal is given complete, as it stands on Wikisource, with nothing added. Wikisource page headings and licence notices are left out. Spellings in the source, including Wali's old Deccani forms (*sun* for *se*, *kun* for *ko*, *nain* for *nahin*) and a few evident misprints, are kept as they stand; where the meaning is affected, a translator's note says so. Nothing has been supplied to fill a gap.
+
+Arrangement: one chapter for each poet, in order of date. The ghazals are numbered 1 to 48, and each is headed, as is usual, by its first line. Each couplet (*sher*) stands as a block of two lines.
+
+Translation: the translation is faithful and complete, in plain modern English, with nothing summarised or skipped. Accuracy comes before rhyme and metre: each couplet is translated as two lines, and the poet's pen name (*takhallus*), which comes in the last couplet, is kept as a name. Where a couplet turns on a pun or an allusion, a translator's note explains it. Key terms are kept in italics with a short gloss and explained in the glossary at the end. Translator's notes are marked [TN: ...].
+
+Copyright: all eight poets died in 1956 or earlier, so their work is in the public domain in Pakistan and India. Wali, Dard, Atish, Zauq and Dagh were published long before 1931. Hasrat Mohani (died 1951), Fani Badayuni (died 1941) and Yas Yagana Changezi (died 1956) published some of their collections in 1931 or later, so the status of their ghazals in the United States should be checked before any sale there. The English translation is new.
+
+# Introduction
+
+The *ghazal* is the central form of Urdu poetry. It is a chain of couplets in one metre, held together by a rhyme and often a refrain (*radif*) at the end of each couplet; each couplet is complete in itself, and the poet names himself in the last. Its world is love, almost always unanswered: the cruel and beautiful beloved, the lover's sleepless nights, the rival, the counsellor and the preacher, the tavern and the Saqi, the nightingale and the rose. The same images carry earthly love and the mystic's love of God, and much of the pleasure of the ghazal lies in how a poet turns them anew.
+
+Wali (about 1667–1707) wrote in the Urdu of the Deccan, and his visit to Delhi in 1700 is said to have shown the poets of the north that the ghazal could be written in Urdu as well as in Persian; he is often called the father of Urdu poetry. Khwaja Mir Dard (1721–1785), a Sufi of Delhi, gave the ghazal its most purely mystical voice. Haidar Ali Atish (1778–1846) of Lucknow brought a bold, colourful and passionate manner, and Shaikh Muhammad Ibrahim Zauq (1790–1854), poet laureate of the last Mughal emperor and rival of Ghalib, a polished command of idiom and proverb.
+
+Dagh Dehlavi (1831–1905), raised in the Red Fort, became the master of the playful, colloquial love ghazal of Delhi speech, and ended his life as court poet in Hyderabad, with hundreds of pupils across India. In the twentieth century Hasrat Mohani (1875–1951), a fighter for Indian freedom who spent years in prison, renewed the classical love ghazal with personal feeling; Fani Badayuni (1879–1941) made it a poetry of sorrow and death; and Yas Yagana Changezi (1884–1956), proud and quarrelsome, a fierce critic of Ghalib, gave it a sharp, modern voice of self-assertion and doubt.
+
+Why it is studied: these eight poets are the standard sequence of the Urdu ghazal in university courses in Pakistan and India. Read together, they show how one form passed from the Deccan to Delhi and Lucknow, from Sufism to courtly wit, and from the Mughal court to the politics and private anguish of the twentieth century.
+
+Names in this translation: Wali, Dard, Atish, Zauq, Dagh, Hasrat, Fani, Yas or Yagana, Ghalib, Majnun, Laila, Farhad, Joseph, Moses, Jesus, Bihzad, Delhi, Lucknow, the Deccan, Hyderabad. Key terms are kept in italics with a short gloss on first use, and explained in the glossary at the end.
+
+How to cite: *The Urdu Ghazal from Wali to Yagana* (Urdu Wikisource), with English translation, urduintranslation.com, 2026, https://www.urduintranslation.com/works/ghazal-wali-to-yagana.
