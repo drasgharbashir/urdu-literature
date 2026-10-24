@@ -118,3 +118,59 @@ p127: 'سکندر بیگم' = Nawab Sikandar Begum of Bhopal (r.1860-68) TN; 'ت
 p128: 'بیسوا' inserted above line before نازک اندام (Azadi calls her a courtesan)
 p131: 'اچھوتیاں' Nasir-ud-Din Haidar's unmarried women (TN); Quran 24:32
 p132: 'گچی گالیاں' (= foul abuse); 'نقل کفر کفر نباشد' Persian maxim (TN)
+p133: 'وحی صدمہ' (printed so; maybe 'وحشی'?); 'جمپئی رنگ' = champa-coloured; list of ugly epithets partly unclear (ہونی/بونی)
+p134: word after 'یہ سب' smudged -> [illegible] (perhaps 'ملانوں'); 'مرنا یوں بھی مرنا، دوں بھی' as printed; 'لوسو چوسے کھا کے' unclear; 'گریۂ مسکین' (=meek cat)
+p134: 'نہوت' (= poverty, نہوت/نحوست?) as printed
+p137: ghazal 'للمؤلف' (by the author); sher 8 names ظفر, last sher ends 'تو زار' (prob. takhallus Zaar); couplet from Insha Allah Khan
+p138: 'بوستان کا باب پنجم' = Saadi's Bustan ch.5 (on love) TN; plagues of Pharaoh (lice, frogs) TN
+p141: 'ڈفالیوں' (dafali drum-singers); 'تکلے چلانا' (printed تکلے, maybe تکے = shooting at random)
+p143: 'تمہاری تقدیر میں بدا' as printed (prob. 'بدا' = destined/لکھا)
+p144: 'نہ کھیا نہ کھایا' proverb (printed نہ کھا یا ... unclear); 'کس تو آئی میں جان ہے' unclear (perhaps 'کس توائی میں')
+p144: 'ایک آدمی کچھ پیسے لو، کرائے کے ساتھ چلو' unclear (printed ایک آدمی کچھ پیسے لو اکر آگے چلو?)
+p144: phrase 'خیر و خیریت' uncertain; 'ایک آدمی ... آگے چلو' partly illegible
+p145: 'کمسریٹ' = commissariat; 'گھتی میں دھسہ' (blanket left in carriage?) unclear
+p146: 'مجھ کو تو یہاں کھینچ لگی' unclear; 'ریپٹ' = report (police)
+p147: 'شاید آپ روپیہ کھل جائیں' unclear
+p148: 'یہ بڑا اتنا افیم کا کھاتی ہے' (printed 'بڑا انٹا'? = opium pellet) unclear; 'کھینتلی جوتی' (? style of shoe)
+p149: 'ایسا ہتھیار کیا کرتا ہے' (printed ایسا پتیسا ہمرا?) unclear; 'چونچ کرتا ہے' (? چونچ = punish) unclear
+p152: 'دو اوپر چار سو' = 402 (lit. 'two over four hundred')
+p152: remedies list 'ٹڑ پڑے' unclear (perhaps ٹکور/پٹیاں?); 'خالی بھری سینگیاں' = dry/wet cupping horns
+p153: 'تلی ہوئی' = weighed; 'ریم' = pus; 'ویسی جراح' (prob. دیسی) printed ویسی
+p154: 'رہی بیماری، تو زخم ہی میں نے تو' unclear wording (printed 'بیماری یہ تو زخم ہے میں نے تو'?)
+p156: Quran 10:12 quoted; Urdu gloss follows in print (kept in parentheses)
+p157: 'بولا اٹھا' as printed (= gasped? 'بولا گیا'?); 'کل سے بے نصیب' (کُل = all)
+p159: Quran 48:2, 46:9, 5:18, 62:6 (2:94); Urdu glosses in parentheses where printed run-in
+p161: 'ایک دن گھٹتا ہی گیا گزرا ہو جائے' as printed; 'میرے سے گہنے' (= jewellery like mine)
+p161: 'مچھڑ' (= pest/clinging beggar?) as printed
+p162: Quran 39:53 printed as 'یا ایها الذین اسرفوا' (variant of 'یا عبادی'); transcribed as printed; TN: standard text reads یا عبادی
+p163: printed 'تو یہ وا ستغفار' read as توبہ و استغفار; Quran 2:286 & 65:7
+p163: 'ہم خرما و ہم ثواب' Persian idiom (both dates and merit = profit both ways); 'سد راہ' as printed (sense: example/path-opener; prob. misprint for سنگ راہ? kept)
+p164: margin word after "عورتوں کی" unreadable (looks like موئی گی), marked [illegible]; "نمونہ" read from "ٹونہ"-like form.
+p164: last words "منہ سے" (print looks like ٹونہ). p165: "کوکھ کا درد" read from کوٹھے-like form; "کلک" = throbbing.
+p166: "کیا تعزز، خاندانی" — print looks like "کیا تعززِ خاندانی" (family dignity); "مقدرت" at line end uncertain.
+p166: "ہیٹی تھی" (=inferior) after "مقدرت کے اعتبار سے"; "مولوں" probably مولویوں/مولوں as printed; footnote ۱ on فونوگراف.
+p167: Quran 4:11 (part); Persian misra read "ہر کہ را پنج روز نوبتِ اوست" (print: ہرکہ ا پنج روز / نوبت اوست).
+p168: word after "اپنے حق میں" unreadable (looks like بلا لون / ملعون?), marked [illegible].
+p169: "داہنے داروں" = equals/peers (lit. right-hand ones?) as printed; "مفاجاتاً" = suddenly; "خدا نے مجھ کو زبان دی ہے" = God has given me his word (promised).
+p170: verse "نسیم غفلت..." (no attribution printed); Quran 50:21-22 with no Urdu gloss printed; "جبرِ نقصان" = making good the loss.
+p170: "جس کے لیے [illegible] درکار ہے" — print looks like "زہیر سارا علم" (perhaps زہرہ / courage), marked illegible.
+p171: "باپ کی اصلاح [illegible]" (print: اصلاح نرکھا ہوئی?); "تیر کرنے" = to pass (days); "سوکھا ٹرخا دیا" = let slip by without fasting.
+p171-172: "مرنے کے بعد جو ابد ہمارا اس کے یہ معنے" — "ابد ہمارا" as printed (sense: the eternity that awaits us).
+p173: Arabic saying "من عرف نفسه فقد عرف ربه" (hadith-like maxim) — needs TN.
+p174: "جوری اور اسیسر" = jury and assessor (English loanwords); "نواب صاحب" with "نے" (print shows نواب صاحب with ـنے above).
+p175: "ویسی اور اتنی عزت" (print looks like وتنی).
+p176: "جانیں جائیں، آن نہ جائے" — print "کہ جائے جان، پے آن" read as جان جائے، آن نہ جائے? Check translation: print reads "کہ جائے جان، نہ جائے آن".
+p176: "سینیں ماریں گی" (= make signs/winks, سین مارنا); "اگلی ڈھگی سب بیوی کی صحنک" — all the wives, first-married ones, will eat the Bibi ki sahnak (votive dish restricted to once-married women); "انگشت نما ہو گی نہیں نہیں" punctuation as print.
+p177: "بیبیوں سے [illegible] ہی کیوں" — print looks like "بیسیوں سے ناوں ہی کہوں"; "میاں سے ملاپ" read from "مالاپ".
+p177: "صوم داؤد" = fasting on alternate days (the fast of David).
+p178: "عورتیں، وہ بھی عورت میں بھی بیوہ، وہ بھی بیوہ میں کچی" as printed (sense unclear: kachchi = young/unsure?); "دوسری سری کی ہوتی" as printed, likely "another, a lightweight (سرسری) one, would not have taken such trouble".
+p178: "مہر رواں رواں" — print "آپ مہر رواں رواں" likely "آپ میرا رواں رواں" (my every hair); "ہتے سے اکھڑا" = flew off the handle. Quran 49:12 (لا تجسسوا), 4:17-18.
+p179: Quran 4:18 end + printed Urdu gloss (no parens); Arabic maxim "اختیار العار علی النار" glossed in print as "دنیا کی شرم سے مجبور دوزخ میں جانا منظور".
+p179: "بچہ کش" = burdened with children; "ڈربہ بنائے" = make a coop (home) for them.
+p181: "منزل الم فیل" = the section of Quran from Sura al-Fil (alam tara); "مگر سے پنے سے بے خبر نہ ہوئی" unclear — print "مگر سے پنے سے خبر نہ ہوئی"; likely "میں بھی مکر سے، بہانے سے، بے خبر بنی رہی"? Treat as [illegible] in translation if needed.
+p181: final reading "میں بھی مکر سے سونے سے خبر نہ ہوئی" (pretended to sleep so she would not notice?) — translate with TN reading uncertain.
+p181: footnote readings approximate (three-day Quran recitation scheme "فمی بشوق"); Quran 4:28; "ہاں نہیں اور دل میں ہو بھی کہیں" — print "منہ سے ہیں نہیں اور دل میں ہو بھی کہیں".
+p182: Quran 2:284 with printed Urdu gloss; "دل، نہیں، اس کو بے گناہ سمجھتی" as printed ("دل نہیں، اس کو...").
+p183: "مردوا بناؤں" as printed (make them stand up like men? / rouse them); Quran 2:228, 2:233.
+p184: Quran 24:31 (part), 24:60 end, 24:32; "اپنی بیواؤں کو نکاح پر مجبور کرو" punctuation: print has no question mark — rendered as a question.
+p184: "کہ بیوہ کے بیٹھنے کا روادار نہ ہو گا" — sense: each resolved he would not tolerate a widow (in his family) remaining unmarried. END p184, تمت.

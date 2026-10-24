@@ -1,7 +1,7 @@
 # Ayama (ایامیٰ) — Deputy Nazir Ahmad, 1891
 
 ## Status
-PAUSED on 23 Oct 2026 at the user's request. Transcription only; no translation yet.
+Urdu transcription COMPLETE (24 Oct 2026), pp. 1–184, all 19 chapters. Translation in progress.
 There is no book.json, so the site will not pick this folder up.
 
 ## Source
@@ -11,8 +11,7 @@ There is no book.json, so the site will not pick this folder up.
 - PDF p. 9 is a later publisher's catalogue page; it is left out.
 
 ## Where it stopped
-- `wip/raw-ur.txt` has the Urdu transcription for printed pp. 1–132: chapters (fasl) 1–14 complete. Next: fasl 15 starts on p. 133.
-- The next step is p. 58 (chapter 7 continues: Maulvi Mustajab's studies).
+- `wip/raw-ur.txt` has the full Urdu transcription, printed pp. 1–184 (ends with تمت).
 - Format of raw-ur.txt: `# ` headings, `@@N` page markers, blank lines between blocks, a leading space means the line continues the previous block, `!fn N text` are footnotes with `[۱]` markers.
 
 ## Left out
@@ -22,5 +21,4 @@ There is no book.json, so the site will not pick this folder up.
 See `wip/uncertain.txt`.
 
 ## Still to do
-- Transcribe pp. 58–184 (chapters 7–19).
 - Translate, write ch01 (About this edition + Introduction) and the glossary, build book.json and chapters, check parity.
