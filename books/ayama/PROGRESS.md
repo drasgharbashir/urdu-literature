@@ -1,8 +1,8 @@
 # Ayama (ایامیٰ) — Deputy Nazir Ahmad, 1891
 
 ## Status
-Urdu transcription COMPLETE (24 Oct 2026), pp. 1–184, all 19 chapters. Translation in progress.
-There is no book.json, so the site will not pick this folder up.
+COMPLETE and reviewed (24 Oct 2026). Urdu transcription pp. 1–184, all 19 chapters, translated in full.
+book.json written with `is_published: false`; the publisher puts it live.
 
 ## Source
 - archive.org `dli.ernet.544488` ("Ayami"), Delhi Printing Works, 1891 (DLI copy, Allama Iqbal Library, University of Kashmir).
@@ -10,15 +10,18 @@ There is no book.json, so the site will not pick this folder up.
 - PDF page = printed page + 9. The text runs to printed p. 184.
 - PDF p. 9 is a later publisher's catalogue page; it is left out.
 
-## Where it stopped
-- `wip/raw-ur.txt` has the full Urdu transcription, printed pp. 1–184 (ends with تمت).
-- Format of raw-ur.txt: `# ` headings, `@@N` page markers, blank lines between blocks, a leading space means the line continues the previous block, `!fn N text` are footnotes with `[۱]` markers.
+## Layout
+- 01: About This Edition + Introduction
+- 02–20: the author's 19 chapters (fasl 1–19)
+- 21: Glossary
+- Some very long paragraphs are split where a page of the original turns, so the two columns line up. This is stated in ch01.
 
 ## Left out
 - Footnotes signed "ادیب ۱۲" are reprint-editor glosses and are dropped (see `wip/dropped.txt`). Notes signed only "۱۲" are kept as the author's.
 
 ## Uncertain readings
-See `wip/uncertain.txt`.
+See `wip/uncertain.txt`. Gaps are marked [illegible] (7 places); translator's notes mark doubtful readings and textual slips (e.g. Abel/Cain reversed in ch12).
 
-## Still to do
-- Translate, write ch01 (About this edition + Introduction) and the glossary, build book.json and chapters, check parity.
+## Checks
+- `check_lang_parity.py books/ayama/chapters`: all 21 chapters ur:ok.
+- Note-ref counts match in every chapter.
