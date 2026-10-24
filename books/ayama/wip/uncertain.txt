@@ -79,3 +79,42 @@ p83: Arabic proverb on scan reads "عند الامتحان یکرم الرجل" 
 p85: "خواص جنھوں نے ہم دیا ہوں سے" — unclear (= "ہم مولویوں سے"?); Persian couplet "عذرت از پیش می رود با ما / با خداوند غیب دان نرود" — your excuse may pass with us but not with the all-knowing Lord
 p87: hadith on scan "رب اشعث اغبر لو حلف علی اللہ لابرہ" — I normalised to اقسم; restore scan wording
 p89: "تو جائے بہر بھی ہے" unclear (= "تو جائے صبر بھی ہے"?)
+p90: "اوپر سے ڈوگڑا کا کر یا پانی" unclear (ڈونگا/ڈکار?)
+p91: "اہل لکھنؤ اس کو تو پوچھتے نہیں" — scan "اہل لکھنؤ اس کو تو پوچھتے نہیں"? unclear
+p93: "جنگلے کے پیڑ" = جنگل کے پیڑ? ; "ہذا ما الہمنی ربی" (this is what my Lord inspired me with)
+p94: "پھر خالی خوش خبری امیدوار لودہ بدانند" unclear phrase; Persian half-line "فکر ہر کس بقدر ہمت اوست" (each thinks according to his own capacity)
+p98: "سارا ڈھونڈا انیڈ" unclear (= ڈھونڈھا/ڈھانچا اینڈا?)
+p99: "اس سے محبت کرتے" (sense = نہ اس سے محبت کرتے; scan has no نہ)
+p100: "سیراب" in scan read as سراب (mirage) for sense — check
+p102: "(شرعی چیز)" after the sermon — reading of bracketed tag uncertain; may be a marker (= end of the religious piece). Keep, translate as [TN]
+p102: "فمی بشوق" = mnemonic for the seven manzils of the Quran (whole Quran weekly) — gloss in TN
+p103: "اور عادت ہے مٹھیں یا بیٹیاں دو" unclear; "آلے زخم" (= raw/fresh wound); "سنتو باندھ کر" unclear; "پڑے چولھے میں اپنا گھر، تو سنبھالے نہیں" reading
+p103: "جی، تو کیا بہلے گا" reading (ہفتہ عشرہ یہیں آ کر رہ جائیں، جی تو کیا بہلے گا)
+p104: "بھاوجیں کبھی کبھی گڑگڑالی ہیں" unclear
+p107: "اپنے گھر میں کھیل پائی" = کھُل/کھیل? (found freedom) unclear; "العاقل تکفیہ الاشارۃ" (a hint suffices for the wise)
+p108: "دوا" = دایہ/دَدا (nurse)? spelled دوا on scan — the wet-nurse/nurse; translate as "nurse"
+p108: "وتنے ہی آدمی" = اتنے ہی/ویسے ہی
+p109: text says ہابیل killed قابیل (reversed vs. tradition) — keep as printed, add TN
+p110: "آتش درکاسہ" (fire in the bowl — restless)
+p110: "ٹین بیسی لالوں" = تین بیسی (three score) لال birds (red munias)
+p111: "تو برہی پر بھتے" unclear (= "تو بری پر بھتے"? i.e., already dead) 
+p112: "میرا بننے میں/بنتے میں" unclear
+p114: 'پنڈ تو چھوٹ جائے گا' (scan looks like نپٹڈ); 'مرنا ہی بچارا' (=decided)
+p114: 'کٹوڑے' printed, normalised کٹورے; 'ہندنیاں'
+p115: 'ددا کی بغچیہ' (bundle; scan unclear); 'یہ تو منڈھا پڑ رہا ہے' (unclear, maybe منڈا); 'سموچی' (whole)
+p117: 'بے وحدت' as printed (sense: unrestrained; perhaps misprint); 'چرٹ' = cheroot; first-person narrator 'ہم' appears
+p117: 'کی بار' printed, read کئی بار
+p118: verse is by Shah Naseer (takhallus نصیر); 'ٹیس نہ جمنے دے' unclear (ٹیس/ٹپس?)
+p119: 'گوشت خر دندان سگ' Persian proverb (TN); 'اصیل مرغے کی ایک ٹانگ' idiom = obstinacy
+p119: '(اور ٹہل اور خدمت بھی منبھل)' last word unclear; maybe 'سنبھل'? render 'and even that only middling' [TN uncertain]; 'بوجھ بجھکڑ' = know-all
+p120: 'اور کورٹ کو' (printed کورٹو?, unclear); 'کچنال' (idiom, unclear sense); 'حلال خوری' = sweeper woman
+p120: 'اٹکلیس علاج' (guesswork treatment)
+p121: printed 'عادت' read as عدت (iddat) from context
+p122: 'تیس (۳۰) روپے مہینا' Bhopal allowance; 'کراماً کاتبین' recording angels (TN)
+p123: 'چھلاوا اچھلاوا کر کے' = known as Chhalawa/Uchhlawa; 'نکاحتا بی بی' = lawfully wedded wife
+p123: 'کنکنوا ہتھے سے اکھڑا ہوا ہے، پیچ لڑیں گے کیا خاک' kite idiom (printed نیچ/پیچ unclear); 'مولون' = mullah's wife/woman of mullah family; 'بغلی گھونسا' = treacherous enemy
+p125: 'کیا جانے بوا' (بوا = term of address); 'جرنیل ڈاکٹر' = civil/general surgeon? (lit. 'general doctor')
+p127: 'سکندر بیگم' = Nawab Sikandar Begum of Bhopal (r.1860-68) TN; 'تلاش تھی اور ہے' (printed 'اور ہی')
+p128: 'بیسوا' inserted above line before نازک اندام (Azadi calls her a courtesan)
+p131: 'اچھوتیاں' Nasir-ud-Din Haidar's unmarried women (TN); Quran 24:32
+p132: 'گچی گالیاں' (= foul abuse); 'نقل کفر کفر نباشد' Persian maxim (TN)

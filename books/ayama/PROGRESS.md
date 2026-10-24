@@ -11,7 +11,7 @@ There is no book.json, so the site will not pick this folder up.
 - PDF p. 9 is a later publisher's catalogue page; it is left out.
 
 ## Where it stopped
-- `wip/raw-ur.txt` has the Urdu transcription for printed pp. 1–57: chapters (fasl) 1–6 complete, and chapter 7 up to the end of p. 57.
+- `wip/raw-ur.txt` has the Urdu transcription for printed pp. 1–132: chapters (fasl) 1–9 complete, and chapter 10 up to the end of p. 89.
 - The next step is p. 58 (chapter 7 continues: Maulvi Mustajab's studies).
 - Format of raw-ur.txt: `# ` headings, `@@N` page markers, blank lines between blocks, a leading space means the line continues the previous block, `!fn N text` are footnotes with `[۱]` markers.
 
